@@ -1,0 +1,1746 @@
+{
+  "law_id": "363CO0000000360",
+  "law_title": "消費税法施行令",
+  "略称": "消令",
+  "law_num": "昭和六十三年政令第三百六十号",
+  "promulgation_date": "1988-12-30",
+  "law_revision_id": "363CO0000000360_20260901_508CO0000000096",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_law_num": "令和八年政令第九十六号",
+  "amendment_law_title": "消費税法施行令の一部を改正する政令",
+  "current_revision_status": "PreviousEnforced",
+  "article_count": 127,
+  "suppl_count": 142,
+  "has_appendix": false,
+  "articles": [
+    {
+      "num": "1",
+      "title": "第一条",
+      "caption": "（定義）",
+      "elm": "Mp-At_1",
+      "file": "articles/At_1.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "2",
+      "title": "第二条",
+      "caption": "（資産の譲渡等の範囲）",
+      "elm": "Mp-At_2",
+      "file": "articles/At_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "2_2",
+      "title": "第二条の二",
+      "caption": "（特定役務の提供の範囲）",
+      "elm": "Mp-At_2_2",
+      "file": "articles/At_2_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "2_3",
+      "title": "第二条の三",
+      "caption": "（飲食料品に含まれる資産の範囲）",
+      "elm": "Mp-At_2_3",
+      "file": "articles/At_2_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "2_4",
+      "title": "第二条の四",
+      "caption": "（飲食料品の譲渡に含まれない食事の提供を行う事業の範囲等）",
+      "elm": "Mp-At_2_4",
+      "file": "articles/At_2_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "3",
+      "title": "第三条",
+      "caption": "（公共法人等の事業年度）",
+      "elm": "Mp-At_3",
+      "file": "articles/At_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "4",
+      "title": "第四条",
+      "caption": "（棚卸資産の範囲）",
+      "elm": "Mp-At_4",
+      "file": "articles/At_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "5",
+      "title": "第五条",
+      "caption": "（調整対象固定資産の範囲）",
+      "elm": "Mp-At_5",
+      "file": "articles/At_5.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "6",
+      "title": "第六条",
+      "caption": "（資産の譲渡等が国内において行われたかどうかの判定）",
+      "elm": "Mp-At_6",
+      "file": "articles/At_6.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "7",
+      "title": "第七条",
+      "caption": "（保税地域からの引取りとみなさない場合）",
+      "elm": "Mp-At_7",
+      "file": "articles/At_7.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "8",
+      "title": "第八条",
+      "caption": "（土地の貸付けから除外される場合）",
+      "elm": "Mp-At_8",
+      "file": "articles/At_8.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "9",
+      "title": "第九条",
+      "caption": "（有価証券に類するものの範囲等）",
+      "elm": "Mp-At_9",
+      "file": "articles/At_9.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10",
+      "title": "第十条",
+      "caption": "（利子を対価とする貸付金等）",
+      "elm": "Mp-At_10",
+      "file": "articles/At_10.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "11",
+      "title": "第十一条",
+      "caption": "（物品切手に類するものの範囲）",
+      "elm": "Mp-At_11",
+      "file": "articles/At_11.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "12",
+      "title": "第十二条",
+      "caption": "（国、地方公共団体等の役務の提供から除外されるものの範囲等）",
+      "elm": "Mp-At_12",
+      "file": "articles/At_12.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "13",
+      "title": "第十三条",
+      "caption": "（外国為替業務から除かれる業務）",
+      "elm": "Mp-At_13",
+      "file": "articles/At_13.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "14",
+      "title": "第十四条",
+      "caption": "（療養、医療等の範囲）",
+      "elm": "Mp-At_14",
+      "file": "articles/At_14.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "14_2",
+      "title": "第十四条の二",
+      "caption": "（居宅サービスの範囲等）",
+      "elm": "Mp-At_14_2",
+      "file": "articles/At_14_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "14_3",
+      "title": "第十四条の三",
+      "caption": "（社会福祉事業等として行われる資産の譲渡等に類するものの範囲）",
+      "elm": "Mp-At_14_3",
+      "file": "articles/At_14_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "14_4",
+      "title": "第十四条の四",
+      "caption": "（身体障害者用物品の範囲等）",
+      "elm": "Mp-At_14_4",
+      "file": "articles/At_14_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "14_5",
+      "title": "第十四条の五",
+      "caption": "（教育に係る役務の提供の範囲）",
+      "elm": "Mp-At_14_5",
+      "file": "articles/At_14_5.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "15",
+      "title": "第十五条",
+      "caption": "（各種学校における教育に関する要件）",
+      "elm": "Mp-At_15",
+      "file": "articles/At_15.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "16",
+      "title": "第十六条",
+      "caption": "（教育に関する役務の提供に類するものの範囲）",
+      "elm": "Mp-At_16",
+      "file": "articles/At_16.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "16_2",
+      "title": "第十六条の二",
+      "caption": "（住宅の貸付けから除外される場合）",
+      "elm": "Mp-At_16_2",
+      "file": "articles/At_16_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "17",
+      "title": "第十七条",
+      "caption": "（輸出取引等の範囲）",
+      "elm": "Mp-At_17",
+      "file": "articles/At_17.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "18",
+      "title": "第十八条",
+      "caption": "（輸出物品販売場における免税販売手続等）",
+      "elm": "Mp-At_18",
+      "file": "articles/At_18.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "18_2",
+      "title": "第十八条の二",
+      "caption": "（輸出物品販売場の許可に関する手続等）",
+      "elm": "Mp-At_18_2",
+      "file": "articles/At_18_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "18_3",
+      "title": "第十八条の三",
+      "caption": "（免税手続カウンターにおける手続等の特例）",
+      "elm": "Mp-At_18_3",
+      "file": "articles/At_18_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "18_4",
+      "title": "第十八条の四",
+      "caption": "（電子情報処理組織による購入記録情報の提供の特例）",
+      "elm": "Mp-At_18_4",
+      "file": "articles/At_18_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "18_5",
+      "title": "第十八条の五",
+      "caption": "（臨時販売場を設置しようとする事業者に係る承認の申請手続等）",
+      "elm": "Mp-At_18_5",
+      "file": "articles/At_18_5.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "18_6",
+      "title": "第十八条の六",
+      "caption": "（税関長の権限の委任）",
+      "elm": "Mp-At_18_6",
+      "file": "articles/At_18_6.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "19",
+      "title": "第十九条",
+      "caption": "（基準期間の課税売上高の計算における輸出取引等に係る対価の返還等の金額の取扱い）",
+      "elm": "Mp-At_19",
+      "file": "articles/At_19.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "20",
+      "title": "第二十条",
+      "caption": "（事業を開始した日の属する課税期間等の範囲）",
+      "elm": "Mp-At_20",
+      "file": "articles/At_20.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "20_2",
+      "title": "第二十条の二",
+      "caption": "（納税義務の免除の規定の適用を受けない旨の届出等に関する特例）",
+      "elm": "Mp-At_20_2",
+      "file": "articles/At_20_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "20_3",
+      "title": "第二十条の三",
+      "caption": "（調整対象固定資産の仕入れ等が特例申告書の提出に係る課税貨物の保税地域からの引取り等である場合についての適用）",
+      "elm": "Mp-At_20_3",
+      "file": "articles/At_20_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "20_4",
+      "title": "第二十条の四",
+      "caption": "（特定期間の課税売上高の計算における輸出取引等に係る対価の返還等の金額の取扱い）",
+      "elm": "Mp-At_20_4",
+      "file": "articles/At_20_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "20_5",
+      "title": "第二十条の五",
+      "caption": "（短期事業年度の範囲等）",
+      "elm": "Mp-At_20_5",
+      "file": "articles/At_20_5.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "20_6",
+      "title": "第二十条の六",
+      "caption": "（六月の期間の特例）",
+      "elm": "Mp-At_20_6",
+      "file": "articles/At_20_6.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "21",
+      "title": "第二十一条",
+      "caption": "（相続があつた場合の納税義務の免除の特例）",
+      "elm": "Mp-At_21",
+      "file": "articles/At_21.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "22",
+      "title": "第二十二条",
+      "caption": "（合併があつた場合の納税義務の免除の特例）",
+      "elm": "Mp-At_22",
+      "file": "articles/At_22.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "23",
+      "title": "第二十三条",
+      "caption": "（分割等があつた場合の納税義務の免除の特例）",
+      "elm": "Mp-At_23",
+      "file": "articles/At_23.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "24",
+      "title": "第二十四条",
+      "caption": "（新設分割親法人の特殊関係者の範囲）",
+      "elm": "Mp-At_24",
+      "file": "articles/At_24.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "25",
+      "title": "第二十五条",
+      "caption": "（専ら非課税資産の譲渡等を行うことを目的として設立された法人の範囲等）",
+      "elm": "Mp-At_25",
+      "file": "articles/At_25.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "25_2",
+      "title": "第二十五条の二",
+      "caption": "（新規設立法人が支配される場合）",
+      "elm": "Mp-At_25_2",
+      "file": "articles/At_25_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "25_3",
+      "title": "第二十五条の三",
+      "caption": "（特殊関係法人の範囲）",
+      "elm": "Mp-At_25_3",
+      "file": "articles/At_25_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "25_4",
+      "title": "第二十五条の四",
+      "caption": "（特定新規設立法人の納税義務の免除の特例）",
+      "elm": "Mp-At_25_4",
+      "file": "articles/At_25_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "25_5",
+      "title": "第二十五条の五",
+      "caption": "（高額特定資産の範囲等）",
+      "elm": "Mp-At_25_5",
+      "file": "articles/At_25_5.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "25_6",
+      "title": "第二十五条の六",
+      "caption": "（高額特定資産の仕入れ等が特例申告書の提出に係る課税貨物の保税地域からの引取り等である場合についての適用）",
+      "elm": "Mp-At_25_6",
+      "file": "articles/At_25_6.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "26",
+      "title": "第二十六条",
+      "caption": "（信託財産に係る資産の譲渡等の帰属）",
+      "elm": "Mp-At_26",
+      "file": "articles/At_26.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "27",
+      "title": "第二十七条",
+      "caption": "（法人課税信託等の固有事業者の基準期間における課税売上高等の特例）",
+      "elm": "Mp-At_27",
+      "file": "articles/At_27.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "28",
+      "title": "第二十八条",
+      "caption": "（法人課税信託等の受託者に関する特例）",
+      "elm": "Mp-At_28",
+      "file": "articles/At_28.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "29",
+      "title": "第二十九条",
+      "caption": "（特定プラットフォーム事業者が合併等を行つた場合の取扱い等）",
+      "elm": "Mp-At_29",
+      "file": "articles/At_29.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "30",
+      "title": "第三十条",
+      "caption": "",
+      "elm": "Mp-At_30",
+      "file": "articles/At_30.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "31",
+      "title": "第三十一条",
+      "caption": "（延払条件付譲渡に係る資産の譲渡等の時期の特例）",
+      "elm": "Mp-At_31",
+      "file": "articles/At_31.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "32",
+      "title": "第三十二条",
+      "caption": "（延納の許可が取り消された場合等の処理）",
+      "elm": "Mp-At_32",
+      "file": "articles/At_32.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "33",
+      "title": "第三十三条",
+      "caption": "（納税義務の免除を受けることとなつた場合等の処理）",
+      "elm": "Mp-At_33",
+      "file": "articles/At_33.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "34",
+      "title": "第三十四条",
+      "caption": "（事業の廃止、死亡等の場合の延払条件付譲渡に係る資産の譲渡等の時期の特例）",
+      "elm": "Mp-At_34",
+      "file": "articles/At_34.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "35:37",
+      "title": "第三十五条から第三十七条まで",
+      "caption": "",
+      "elm": "Mp-At_35:37",
+      "file": "articles/At_35-37.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "38",
+      "title": "第三十八条",
+      "caption": "（個人事業者が死亡した場合又は法人が合併等をした場合の特定工事の請負に係る資産の譲渡等の時期）",
+      "elm": "Mp-At_38",
+      "file": "articles/At_38.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "39",
+      "title": "第三十九条",
+      "caption": "（公共法人等の特定工事の請負に係る資産の譲渡等の時期の特例）",
+      "elm": "Mp-At_39",
+      "file": "articles/At_39.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "40",
+      "title": "第四十条",
+      "caption": "（小規模事業者等に係る資産の譲渡等の時期の特例）",
+      "elm": "Mp-At_40",
+      "file": "articles/At_40.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "41",
+      "title": "第四十一条",
+      "caption": "（事業を開始した日の属する期間等の範囲等）",
+      "elm": "Mp-At_41",
+      "file": "articles/At_41.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "42",
+      "title": "第四十二条",
+      "caption": "（特殊な場合の個人事業者の納税地）",
+      "elm": "Mp-At_42",
+      "file": "articles/At_42.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "43",
+      "title": "第四十三条",
+      "caption": "（特殊な場合の法人の納税地）",
+      "elm": "Mp-At_43",
+      "file": "articles/At_43.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "44",
+      "title": "第四十四条",
+      "caption": "（納税地の指定）",
+      "elm": "Mp-At_44",
+      "file": "articles/At_44.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "45",
+      "title": "第四十五条",
+      "caption": "（課税資産の譲渡等及び特定課税仕入れに係る消費税の課税標準の額）",
+      "elm": "Mp-At_45",
+      "file": "articles/At_45.md",
+      "breadcrumb": "第二章　課税標準"
+    },
+    {
+      "num": "46",
+      "title": "第四十六条",
+      "caption": "（課税仕入れに係る消費税額の計算）",
+      "elm": "Mp-At_46",
+      "file": "articles/At_46.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "46_2",
+      "title": "第四十六条の二",
+      "caption": "（輸入の許可前に引き取る課税貨物に係る消費税額の控除の時期の特例）",
+      "elm": "Mp-At_46_2",
+      "file": "articles/At_46_2.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "47",
+      "title": "第四十七条",
+      "caption": "（課税売上割合に準ずる割合に係る税務署長の承認等）",
+      "elm": "Mp-At_47",
+      "file": "articles/At_47.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "47_2",
+      "title": "第四十七条の二",
+      "caption": "（当該課税期間の課税売上高の計算における輸出取引等に係る対価の返還等の金額の取扱い）",
+      "elm": "Mp-At_47_2",
+      "file": "articles/At_47_2.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "48",
+      "title": "第四十八条",
+      "caption": "（課税売上割合の計算方法）",
+      "elm": "Mp-At_48",
+      "file": "articles/At_48.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "49",
+      "title": "第四十九条",
+      "caption": "（課税仕入れ等の税額の控除に係る帳簿等の記載事項等）",
+      "elm": "Mp-At_49",
+      "file": "articles/At_49.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "50",
+      "title": "第五十条",
+      "caption": "（課税仕入れ等の税額の控除に係る帳簿等の保存期間等）",
+      "elm": "Mp-At_50",
+      "file": "articles/At_50.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "50_2",
+      "title": "第五十条の二",
+      "caption": "（仕入れに係る消費税額の控除の対象外となる居住用賃貸建物の範囲）",
+      "elm": "Mp-At_50_2",
+      "file": "articles/At_50_2.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "51",
+      "title": "第五十一条",
+      "caption": "（非課税資産の輸出等を行つた場合の課税売上割合の計算の方法等）",
+      "elm": "Mp-At_51",
+      "file": "articles/At_51.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "52",
+      "title": "第五十二条",
+      "caption": "（仕入れに係る対価の返還等を受けた金額に係る消費税額の計算の特例）",
+      "elm": "Mp-At_52",
+      "file": "articles/At_52.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "52_2",
+      "title": "第五十二条の二",
+      "caption": "（仕入れに係る対価の返還等を受けた場合の仕入れに係る消費税額の控除の特例）",
+      "elm": "Mp-At_52_2",
+      "file": "articles/At_52_2.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "53",
+      "title": "第五十三条",
+      "caption": "（課税売上割合が著しく変動した場合等）",
+      "elm": "Mp-At_53",
+      "file": "articles/At_53.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "53_2",
+      "title": "第五十三条の二",
+      "caption": "（課税賃貸割合等の計算方法）",
+      "elm": "Mp-At_53_2",
+      "file": "articles/At_53_2.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "53_3",
+      "title": "第五十三条の三",
+      "caption": "（納税義務の免除を受けないこととなつた場合の居住用賃貸建物の仕入れの日）",
+      "elm": "Mp-At_53_3",
+      "file": "articles/At_53_3.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "53_4",
+      "title": "第五十三条の四",
+      "caption": "（仕入れに係る消費税額の調整の対象となる居住用賃貸建物の範囲等）",
+      "elm": "Mp-At_53_4",
+      "file": "articles/At_53_4.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "54",
+      "title": "第五十四条",
+      "caption": "（納税義務の免除を受けないこととなつた場合等の棚卸資産の取得価額）",
+      "elm": "Mp-At_54",
+      "file": "articles/At_54.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "55",
+      "title": "第五十五条",
+      "caption": "（仕入れに係る消費税額の控除の特例の適用がない分割等に係る課税期間）",
+      "elm": "Mp-At_55",
+      "file": "articles/At_55.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "56",
+      "title": "第五十六条",
+      "caption": "（事業を開始した日の属する課税期間等の範囲）",
+      "elm": "Mp-At_56",
+      "file": "articles/At_56.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "57",
+      "title": "第五十七条",
+      "caption": "（中小事業者の仕入れに係る消費税額の控除の特例）",
+      "elm": "Mp-At_57",
+      "file": "articles/At_57.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "57_2",
+      "title": "第五十七条の二",
+      "caption": "（中小事業者の仕入れに係る消費税額の控除の特例の適用を受ける旨の届出等に関する特例）",
+      "elm": "Mp-At_57_2",
+      "file": "articles/At_57_2.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "57_3",
+      "title": "第五十七条の三",
+      "caption": "（災害等があつた場合の中小事業者の仕入れに係る消費税額の控除の特例の届出に関する特例）",
+      "elm": "Mp-At_57_3",
+      "file": "articles/At_57_3.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "58",
+      "title": "第五十八条",
+      "caption": "（売上げに係る対価の返還等の金額に係る消費税額の計算の特例）",
+      "elm": "Mp-At_58",
+      "file": "articles/At_58.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "58_2",
+      "title": "第五十八条の二",
+      "caption": "（売上げに係る対価の返還等に係る帳簿の記載事項等）",
+      "elm": "Mp-At_58_2",
+      "file": "articles/At_58_2.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "58_3",
+      "title": "第五十八条の三",
+      "caption": "（特定課税仕入れに係る対価の返還等に係る帳簿の記載事項等）",
+      "elm": "Mp-At_58_3",
+      "file": "articles/At_58_3.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "59",
+      "title": "第五十九条",
+      "caption": "（貸倒れの範囲等）",
+      "elm": "Mp-At_59",
+      "file": "articles/At_59.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "60",
+      "title": "第六十条",
+      "caption": "（貸倒れ等により領収をすることができなくなつた金額に軽減対象課税資産の譲渡等に係るものが含まれる場合の消費税額の計算の特例）",
+      "elm": "Mp-At_60",
+      "file": "articles/At_60.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "61",
+      "title": "第六十一条",
+      "caption": "",
+      "elm": "Mp-At_61",
+      "file": "articles/At_61.md",
+      "breadcrumb": "第三章　税額控除等"
+    },
+    {
+      "num": "62",
+      "title": "第六十二条",
+      "caption": "（課税標準額に対する消費税額の算出方法の特例）",
+      "elm": "Mp-At_62",
+      "file": "articles/At_62.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "63",
+      "title": "第六十三条",
+      "caption": "（死亡の場合の確定申告等の特例）",
+      "elm": "Mp-At_63",
+      "file": "articles/At_63.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "63_2",
+      "title": "第六十三条の二",
+      "caption": "（申告期限延長法人に係る中間申告等の特例）",
+      "elm": "Mp-At_63_2",
+      "file": "articles/At_63_2.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "63_3",
+      "title": "第六十三条の三",
+      "caption": "（電子情報処理組織による申告の特例）",
+      "elm": "Mp-At_63_3",
+      "file": "articles/At_63_3.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "64",
+      "title": "第六十四条",
+      "caption": "（仕入れに係る消費税額の控除不足額の還付の手続）",
+      "elm": "Mp-At_64",
+      "file": "articles/At_64.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "65",
+      "title": "第六十五条",
+      "caption": "（還付すべき仕入れに係る消費税額の充当の順序）",
+      "elm": "Mp-At_65",
+      "file": "articles/At_65.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "66",
+      "title": "第六十六条",
+      "caption": "（特定課税仕入れに係る消費税額に控除不足額が生ずる場合の申告書の記載事項）",
+      "elm": "Mp-At_66",
+      "file": "articles/At_66.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "67",
+      "title": "第六十七条",
+      "caption": "（中間納付額の控除不足額の還付の手続）",
+      "elm": "Mp-At_67",
+      "file": "articles/At_67.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "67_2",
+      "title": "第六十七条の二",
+      "caption": "（担保の提供命令の手続）",
+      "elm": "Mp-At_67_2",
+      "file": "articles/At_67_2.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "68",
+      "title": "第六十八条",
+      "caption": "（還付すべき中間納付額の充当の順序）",
+      "elm": "Mp-At_68",
+      "file": "articles/At_68.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "69",
+      "title": "第六十九条",
+      "caption": "（中間納付額に係る延滞税の還付金額及び還付加算金の額の計算）",
+      "elm": "Mp-At_69",
+      "file": "articles/At_69.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "70",
+      "title": "第七十条",
+      "caption": "（更正等又は決定による中間納付額に係る延滞税の還付金額及び還付加算金の額の計算等）",
+      "elm": "Mp-At_70",
+      "file": "articles/At_70.md",
+      "breadcrumb": "第四章　申告、納付、還付等"
+    },
+    {
+      "num": "70_2",
+      "title": "第七十条の二",
+      "caption": "（適格請求書発行事業者の登録申請書の提出期限）",
+      "elm": "Mp-At_70_2",
+      "file": "articles/At_70_2.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_3",
+      "title": "第七十条の三",
+      "caption": "（特定国外事業者に係る適格請求書発行事業者の登録申請書の添付書類）",
+      "elm": "Mp-At_70_3",
+      "file": "articles/At_70_3.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_4",
+      "title": "第七十条の四",
+      "caption": "（登録の時期等に関する特例）",
+      "elm": "Mp-At_70_4",
+      "file": "articles/At_70_4.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_5",
+      "title": "第七十条の五",
+      "caption": "（適格請求書発行事業者登録簿の登載事項等）",
+      "elm": "Mp-At_70_5",
+      "file": "articles/At_70_5.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_6",
+      "title": "第七十条の六",
+      "caption": "（適格請求書発行事業者の事業を承継した相続人の手続等）",
+      "elm": "Mp-At_70_6",
+      "file": "articles/At_70_6.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_7",
+      "title": "第七十条の七",
+      "caption": "（登録取消しの届出があつた場合におけるみなし登録期間の特例）",
+      "elm": "Mp-At_70_7",
+      "file": "articles/At_70_7.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_8",
+      "title": "第七十条の八",
+      "caption": "（適格請求書発行事業者の事業を承継した相続人の棚卸資産に係る消費税額の調整）",
+      "elm": "Mp-At_70_8",
+      "file": "articles/At_70_8.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_9",
+      "title": "第七十条の九",
+      "caption": "（適格請求書の交付を免除する課税資産の譲渡等の範囲等）",
+      "elm": "Mp-At_70_9",
+      "file": "articles/At_70_9.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_10",
+      "title": "第七十条の十",
+      "caption": "（適格請求書に記載すべき消費税額等の計算）",
+      "elm": "Mp-At_70_10",
+      "file": "articles/At_70_10.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_11",
+      "title": "第七十条の十一",
+      "caption": "（適格簡易請求書の交付が認められる事業の範囲）",
+      "elm": "Mp-At_70_11",
+      "file": "articles/At_70_11.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_12",
+      "title": "第七十条の十二",
+      "caption": "（媒介者等による適格請求書等の交付の特例）",
+      "elm": "Mp-At_70_12",
+      "file": "articles/At_70_12.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_13",
+      "title": "第七十条の十三",
+      "caption": "（交付した適格請求書の写し等の保存）",
+      "elm": "Mp-At_70_13",
+      "file": "articles/At_70_13.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "70_14",
+      "title": "第七十条の十四",
+      "caption": "（業務執行組合員の範囲等）",
+      "elm": "Mp-At_70_14",
+      "file": "articles/At_70_14.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "71",
+      "title": "第七十一条",
+      "caption": "（帳簿の備付け等）",
+      "elm": "Mp-At_71",
+      "file": "articles/At_71.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "71_2",
+      "title": "第七十一条の二",
+      "caption": "（電磁的記録に記録された事項に関する重加算税の特例の対象となる電磁的記録の範囲等）",
+      "elm": "Mp-At_71_2",
+      "file": "articles/At_71_2.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "72",
+      "title": "第七十二条",
+      "caption": "（一般会計とみなされる特別会計の範囲等）",
+      "elm": "Mp-At_72",
+      "file": "articles/At_72.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "73",
+      "title": "第七十三条",
+      "caption": "（国又は地方公共団体が行つた資産の譲渡等の時期の特例）",
+      "elm": "Mp-At_73",
+      "file": "articles/At_73.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "74",
+      "title": "第七十四条",
+      "caption": "（国又は地方公共団体に準ずる法人の資産の譲渡等の時期の特例）",
+      "elm": "Mp-At_74",
+      "file": "articles/At_74.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "75",
+      "title": "第七十五条",
+      "caption": "（国、地方公共団体等の仕入れに係る消費税額の特例）",
+      "elm": "Mp-At_75",
+      "file": "articles/At_75.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "76",
+      "title": "第七十六条",
+      "caption": "（国、地方公共団体等の申告期限の特例）",
+      "elm": "Mp-At_76",
+      "file": "articles/At_76.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "77",
+      "title": "第七十七条",
+      "caption": "（国、地方公共団体等の帳簿の記載事項の特例）",
+      "elm": "Mp-At_77",
+      "file": "articles/At_77.md",
+      "breadcrumb": "第五章　雑則"
+    },
+    {
+      "num": "78",
+      "title": "第七十八条",
+      "caption": "（法別表第三に掲げる外国に本店又は主たる事務所を有する法人の指定）",
+      "elm": "Mp-At_78",
+      "file": "articles/At_78.md",
+      "breadcrumb": "第五章　雑則"
+    }
+  ],
+  "suppl": [
+    {
+      "amend_law_num": "",
+      "label": "附　則",
+      "file": "suppl/制定附則.md"
+    },
+    {
+      "amend_law_num": "平成二年三月三〇日政令第六三号",
+      "label": "附　則",
+      "file": "suppl/平成二年三月三〇日政令第六三号.md"
+    },
+    {
+      "amend_law_num": "平成二年七月一〇日政令第二一四号",
+      "label": "附　則",
+      "file": "suppl/平成二年七月一〇日政令第二一四号.md"
+    },
+    {
+      "amend_law_num": "平成二年七月二〇日政令第二二一号",
+      "label": "附　則",
+      "file": "suppl/平成二年七月二〇日政令第二二一号.md"
+    },
+    {
+      "amend_law_num": "平成二年八月一日政令第二三七号",
+      "label": "附　則",
+      "file": "suppl/平成二年八月一日政令第二三七号.md"
+    },
+    {
+      "amend_law_num": "平成二年九月二八日政令第二九〇号",
+      "label": "附　則",
+      "file": "suppl/平成二年九月二八日政令第二九〇号.md"
+    },
+    {
+      "amend_law_num": "平成三年六月七日政令第二〇一号",
+      "label": "附　則",
+      "file": "suppl/平成三年六月七日政令第二〇一号.md"
+    },
+    {
+      "amend_law_num": "平成四年三月三一日政令第九二号",
+      "label": "附　則",
+      "file": "suppl/平成四年三月三一日政令第九二号.md"
+    },
+    {
+      "amend_law_num": "平成五年三月二四日政令第五四号",
+      "label": "附　則",
+      "file": "suppl/平成五年三月二四日政令第五四号.md"
+    },
+    {
+      "amend_law_num": "平成六年三月三一日政令第一一三号",
+      "label": "附　則",
+      "file": "suppl/平成六年三月三一日政令第一一三号.md"
+    },
+    {
+      "amend_law_num": "平成六年一二月二六日政令第四一一号",
+      "label": "附　則",
+      "file": "suppl/平成六年一二月二六日政令第四一一号.md"
+    },
+    {
+      "amend_law_num": "平成七年七月二八日政令第三〇三号",
+      "label": "附　則",
+      "file": "suppl/平成七年七月二八日政令第三〇三号.md"
+    },
+    {
+      "amend_law_num": "平成七年九月二七日政令第三四一号",
+      "label": "附　則",
+      "file": "suppl/平成七年九月二七日政令第三四一号.md"
+    },
+    {
+      "amend_law_num": "平成七年一〇月一八日政令第三五九号",
+      "label": "附　則",
+      "file": "suppl/平成七年一〇月一八日政令第三五九号.md"
+    },
+    {
+      "amend_law_num": "平成八年三月二五日政令第四二号",
+      "label": "附　則",
+      "file": "suppl/平成八年三月二五日政令第四二号.md"
+    },
+    {
+      "amend_law_num": "平成八年三月三一日政令第八六号",
+      "label": "附　則",
+      "file": "suppl/平成八年三月三一日政令第八六号.md"
+    },
+    {
+      "amend_law_num": "平成八年九月六日政令第二六四号",
+      "label": "附　則",
+      "file": "suppl/平成八年九月六日政令第二六四号.md"
+    },
+    {
+      "amend_law_num": "平成八年一二月一八日政令第三三六号",
+      "label": "附　則",
+      "file": "suppl/平成八年一二月一八日政令第三三六号.md"
+    },
+    {
+      "amend_law_num": "平成九年三月二八日政令第八四号",
+      "label": "附　則",
+      "file": "suppl/平成九年三月二八日政令第八四号.md"
+    },
+    {
+      "amend_law_num": "平成九年一二月二五日政令第三八三号",
+      "label": "附　則",
+      "file": "suppl/平成九年一二月二五日政令第三八三号.md"
+    },
+    {
+      "amend_law_num": "平成一〇年三月三一日政令第一〇六号",
+      "label": "附　則",
+      "file": "suppl/平成一〇年三月三一日政令第一〇六号.md"
+    },
+    {
+      "amend_law_num": "平成一〇年一一月二〇日政令第三六八号",
+      "label": "附　則",
+      "file": "suppl/平成一〇年一一月二〇日政令第三六八号.md"
+    },
+    {
+      "amend_law_num": "平成一〇年一一月二〇日政令第三六九号",
+      "label": "附　則",
+      "file": "suppl/平成一〇年一一月二〇日政令第三六九号.md"
+    },
+    {
+      "amend_law_num": "平成一〇年一一月二六日政令第三七二号",
+      "label": "附　則",
+      "file": "suppl/平成一〇年一一月二六日政令第三七二号.md"
+    },
+    {
+      "amend_law_num": "平成一〇年一二月二八日政令第四二一号",
+      "label": "附　則",
+      "file": "suppl/平成一〇年一二月二八日政令第四二一号.md"
+    },
+    {
+      "amend_law_num": "平成一一年三月三一日政令第一〇四号",
+      "label": "附　則",
+      "file": "suppl/平成一一年三月三一日政令第一〇四号.md"
+    },
+    {
+      "amend_law_num": "平成一一年三月三一日政令第一二二号",
+      "label": "附　則",
+      "file": "suppl/平成一一年三月三一日政令第一二二号.md"
+    },
+    {
+      "amend_law_num": "平成一一年九月三日政令第二六二号",
+      "label": "附　則",
+      "file": "suppl/平成一一年九月三日政令第二六二号.md"
+    },
+    {
+      "amend_law_num": "平成一二年三月二三日政令第八六号",
+      "label": "附　則",
+      "file": "suppl/平成一二年三月二三日政令第八六号.md"
+    },
+    {
+      "amend_law_num": "平成一二年三月三一日政令第一四七号",
+      "label": "附　則",
+      "file": "suppl/平成一二年三月三一日政令第一四七号.md"
+    },
+    {
+      "amend_law_num": "平成一二年六月七日政令第三〇七号",
+      "label": "附　則",
+      "file": "suppl/平成一二年六月七日政令第三〇七号.md"
+    },
+    {
+      "amend_law_num": "平成一二年六月七日政令第三三四号",
+      "label": "附　則",
+      "file": "suppl/平成一二年六月七日政令第三三四号.md"
+    },
+    {
+      "amend_law_num": "平成一二年七月一二日政令第三七六号",
+      "label": "附　則",
+      "file": "suppl/平成一二年七月一二日政令第三七六号.md"
+    },
+    {
+      "amend_law_num": "平成一二年一〇月一二日政令第四四八号",
+      "label": "附　則",
+      "file": "suppl/平成一二年一〇月一二日政令第四四八号.md"
+    },
+    {
+      "amend_law_num": "平成一二年一一月一七日政令第四八二号",
+      "label": "附　則",
+      "file": "suppl/平成一二年一一月一七日政令第四八二号.md"
+    },
+    {
+      "amend_law_num": "平成一二年一二月二二日政令第五三三号",
+      "label": "附　則",
+      "file": "suppl/平成一二年一二月二二日政令第五三三号.md"
+    },
+    {
+      "amend_law_num": "平成一三年三月三〇日政令第一三九号",
+      "label": "附　則",
+      "file": "suppl/平成一三年三月三〇日政令第一三九号.md"
+    },
+    {
+      "amend_law_num": "平成一三年八月一五日政令第二七四号",
+      "label": "附　則",
+      "file": "suppl/平成一三年八月一五日政令第二七四号.md"
+    },
+    {
+      "amend_law_num": "平成一三年九月五日政令第二八六号",
+      "label": "附　則",
+      "file": "suppl/平成一三年九月五日政令第二八六号.md"
+    },
+    {
+      "amend_law_num": "平成一三年一一月三〇日政令第三七五号",
+      "label": "附　則",
+      "file": "suppl/平成一三年一一月三〇日政令第三七五号.md"
+    },
+    {
+      "amend_law_num": "平成一三年一一月三〇日政令第三八三号",
+      "label": "附　則",
+      "file": "suppl/平成一三年一一月三〇日政令第三八三号.md"
+    },
+    {
+      "amend_law_num": "平成一四年三月三一日政令第一〇七号",
+      "label": "附　則",
+      "file": "suppl/平成一四年三月三一日政令第一〇七号.md"
+    },
+    {
+      "amend_law_num": "平成一四年六月五日政令第一九五号",
+      "label": "附　則",
+      "file": "suppl/平成一四年六月五日政令第一九五号.md"
+    },
+    {
+      "amend_law_num": "平成一四年六月五日政令第一九七号",
+      "label": "附　則",
+      "file": "suppl/平成一四年六月五日政令第一九七号.md"
+    },
+    {
+      "amend_law_num": "平成一四年八月一日政令第二七一号",
+      "label": "附　則",
+      "file": "suppl/平成一四年八月一日政令第二七一号.md"
+    },
+    {
+      "amend_law_num": "平成一四年一二月六日政令第三六三号",
+      "label": "附　則",
+      "file": "suppl/平成一四年一二月六日政令第三六三号.md"
+    },
+    {
+      "amend_law_num": "平成一四年一二月一八日政令第三八六号",
+      "label": "附　則",
+      "file": "suppl/平成一四年一二月一八日政令第三八六号.md"
+    },
+    {
+      "amend_law_num": "平成一五年三月三一日政令第一三五号",
+      "label": "附　則",
+      "file": "suppl/平成一五年三月三一日政令第一三五号.md"
+    },
+    {
+      "amend_law_num": "平成一五年一二月三日政令第四七六号",
+      "label": "附　則",
+      "file": "suppl/平成一五年一二月三日政令第四七六号.md"
+    },
+    {
+      "amend_law_num": "平成一五年一二月一〇日政令第五〇五号",
+      "label": "附　則",
+      "file": "suppl/平成一五年一二月一〇日政令第五〇五号.md"
+    },
+    {
+      "amend_law_num": "平成一五年一二月一二日政令第五一六号",
+      "label": "附　則",
+      "file": "suppl/平成一五年一二月一二日政令第五一六号.md"
+    },
+    {
+      "amend_law_num": "平成一六年三月三一日政令第一〇三号",
+      "label": "附　則",
+      "file": "suppl/平成一六年三月三一日政令第一〇三号.md"
+    },
+    {
+      "amend_law_num": "平成一六年九月一五日政令第二七五号",
+      "label": "附　則",
+      "file": "suppl/平成一六年九月一五日政令第二七五号.md"
+    },
+    {
+      "amend_law_num": "平成一六年一〇月二〇日政令第三一八号",
+      "label": "附　則",
+      "file": "suppl/平成一六年一〇月二〇日政令第三一八号.md"
+    },
+    {
+      "amend_law_num": "平成一六年一一月八日政令第三四六号",
+      "label": "附　則",
+      "file": "suppl/平成一六年一一月八日政令第三四六号.md"
+    },
+    {
+      "amend_law_num": "平成一六年一二月一七日政令第四〇二号",
+      "label": "附　則",
+      "file": "suppl/平成一六年一二月一七日政令第四〇二号.md"
+    },
+    {
+      "amend_law_num": "平成一六年一二月二二日政令第四一二号",
+      "label": "附　則",
+      "file": "suppl/平成一六年一二月二二日政令第四一二号.md"
+    },
+    {
+      "amend_law_num": "平成一七年一月四日政令第一号",
+      "label": "附　則",
+      "file": "suppl/平成一七年一月四日政令第一号.md"
+    },
+    {
+      "amend_law_num": "平成一七年三月一八日政令第五五号",
+      "label": "附　則",
+      "file": "suppl/平成一七年三月一八日政令第五五号.md"
+    },
+    {
+      "amend_law_num": "平成一七年三月三一日政令第一〇二号",
+      "label": "附　則",
+      "file": "suppl/平成一七年三月三一日政令第一〇二号.md"
+    },
+    {
+      "amend_law_num": "平成一七年六月一日政令第一九五号",
+      "label": "附　則",
+      "file": "suppl/平成一七年六月一日政令第一九五号.md"
+    },
+    {
+      "amend_law_num": "平成一七年六月二九日政令第二三一号",
+      "label": "附　則",
+      "file": "suppl/平成一七年六月二九日政令第二三一号.md"
+    },
+    {
+      "amend_law_num": "平成一七年七月二一日政令第二四七号",
+      "label": "附　則",
+      "file": "suppl/平成一七年七月二一日政令第二四七号.md"
+    },
+    {
+      "amend_law_num": "平成一七年七月二一日政令第二四九号",
+      "label": "附　則",
+      "file": "suppl/平成一七年七月二一日政令第二四九号.md"
+    },
+    {
+      "amend_law_num": "平成一七年一〇月二八日政令第三二八号",
+      "label": "附　則",
+      "file": "suppl/平成一七年一〇月二八日政令第三二八号.md"
+    },
+    {
+      "amend_law_num": "平成一八年一月二五日政令第一〇号",
+      "label": "附　則",
+      "file": "suppl/平成一八年一月二五日政令第一〇号.md"
+    },
+    {
+      "amend_law_num": "平成一八年二月三日政令第一九号",
+      "label": "附　則",
+      "file": "suppl/平成一八年二月三日政令第一九号.md"
+    },
+    {
+      "amend_law_num": "平成一八年三月一〇日政令第三七号",
+      "label": "附　則",
+      "file": "suppl/平成一八年三月一〇日政令第三七号.md"
+    },
+    {
+      "amend_law_num": "平成一八年三月三一日政令第一二九号",
+      "label": "附　則",
+      "file": "suppl/平成一八年三月三一日政令第一二九号.md"
+    },
+    {
+      "amend_law_num": "平成一八年三月三一日政令第一六五号",
+      "label": "附　則",
+      "file": "suppl/平成一八年三月三一日政令第一六五号.md"
+    },
+    {
+      "amend_law_num": "平成一八年三月三一日政令第一六七号",
+      "label": "附　則",
+      "file": "suppl/平成一八年三月三一日政令第一六七号.md"
+    },
+    {
+      "amend_law_num": "平成一八年五月八日政令第一九三号",
+      "label": "附　則",
+      "file": "suppl/平成一八年五月八日政令第一九三号.md"
+    },
+    {
+      "amend_law_num": "平成一八年六月一四日政令第二一四号",
+      "label": "附　則",
+      "file": "suppl/平成一八年六月一四日政令第二一四号.md"
+    },
+    {
+      "amend_law_num": "平成一八年九月二六日政令第三二〇号",
+      "label": "附　則",
+      "file": "suppl/平成一八年九月二六日政令第三二〇号.md"
+    },
+    {
+      "amend_law_num": "平成一九年一月四日政令第三号",
+      "label": "附　則",
+      "file": "suppl/平成一九年一月四日政令第三号.md"
+    },
+    {
+      "amend_law_num": "平成一九年三月三〇日政令第八七号",
+      "label": "附　則",
+      "file": "suppl/平成一九年三月三〇日政令第八七号.md"
+    },
+    {
+      "amend_law_num": "平成一九年八月三日政令第二三三号",
+      "label": "附　則",
+      "file": "suppl/平成一九年八月三日政令第二三三号.md"
+    },
+    {
+      "amend_law_num": "平成一九年八月三日政令第二三五号",
+      "label": "附　則",
+      "file": "suppl/平成一九年八月三日政令第二三五号.md"
+    },
+    {
+      "amend_law_num": "平成一九年九月二〇日政令第二九一号",
+      "label": "附　則",
+      "file": "suppl/平成一九年九月二〇日政令第二九一号.md"
+    },
+    {
+      "amend_law_num": "平成一九年一二月一四日政令第三六九号",
+      "label": "附　則",
+      "file": "suppl/平成一九年一二月一四日政令第三六九号.md"
+    },
+    {
+      "amend_law_num": "平成二〇年三月三一日政令第一一七号",
+      "label": "附　則",
+      "file": "suppl/平成二〇年三月三一日政令第一一七号.md"
+    },
+    {
+      "amend_law_num": "平成二〇年四月二三日政令第一四六号",
+      "label": "附　則",
+      "file": "suppl/平成二〇年四月二三日政令第一四六号.md"
+    },
+    {
+      "amend_law_num": "平成二〇年四月三〇日政令第一五八号",
+      "label": "附　則",
+      "file": "suppl/平成二〇年四月三〇日政令第一五八号.md"
+    },
+    {
+      "amend_law_num": "平成二〇年六月一八日政令第一九七号",
+      "label": "附　則",
+      "file": "suppl/平成二〇年六月一八日政令第一九七号.md"
+    },
+    {
+      "amend_law_num": "平成二〇年七月四日政令第二一九号",
+      "label": "附　則",
+      "file": "suppl/平成二〇年七月四日政令第二一九号.md"
+    },
+    {
+      "amend_law_num": "平成二一年一月二八日政令第一〇号",
+      "label": "附　則",
+      "file": "suppl/平成二一年一月二八日政令第一〇号.md"
+    },
+    {
+      "amend_law_num": "平成二一年三月二五日政令第五三号",
+      "label": "附　則",
+      "file": "suppl/平成二一年三月二五日政令第五三号.md"
+    },
+    {
+      "amend_law_num": "平成二一年三月三一日政令第一〇六号",
+      "label": "附　則",
+      "file": "suppl/平成二一年三月三一日政令第一〇六号.md"
+    },
+    {
+      "amend_law_num": "平成二一年七月一五日政令第一八三号",
+      "label": "附　則",
+      "file": "suppl/平成二一年七月一五日政令第一八三号.md"
+    },
+    {
+      "amend_law_num": "平成二一年一二月四日政令第二七七号",
+      "label": "附　則",
+      "file": "suppl/平成二一年一二月四日政令第二七七号.md"
+    },
+    {
+      "amend_law_num": "平成二二年三月二五日政令第四一号",
+      "label": "附　則",
+      "file": "suppl/平成二二年三月二五日政令第四一号.md"
+    },
+    {
+      "amend_law_num": "平成二二年三月三一日政令第五四号",
+      "label": "附　則",
+      "file": "suppl/平成二二年三月三一日政令第五四号.md"
+    },
+    {
+      "amend_law_num": "平成二二年三月三一日政令第七一号",
+      "label": "附　則",
+      "file": "suppl/平成二二年三月三一日政令第七一号.md"
+    },
+    {
+      "amend_law_num": "平成二三年三月三一日政令第八八号",
+      "label": "附　則",
+      "file": "suppl/平成二三年三月三一日政令第八八号.md"
+    },
+    {
+      "amend_law_num": "平成二三年六月二四日政令第一八一号",
+      "label": "附　則",
+      "file": "suppl/平成二三年六月二四日政令第一八一号.md"
+    },
+    {
+      "amend_law_num": "平成二三年六月三〇日政令第一九八号",
+      "label": "附　則",
+      "file": "suppl/平成二三年六月三〇日政令第一九八号.md"
+    },
+    {
+      "amend_law_num": "平成二三年七月二二日政令第二二六号",
+      "label": "附　則",
+      "file": "suppl/平成二三年七月二二日政令第二二六号.md"
+    },
+    {
+      "amend_law_num": "平成二三年七月二九日政令第二三五号",
+      "label": "附　則",
+      "file": "suppl/平成二三年七月二九日政令第二三五号.md"
+    },
+    {
+      "amend_law_num": "平成二三年九月二二日政令第二九六号",
+      "label": "附　則",
+      "file": "suppl/平成二三年九月二二日政令第二九六号.md"
+    },
+    {
+      "amend_law_num": "平成二三年九月三〇日政令第三〇五号",
+      "label": "附　則",
+      "file": "suppl/平成二三年九月三〇日政令第三〇五号.md"
+    },
+    {
+      "amend_law_num": "平成二三年一二月二日政令第三七六号",
+      "label": "附　則",
+      "file": "suppl/平成二三年一二月二日政令第三七六号.md"
+    },
+    {
+      "amend_law_num": "平成二三年一二月二日政令第三八一号",
+      "label": "附　則",
+      "file": "suppl/平成二三年一二月二日政令第三八一号.md"
+    },
+    {
+      "amend_law_num": "平成二四年一月二七日政令第一九号",
+      "label": "附　則",
+      "file": "suppl/平成二四年一月二七日政令第一九号.md"
+    },
+    {
+      "amend_law_num": "平成二四年三月三一日政令第一〇三号",
+      "label": "附　則",
+      "file": "suppl/平成二四年三月三一日政令第一〇三号.md"
+    },
+    {
+      "amend_law_num": "平成二五年一月一八日政令第五号",
+      "label": "附　則",
+      "file": "suppl/平成二五年一月一八日政令第五号.md"
+    },
+    {
+      "amend_law_num": "平成二五年二月六日政令第二八号",
+      "label": "附　則",
+      "file": "suppl/平成二五年二月六日政令第二八号.md"
+    },
+    {
+      "amend_law_num": "平成二五年三月一三日政令第五六号",
+      "label": "附　則",
+      "file": "suppl/平成二五年三月一三日政令第五六号.md"
+    },
+    {
+      "amend_law_num": "平成二五年四月一二日政令第一二二号",
+      "label": "附　則",
+      "file": "suppl/平成二五年四月一二日政令第一二二号.md"
+    },
+    {
+      "amend_law_num": "平成二五年五月三一日政令第一六七号",
+      "label": "附　則",
+      "file": "suppl/平成二五年五月三一日政令第一六七号.md"
+    },
+    {
+      "amend_law_num": "平成二五年一〇月三〇日政令第三〇四号",
+      "label": "附　則",
+      "file": "suppl/平成二五年一〇月三〇日政令第三〇四号.md"
+    },
+    {
+      "amend_law_num": "平成二六年三月二四日政令第七三号",
+      "label": "附　則",
+      "file": "suppl/平成二六年三月二四日政令第七三号.md"
+    },
+    {
+      "amend_law_num": "平成二六年三月三一日政令第一四一号",
+      "label": "附　則",
+      "file": "suppl/平成二六年三月三一日政令第一四一号.md"
+    },
+    {
+      "amend_law_num": "平成二六年八月二〇日政令第二八九号",
+      "label": "附　則",
+      "file": "suppl/平成二六年八月二〇日政令第二八九号.md"
+    },
+    {
+      "amend_law_num": "平成二六年九月三〇日政令第三一七号",
+      "label": "附　則",
+      "file": "suppl/平成二六年九月三〇日政令第三一七号.md"
+    },
+    {
+      "amend_law_num": "平成二六年一一月一二日政令第三五七号",
+      "label": "附　則",
+      "file": "suppl/平成二六年一一月一二日政令第三五七号.md"
+    },
+    {
+      "amend_law_num": "平成二七年三月二五日政令第九三号",
+      "label": "附　則",
+      "file": "suppl/平成二七年三月二五日政令第九三号.md"
+    },
+    {
+      "amend_law_num": "平成二七年三月三一日政令第一四五号",
+      "label": "附　則",
+      "file": "suppl/平成二七年三月三一日政令第一四五号.md"
+    },
+    {
+      "amend_law_num": "平成二七年九月三〇日政令第三四四号",
+      "label": "附　則",
+      "file": "suppl/平成二七年九月三〇日政令第三四四号.md"
+    },
+    {
+      "amend_law_num": "平成二七年九月三〇日政令第三四六号",
+      "label": "附　則",
+      "file": "suppl/平成二七年九月三〇日政令第三四六号.md"
+    },
+    {
+      "amend_law_num": "平成二七年一一月二六日政令第三九二号",
+      "label": "附　則",
+      "file": "suppl/平成二七年一一月二六日政令第三九二号.md"
+    },
+    {
+      "amend_law_num": "平成二八年二月一七日政令第四三号",
+      "label": "附　則",
+      "file": "suppl/平成二八年二月一七日政令第四三号.md"
+    },
+    {
+      "amend_law_num": "平成二八年二月二四日政令第四八号",
+      "label": "附　則",
+      "file": "suppl/平成二八年二月二四日政令第四八号.md"
+    },
+    {
+      "amend_law_num": "平成二八年三月三一日政令第一四八号",
+      "label": "附　則",
+      "file": "suppl/平成二八年三月三一日政令第一四八号.md"
+    },
+    {
+      "amend_law_num": "平成二八年一一月二八日政令第三五八号",
+      "label": "附　則",
+      "file": "suppl/平成二八年一一月二八日政令第三五八号.md"
+    },
+    {
+      "amend_law_num": "平成二九年三月二三日政令第四〇号",
+      "label": "附　則",
+      "file": "suppl/平成二九年三月二三日政令第四〇号.md"
+    },
+    {
+      "amend_law_num": "平成二九年三月三一日政令第一〇九号",
+      "label": "附　則",
+      "file": "suppl/平成二九年三月三一日政令第一〇九号.md"
+    },
+    {
+      "amend_law_num": "平成二九年七月二八日政令第二〇八号",
+      "label": "附　則",
+      "file": "suppl/平成二九年七月二八日政令第二〇八号.md"
+    },
+    {
+      "amend_law_num": "平成三〇年三月三一日政令第一三五号",
+      "label": "附　則",
+      "file": "suppl/平成三〇年三月三一日政令第一三五号.md"
+    },
+    {
+      "amend_law_num": "平成三一年三月二九日政令第九九号",
+      "label": "附　則",
+      "file": "suppl/平成三一年三月二九日政令第九九号.md"
+    },
+    {
+      "amend_law_num": "令和二年三月三一日政令第一一四号",
+      "label": "附　則",
+      "file": "suppl/令和二年三月三一日政令第一一四号.md"
+    },
+    {
+      "amend_law_num": "令和二年六月二六日政令第二〇七号",
+      "label": "附　則",
+      "file": "suppl/令和二年六月二六日政令第二〇七号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日政令第一一六号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日政令第一一六号.md"
+    },
+    {
+      "amend_law_num": "令和三年八月六日政令第二二九号",
+      "label": "附　則",
+      "file": "suppl/令和三年八月六日政令第二二九号.md"
+    },
+    {
+      "amend_law_num": "令和四年三月三一日政令第一三九号",
+      "label": "附　則",
+      "file": "suppl/令和四年三月三一日政令第一三九号.md"
+    },
+    {
+      "amend_law_num": "令和五年三月三一日政令第一三七号",
+      "label": "附　則",
+      "file": "suppl/令和五年三月三一日政令第一三七号.md"
+    },
+    {
+      "amend_law_num": "令和五年七月二一日政令第二四六号",
+      "label": "附　則",
+      "file": "suppl/令和五年七月二一日政令第二四六号.md"
+    },
+    {
+      "amend_law_num": "令和六年三月三〇日政令第一四五号",
+      "label": "附　則",
+      "file": "suppl/令和六年三月三〇日政令第一四五号.md"
+    },
+    {
+      "amend_law_num": "令和六年一一月一日政令第三四二号",
+      "label": "附　則",
+      "file": "suppl/令和六年一一月一日政令第三四二号.md"
+    },
+    {
+      "amend_law_num": "令和六年一二月一三日政令第三七二号",
+      "label": "附　則",
+      "file": "suppl/令和六年一二月一三日政令第三七二号.md"
+    },
+    {
+      "amend_law_num": "令和七年一月二九日政令第一九号",
+      "label": "附　則",
+      "file": "suppl/令和七年一月二九日政令第一九号.md"
+    },
+    {
+      "amend_law_num": "令和七年三月三一日政令第一二五号",
+      "label": "附　則",
+      "file": "suppl/令和七年三月三一日政令第一二五号.md"
+    },
+    {
+      "amend_law_num": "令和八年三月三一日政令第九六号",
+      "label": "附　則",
+      "file": "suppl/令和八年三月三一日政令第九六号.md"
+    }
+  ]
+}

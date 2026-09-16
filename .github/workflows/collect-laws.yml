@@ -1,0 +1,69 @@
+name: 法令を収集
+
+# public リポジトリでの標準ランナーは無料・分数無制限のため、費用は発生しない。
+on:
+  schedule:
+    - cron: '0 18 * * *'      # UTC 18:00 = JST 翌日 03:00
+  workflow_dispatch:           # 手動実行も可
+
+concurrency:
+  group: collect-laws
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # commit & push のために必要
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          # 依存パッケージなし（標準ライブラリのみ）。pip install も cache も不要。
+
+      - name: 法令を取得
+        run: python collectors/egov_law.py --summary-file "${RUNNER_TEMP}/changed.txt"
+
+      # 差分の有無が、そのまま改正の有無である。
+      # 別に検知ロジックを持たず、git に判定させる。
+      - name: 差分があれば commit して push
+        run: |
+          set -euo pipefail
+          git config user.name  "law-collector"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "条文に変更はありませんでした。commit しません。"
+            exit 0
+          fi
+
+          CHANGED="$(cat "${RUNNER_TEMP}/changed.txt" 2>/dev/null || true)"
+          if [ -n "$CHANGED" ]; then
+            SUBJECT="法令を更新: ${CHANGED}"
+          else
+            SUBJECT="法令を更新: $(date -u -d '+9 hours' +%Y-%m-%d)"
+          fi
+
+          echo "## 変更されたファイル" >> "$GITHUB_STEP_SUMMARY"
+          git status --porcelain >> "$GITHUB_STEP_SUMMARY"
+
+          git add -A
+          git commit -m "${SUBJECT}" -m "出典: e-Gov法令検索（デジタル庁）https://laws.e-gov.go.jp/"
+          git push
+
+      - name: 整合性を確認
+        # 収集スクリプト自身が条数とファイル数の一致を検査して例外を投げるため、
+        # ここでは索引が生成されたことだけを確認する。
+        run: |
+          test -f index.json
+          python - <<'PY'
+          import json
+          d = json.load(open('index.json', encoding='utf-8'))
+          n = len(d['laws'])
+          arts = sum(x['article_count'] for x in d['laws'])
+          print(f"法令 {n} 本 / 本則 {arts} 条")
+          assert n > 0 and arts > 0, "索引が空です"
+          PY

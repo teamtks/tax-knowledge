@@ -1,0 +1,7 @@
+# 条文は改行を LF に固定する。CRLF に変換されると、
+# OSごとに差分が出て「改正があった」と誤検知する。
+* text=auto eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+*.py   text eol=lf
+*.yml  text eol=lf

@@ -1,0 +1,898 @@
+{
+  "law_id": "363M50000040053",
+  "law_title": "消費税法施行規則",
+  "略称": "消規",
+  "law_num": "昭和六十三年大蔵省令第五十三号",
+  "promulgation_date": "1988-12-30",
+  "law_revision_id": "363M50000040053_20260901_508M60000040019",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_law_num": "令和八年財務省令第十九号",
+  "amendment_law_title": "消費税法施行規則等の一部を改正する省令",
+  "current_revision_status": "CurrentEnforced",
+  "article_count": 71,
+  "suppl_count": 62,
+  "has_appendix": false,
+  "articles": [
+    {
+      "num": "1",
+      "title": "第一条",
+      "caption": "（定義）",
+      "elm": "Mp-At_1",
+      "file": "articles/At_1.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "1_2",
+      "title": "第一条の二",
+      "caption": "（有料老人ホームにおける飲食料品の提供の対象となる入居者の範囲）",
+      "elm": "Mp-At_1_2",
+      "file": "articles/At_1_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "2",
+      "title": "第二条",
+      "caption": "（生産設備等の範囲）",
+      "elm": "Mp-At_2",
+      "file": "articles/At_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "3",
+      "title": "第三条",
+      "caption": "（保険料を対価とする役務の提供等から除くものの範囲）",
+      "elm": "Mp-At_3",
+      "file": "articles/At_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "3_2",
+      "title": "第三条の二",
+      "caption": "（独立行政法人等の情報の公開に係る役務の提供に類するものの範囲）",
+      "elm": "Mp-At_3_2",
+      "file": "articles/At_3_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "4",
+      "title": "第四条",
+      "caption": "（各種学校等における教育に関する要件）",
+      "elm": "Mp-At_4",
+      "file": "articles/At_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "5",
+      "title": "第五条",
+      "caption": "（輸出取引等の証明）",
+      "elm": "Mp-At_5",
+      "file": "articles/At_5.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "6",
+      "title": "第六条",
+      "caption": "（日本国籍を有する免税購入対象者の確認書類等）",
+      "elm": "Mp-At_6",
+      "file": "articles/At_6.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "6_2",
+      "title": "第六条の二",
+      "caption": "（購入記録情報の提供方法等）",
+      "elm": "Mp-At_6_2",
+      "file": "articles/At_6_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "6_3",
+      "title": "第六条の三",
+      "caption": "（市中輸出物品販売場における購入者への説明事項）",
+      "elm": "Mp-At_6_3",
+      "file": "articles/At_6_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "7",
+      "title": "第七条",
+      "caption": "（輸出物品販売場における書類等の保存等）",
+      "elm": "Mp-At_7",
+      "file": "articles/At_7.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "7_2",
+      "title": "第七条の二",
+      "caption": "（国際第二種貨物利用運送事業者による書類の保存等）",
+      "elm": "Mp-At_7_2",
+      "file": "articles/At_7_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "8",
+      "title": "第八条",
+      "caption": "（輸出物品販売場で購入した物品を亡失した場合の免税手続）",
+      "elm": "Mp-At_8",
+      "file": "articles/At_8.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "9",
+      "title": "第九条",
+      "caption": "（輸出物品販売場で購入した物品の譲渡手続）",
+      "elm": "Mp-At_9",
+      "file": "articles/At_9.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10",
+      "title": "第十条",
+      "caption": "（輸出物品販売場の許可申請書の記載事項等）",
+      "elm": "Mp-At_10",
+      "file": "articles/At_10.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10_2",
+      "title": "第十条の二",
+      "caption": "（承認免税手続事業者の承認申請書の記載事項等）",
+      "elm": "Mp-At_10_2",
+      "file": "articles/At_10_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10_3",
+      "title": "第十条の三",
+      "caption": "（輸出物品販売場をやめようとする旨の届出書の記載事項等）",
+      "elm": "Mp-At_10_3",
+      "file": "articles/At_10_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10_4",
+      "title": "第十条の四",
+      "caption": "（免税手続カウンターにおいて作成された記録の保存）",
+      "elm": "Mp-At_10_4",
+      "file": "articles/At_10_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10_5",
+      "title": "第十条の五",
+      "caption": "（承認送信事業者による購入記録情報の提供方法等）",
+      "elm": "Mp-At_10_5",
+      "file": "articles/At_10_5.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10_6",
+      "title": "第十条の六",
+      "caption": "（承認送信事業者が提供した購入記録情報の保存）",
+      "elm": "Mp-At_10_6",
+      "file": "articles/At_10_6.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10_7",
+      "title": "第十条の七",
+      "caption": "（承認送信事業者の承認申請書の記載事項等）",
+      "elm": "Mp-At_10_7",
+      "file": "articles/At_10_7.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10_8",
+      "title": "第十条の八",
+      "caption": "（臨時販売場を設置しようとする事業者に係る承認申請書の記載事項等）",
+      "elm": "Mp-At_10_8",
+      "file": "articles/At_10_8.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "10_9",
+      "title": "第十条の九",
+      "caption": "（臨時販売場の届出書の記載事項等）",
+      "elm": "Mp-At_10_9",
+      "file": "articles/At_10_9.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "11",
+      "title": "第十一条",
+      "caption": "（小規模事業者に係る納税義務の免除の規定の適用を受けない旨の届出書の記載事項等）",
+      "elm": "Mp-At_11",
+      "file": "articles/At_11.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "11_2",
+      "title": "第十一条の二",
+      "caption": "（特定期間における給与等の金額）",
+      "elm": "Mp-At_11_2",
+      "file": "articles/At_11_2.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "11_3",
+      "title": "第十一条の三",
+      "caption": "（金又は白金の地金に類するものの範囲）",
+      "elm": "Mp-At_11_3",
+      "file": "articles/At_11_3.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "11_4",
+      "title": "第十一条の四",
+      "caption": "（法人課税信託等の受託者に関する特例）",
+      "elm": "Mp-At_11_4",
+      "file": "articles/At_11_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "11_5",
+      "title": "第十一条の五",
+      "caption": "（特定プラットフォーム事業者として指定を受けるべき者である旨の届出書の記載事項等）",
+      "elm": "Mp-At_11_5",
+      "file": "articles/At_11_5.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "12",
+      "title": "第十二条",
+      "caption": "（小規模事業者等に係る資産の譲渡等の時期の特例）",
+      "elm": "Mp-At_12",
+      "file": "articles/At_12.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "13",
+      "title": "第十三条",
+      "caption": "（課税期間の特例の適用を受ける旨の届出書の記載事項等）",
+      "elm": "Mp-At_13",
+      "file": "articles/At_13.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "14",
+      "title": "第十四条",
+      "caption": "（法人の納税地の異動の届出書の記載事項）",
+      "elm": "Mp-At_14",
+      "file": "articles/At_14.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "15",
+      "title": "第十五条",
+      "caption": "（課税売上割合に準ずる割合に係る承認申請書の記載事項等）",
+      "elm": "Mp-At_15",
+      "file": "articles/At_15.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "15_2",
+      "title": "第十五条の二",
+      "caption": "（現先取引債券等の範囲）",
+      "elm": "Mp-At_15_2",
+      "file": "articles/At_15_2.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "15_3",
+      "title": "第十五条の三",
+      "caption": "（古物に準ずるものの範囲）",
+      "elm": "Mp-At_15_3",
+      "file": "articles/At_15_3.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "15_4",
+      "title": "第十五条の四",
+      "caption": "（請求書等の交付又は提供を受けることが困難な課税仕入れ）",
+      "elm": "Mp-At_15_4",
+      "file": "articles/At_15_4.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "15_5",
+      "title": "第十五条の五",
+      "caption": "（適格請求書等に記載すべき事項に係る電磁的記録の提供を受けた場合等の保存方法）",
+      "elm": "Mp-At_15_5",
+      "file": "articles/At_15_5.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "15_6",
+      "title": "第十五条の六",
+      "caption": "（帳簿等の保存期間の特例）",
+      "elm": "Mp-At_15_6",
+      "file": "articles/At_15_6.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "15_7",
+      "title": "第十五条の七",
+      "caption": "（本人確認書類の範囲等）",
+      "elm": "Mp-At_15_7",
+      "file": "articles/At_15_7.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "16",
+      "title": "第十六条",
+      "caption": "（非課税資産の輸出等を行つた場合の証明）",
+      "elm": "Mp-At_16",
+      "file": "articles/At_16.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "17",
+      "title": "第十七条",
+      "caption": "（中小事業者の仕入れに係る消費税額の控除の特例を受ける旨の届出書の記載事項等）",
+      "elm": "Mp-At_17",
+      "file": "articles/At_17.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "17_2",
+      "title": "第十七条の二",
+      "caption": "（災害等があつた場合の中小事業者の仕入れに係る消費税額の控除の特例の届出に関する特例の承認申請書の記載事項）",
+      "elm": "Mp-At_17_2",
+      "file": "articles/At_17_2.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "18",
+      "title": "第十八条",
+      "caption": "（貸倒れの範囲）",
+      "elm": "Mp-At_18",
+      "file": "articles/At_18.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "19",
+      "title": "第十九条",
+      "caption": "（貸倒れの事実を証する書類及びその保存）",
+      "elm": "Mp-At_19",
+      "file": "articles/At_19.md",
+      "breadcrumb": "第二章　税額控除等"
+    },
+    {
+      "num": "20",
+      "title": "第二十条",
+      "caption": "（中間申告書の記載事項）",
+      "elm": "Mp-At_20",
+      "file": "articles/At_20.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "20_2",
+      "title": "第二十条の二",
+      "caption": "（六月中間申告書を提出する旨の届出書の記載事項等）",
+      "elm": "Mp-At_20_2",
+      "file": "articles/At_20_2.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "21",
+      "title": "第二十一条",
+      "caption": "（仮決算をした場合の中間申告書の記載事項）",
+      "elm": "Mp-At_21",
+      "file": "articles/At_21.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "22",
+      "title": "第二十二条",
+      "caption": "（確定申告書の記載事項等）",
+      "elm": "Mp-At_22",
+      "file": "articles/At_22.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "23",
+      "title": "第二十三条",
+      "caption": "（死亡の場合の確定申告書の記載事項）",
+      "elm": "Mp-At_23",
+      "file": "articles/At_23.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "23_2",
+      "title": "第二十三条の二",
+      "caption": "（法人の消費税申告書の提出期限を延長する旨の届出書等の記載事項）",
+      "elm": "Mp-At_23_2",
+      "file": "articles/At_23_2.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "23_3",
+      "title": "第二十三条の三",
+      "caption": "（申告期限延長法人に係る輸出取引等の証明書類等の保存期間の特例）",
+      "elm": "Mp-At_23_3",
+      "file": "articles/At_23_3.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "23_4",
+      "title": "第二十三条の四",
+      "caption": "（電子情報処理組織による申告の特例）",
+      "elm": "Mp-At_23_4",
+      "file": "articles/At_23_4.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "23_5",
+      "title": "第二十三条の五",
+      "caption": "（電子情報処理組織による申告が困難である場合の特例を受ける旨の申請書の記載事項等）",
+      "elm": "Mp-At_23_5",
+      "file": "articles/At_23_5.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "24",
+      "title": "第二十四条",
+      "caption": "（引取りに係る課税貨物についての申告書の記載事項）",
+      "elm": "Mp-At_24",
+      "file": "articles/At_24.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "25",
+      "title": "第二十五条",
+      "caption": "（納期限の延長の申請書の記載事項）",
+      "elm": "Mp-At_25",
+      "file": "articles/At_25.md",
+      "breadcrumb": "第三章　申告及び納付"
+    },
+    {
+      "num": "26",
+      "title": "第二十六条",
+      "caption": "（小規模事業者の納税義務の免除が適用されなくなつた場合等の届出書の記載事項）",
+      "elm": "Mp-At_26",
+      "file": "articles/At_26.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "26_2",
+      "title": "第二十六条の二",
+      "caption": "（適格請求書発行事業者の登録申請書の記載事項等）",
+      "elm": "Mp-At_26_2",
+      "file": "articles/At_26_2.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "26_3",
+      "title": "第二十六条の三",
+      "caption": "（特定国外事業者に係る適格請求書発行事業者の登録申請書の添付書類）",
+      "elm": "Mp-At_26_3",
+      "file": "articles/At_26_3.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "26_4",
+      "title": "第二十六条の四",
+      "caption": "（事業を開始した日の属する課税期間等の範囲）",
+      "elm": "Mp-At_26_4",
+      "file": "articles/At_26_4.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "26_5",
+      "title": "第二十六条の五",
+      "caption": "（適格請求書等の交付義務の特例に係る組合に準ずるものの範囲等）",
+      "elm": "Mp-At_26_5",
+      "file": "articles/At_26_5.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "26_6",
+      "title": "第二十六条の六",
+      "caption": "（適格請求書等の交付が著しく困難な課税資産の譲渡等）",
+      "elm": "Mp-At_26_6",
+      "file": "articles/At_26_6.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "26_7",
+      "title": "第二十六条の七",
+      "caption": "（媒介者等における適格請求書の写し等の保存）",
+      "elm": "Mp-At_26_7",
+      "file": "articles/At_26_7.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "26_8",
+      "title": "第二十六条の八",
+      "caption": "（適格請求書等に記載すべき事項に係る電磁的記録を提供した場合の保存方法）",
+      "elm": "Mp-At_26_8",
+      "file": "articles/At_26_8.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "26_9",
+      "title": "第二十六条の九",
+      "caption": "（業務執行組合員による適格請求書等の交付の届出書の記載事項等）",
+      "elm": "Mp-At_26_9",
+      "file": "articles/At_26_9.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "27",
+      "title": "第二十七条",
+      "caption": "（帳簿の記載事項等）",
+      "elm": "Mp-At_27",
+      "file": "articles/At_27.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "27_2",
+      "title": "第二十七条の二",
+      "caption": "（電磁的記録に記録された事項に関する重加算税の特例の対象となる電磁的記録の範囲等）",
+      "elm": "Mp-At_27_2",
+      "file": "articles/At_27_2.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "27_3",
+      "title": "第二十七条の三",
+      "caption": "（電磁的記録に記録された事項に関する重加算税の特例の適用がある場合における賦課決定通知書の記載事項）",
+      "elm": "Mp-At_27_3",
+      "file": "articles/At_27_3.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "28",
+      "title": "第二十八条",
+      "caption": "（国又は地方公共団体に準ずる法人の資産の譲渡等の時期の特例の承認申請書の記載事項等）",
+      "elm": "Mp-At_28",
+      "file": "articles/At_28.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "29",
+      "title": "第二十九条",
+      "caption": "（国又は地方公共団体等に係る輸出取引等の証明書類等の保存期間の特例）",
+      "elm": "Mp-At_29",
+      "file": "articles/At_29.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "30",
+      "title": "第三十条",
+      "caption": "（国又は地方公共団体に準ずる法人の申告期限の特例の承認申請書の記載事項等）",
+      "elm": "Mp-At_30",
+      "file": "articles/At_30.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "31",
+      "title": "第三十一条",
+      "caption": "（国、地方公共団体等の特定収入等に関する帳簿の記載事項）",
+      "elm": "Mp-At_31",
+      "file": "articles/At_31.md",
+      "breadcrumb": "第四章　雑則"
+    },
+    {
+      "num": "32",
+      "title": "第三十二条",
+      "caption": "（法別表第三に掲げる外国に本店又は主たる事務所を有する法人の届出書の記載事項）",
+      "elm": "Mp-At_32",
+      "file": "articles/At_32.md",
+      "breadcrumb": "第四章　雑則"
+    }
+  ],
+  "suppl": [
+    {
+      "amend_law_num": "",
+      "label": "附　則",
+      "file": "suppl/制定附則.md"
+    },
+    {
+      "amend_law_num": "平成元年三月三一日大蔵省令第三一号",
+      "label": "附　則",
+      "file": "suppl/平成元年三月三一日大蔵省令第三一号.md"
+    },
+    {
+      "amend_law_num": "平成二年三月三〇日大蔵省令第八号",
+      "label": "附　則",
+      "file": "suppl/平成二年三月三〇日大蔵省令第八号.md"
+    },
+    {
+      "amend_law_num": "平成三年三月一五日大蔵省令第五号",
+      "label": "附　則",
+      "file": "suppl/平成三年三月一五日大蔵省令第五号.md"
+    },
+    {
+      "amend_law_num": "平成三年四月三〇日大蔵省令第二二号",
+      "label": "附　則",
+      "file": "suppl/平成三年四月三〇日大蔵省令第二二号.md"
+    },
+    {
+      "amend_law_num": "平成三年六月七日大蔵省令第三四号",
+      "label": "附　則",
+      "file": "suppl/平成三年六月七日大蔵省令第三四号.md"
+    },
+    {
+      "amend_law_num": "平成七年一一月二四日大蔵省令第七五号",
+      "label": "附　則",
+      "file": "suppl/平成七年一一月二四日大蔵省令第七五号.md"
+    },
+    {
+      "amend_law_num": "平成八年三月三一日大蔵省令第二一号",
+      "label": "附　則",
+      "file": "suppl/平成八年三月三一日大蔵省令第二一号.md"
+    },
+    {
+      "amend_law_num": "平成八年六月二六日大蔵省令第三六号",
+      "label": "附　則",
+      "file": "suppl/平成八年六月二六日大蔵省令第三六号.md"
+    },
+    {
+      "amend_law_num": "平成九年三月二六日大蔵省令第一六号",
+      "label": "附　則",
+      "file": "suppl/平成九年三月二六日大蔵省令第一六号.md"
+    },
+    {
+      "amend_law_num": "平成九年一二月二六日大蔵省令第九七号",
+      "label": "附　則",
+      "file": "suppl/平成九年一二月二六日大蔵省令第九七号.md"
+    },
+    {
+      "amend_law_num": "平成一〇年三月一九日大蔵省令第二八号",
+      "label": "附　則",
+      "file": "suppl/平成一〇年三月一九日大蔵省令第二八号.md"
+    },
+    {
+      "amend_law_num": "平成一〇年一一月三〇日大蔵省令第一五四号",
+      "label": "附　則",
+      "file": "suppl/平成一〇年一一月三〇日大蔵省令第一五四号.md"
+    },
+    {
+      "amend_law_num": "平成一一年三月三一日大蔵省令第三七号",
+      "label": "附　則",
+      "file": "suppl/平成一一年三月三一日大蔵省令第三七号.md"
+    },
+    {
+      "amend_law_num": "平成一二年三月二四日大蔵省令第一八号",
+      "label": "附　則",
+      "file": "suppl/平成一二年三月二四日大蔵省令第一八号.md"
+    },
+    {
+      "amend_law_num": "平成一二年七月一二日大蔵省令第六五号",
+      "label": "附　則",
+      "file": "suppl/平成一二年七月一二日大蔵省令第六五号.md"
+    },
+    {
+      "amend_law_num": "平成一二年八月二一日大蔵省令第六九号",
+      "label": "附　則",
+      "file": "suppl/平成一二年八月二一日大蔵省令第六九号.md"
+    },
+    {
+      "amend_law_num": "平成一三年三月三〇日財務省令第三一号",
+      "label": "附　則",
+      "file": "suppl/平成一三年三月三〇日財務省令第三一号.md"
+    },
+    {
+      "amend_law_num": "平成一三年六月二九日財務省令第四八号",
+      "label": "附　則",
+      "file": "suppl/平成一三年六月二九日財務省令第四八号.md"
+    },
+    {
+      "amend_law_num": "平成一三年一一月二六日財務省令第六一号",
+      "label": "附　則",
+      "file": "suppl/平成一三年一一月二六日財務省令第六一号.md"
+    },
+    {
+      "amend_law_num": "平成一四年一月一〇日財務省令第一号",
+      "label": "附　則",
+      "file": "suppl/平成一四年一月一〇日財務省令第一号.md"
+    },
+    {
+      "amend_law_num": "平成一四年三月三一日財務省令第二八号",
+      "label": "附　則",
+      "file": "suppl/平成一四年三月三一日財務省令第二八号.md"
+    },
+    {
+      "amend_law_num": "平成一四年六月二八日財務省令第四二号",
+      "label": "附　則",
+      "file": "suppl/平成一四年六月二八日財務省令第四二号.md"
+    },
+    {
+      "amend_law_num": "平成一四年九月四日財務省令第五〇号",
+      "label": "附　則",
+      "file": "suppl/平成一四年九月四日財務省令第五〇号.md"
+    },
+    {
+      "amend_law_num": "平成一四年一二月二七日財務省令第七二号",
+      "label": "附　則",
+      "file": "suppl/平成一四年一二月二七日財務省令第七二号.md"
+    },
+    {
+      "amend_law_num": "平成一五年三月三一日財務省令第三二号",
+      "label": "附　則",
+      "file": "suppl/平成一五年三月三一日財務省令第三二号.md"
+    },
+    {
+      "amend_law_num": "平成一五年九月三〇日財務省令第九二号",
+      "label": "附　則",
+      "file": "suppl/平成一五年九月三〇日財務省令第九二号.md"
+    },
+    {
+      "amend_law_num": "平成一六年一〇月七日財務省令第六五号",
+      "label": "附　則",
+      "file": "suppl/平成一六年一〇月七日財務省令第六五号.md"
+    },
+    {
+      "amend_law_num": "平成一六年一二月二八日財務省令第八一号",
+      "label": "附　則",
+      "file": "suppl/平成一六年一二月二八日財務省令第八一号.md"
+    },
+    {
+      "amend_law_num": "平成一七年三月三一日財務省令第三六号",
+      "label": "附　則",
+      "file": "suppl/平成一七年三月三一日財務省令第三六号.md"
+    },
+    {
+      "amend_law_num": "平成一八年三月三一日財務省令第二四号",
+      "label": "附　則",
+      "file": "suppl/平成一八年三月三一日財務省令第二四号.md"
+    },
+    {
+      "amend_law_num": "平成一九年九月二七日財務省令第五三号",
+      "label": "附　則",
+      "file": "suppl/平成一九年九月二七日財務省令第五三号.md"
+    },
+    {
+      "amend_law_num": "平成二〇年九月一九日財務省令第五六号",
+      "label": "附　則",
+      "file": "suppl/平成二〇年九月一九日財務省令第五六号.md"
+    },
+    {
+      "amend_law_num": "平成二二年三月三一日財務省令第一六号",
+      "label": "附　則",
+      "file": "suppl/平成二二年三月三一日財務省令第一六号.md"
+    },
+    {
+      "amend_law_num": "平成二三年六月三〇日財務省令第三四号",
+      "label": "附　則",
+      "file": "suppl/平成二三年六月三〇日財務省令第三四号.md"
+    },
+    {
+      "amend_law_num": "平成二三年一二月二日財務省令第九一号",
+      "label": "附　則",
+      "file": "suppl/平成二三年一二月二日財務省令第九一号.md"
+    },
+    {
+      "amend_law_num": "平成二五年三月一八日財務省令第六号",
+      "label": "附　則",
+      "file": "suppl/平成二五年三月一八日財務省令第六号.md"
+    },
+    {
+      "amend_law_num": "平成二五年五月三一日財務省令第三七号",
+      "label": "附　則",
+      "file": "suppl/平成二五年五月三一日財務省令第三七号.md"
+    },
+    {
+      "amend_law_num": "平成二五年六月二八日財務省令第四五号",
+      "label": "附　則",
+      "file": "suppl/平成二五年六月二八日財務省令第四五号.md"
+    },
+    {
+      "amend_law_num": "平成二六年三月三一日財務省令第二六号",
+      "label": "附　則",
+      "file": "suppl/平成二六年三月三一日財務省令第二六号.md"
+    },
+    {
+      "amend_law_num": "平成二六年七月九日財務省令第五八号",
+      "label": "附　則",
+      "file": "suppl/平成二六年七月九日財務省令第五八号.md"
+    },
+    {
+      "amend_law_num": "平成二七年三月三一日財務省令第二七号",
+      "label": "附　則",
+      "file": "suppl/平成二七年三月三一日財務省令第二七号.md"
+    },
+    {
+      "amend_law_num": "平成二八年三月三一日財務省令第二〇号",
+      "label": "附　則",
+      "file": "suppl/平成二八年三月三一日財務省令第二〇号.md"
+    },
+    {
+      "amend_law_num": "平成二八年一一月二八日財務省令第七九号",
+      "label": "附　則",
+      "file": "suppl/平成二八年一一月二八日財務省令第七九号.md"
+    },
+    {
+      "amend_law_num": "平成二九年三月三一日財務省令第二一号",
+      "label": "附　則",
+      "file": "suppl/平成二九年三月三一日財務省令第二一号.md"
+    },
+    {
+      "amend_law_num": "平成三〇年三月三一日財務省令第一八号",
+      "label": "附　則",
+      "file": "suppl/平成三〇年三月三一日財務省令第一八号.md"
+    },
+    {
+      "amend_law_num": "平成三一年三月二九日財務省令第一〇号",
+      "label": "附　則",
+      "file": "suppl/平成三一年三月二九日財務省令第一〇号.md"
+    },
+    {
+      "amend_law_num": "令和元年一一月二九日財務省令第三四号",
+      "label": "附　則",
+      "file": "suppl/令和元年一一月二九日財務省令第三四号.md"
+    },
+    {
+      "amend_law_num": "令和元年一二月一三日財務省令第三六号",
+      "label": "附　則",
+      "file": "suppl/令和元年一二月一三日財務省令第三六号.md"
+    },
+    {
+      "amend_law_num": "令和二年三月三一日財務省令第一六号",
+      "label": "附　則",
+      "file": "suppl/令和二年三月三一日財務省令第一六号.md"
+    },
+    {
+      "amend_law_num": "令和二年六月三〇日財務省令第五六号",
+      "label": "附　則",
+      "file": "suppl/令和二年六月三〇日財務省令第五六号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日財務省令第一八号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日財務省令第一八号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日財務省令第三三号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日財務省令第三三号.md"
+    },
+    {
+      "amend_law_num": "令和四年三月三一日財務省令第一八号",
+      "label": "附　則",
+      "file": "suppl/令和四年三月三一日財務省令第一八号.md"
+    },
+    {
+      "amend_law_num": "令和五年三月三一日財務省令第一六号",
+      "label": "附　則",
+      "file": "suppl/令和五年三月三一日財務省令第一六号.md"
+    },
+    {
+      "amend_law_num": "令和六年三月三〇日財務省令第一九号",
+      "label": "附　則",
+      "file": "suppl/令和六年三月三〇日財務省令第一九号.md"
+    },
+    {
+      "amend_law_num": "令和六年六月二五日財務省令第四六号",
+      "label": "附　則",
+      "file": "suppl/令和六年六月二五日財務省令第四六号.md"
+    },
+    {
+      "amend_law_num": "令和六年一一月二九日財務省令第六六号",
+      "label": "附　則",
+      "file": "suppl/令和六年一一月二九日財務省令第六六号.md"
+    },
+    {
+      "amend_law_num": "令和七年三月二一日財務省令第九号",
+      "label": "附　則",
+      "file": "suppl/令和七年三月二一日財務省令第九号.md"
+    },
+    {
+      "amend_law_num": "令和七年三月三一日財務省令第二二号",
+      "label": "附　則",
+      "file": "suppl/令和七年三月三一日財務省令第二二号.md"
+    },
+    {
+      "amend_law_num": "令和七年三月三一日財務省令第三四号",
+      "label": "附　則",
+      "file": "suppl/令和七年三月三一日財務省令第三四号.md"
+    },
+    {
+      "amend_law_num": "令和八年三月三一日財務省令第一九号",
+      "label": "附　則",
+      "file": "suppl/令和八年三月三一日財務省令第一九号.md"
+    }
+  ]
+}

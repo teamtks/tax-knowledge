@@ -1,0 +1,14 @@
+# 実行時の一時ファイル
+.last-run.txt
+changed.txt
+__pycache__/
+*.pyc
+
+# 顧問先データは絶対にこのリポジトリに入れない。
+# public リポジトリであり、入れた時点で公開される。
+clients/
+input/
+output/
+*.csv
+*.pdf
+*.xlsx
