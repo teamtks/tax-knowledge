@@ -1,0 +1,82 @@
+name: 通達を収集
+
+# 法令（e-Gov API）と違い、通達は国税庁サイトを1ページずつ辿る。
+# 1回あたり1,000ページ規模になるため、毎日ではなく週1回とし、
+# 取得間隔も 0.8 秒を空けている（collectors/nta_tsutatsu.py の SLEEP）。
+on:
+  schedule:
+    - cron: '0 18 * * 6'       # UTC 土 18:00 = JST 日 03:00（週1回）
+  workflow_dispatch:
+  push:                        # 収集の仕組みを変えたら、その場で動作を確かめる
+    branches: [main]
+    paths:
+      - 'collectors/nta_tsutatsu.py'
+      - 'config/tsutatsu.json'
+      - '.github/workflows/collect-tsutatsu.yml'
+
+concurrency:
+  group: collect-tsutatsu
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 通達を取得
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python collectors/nta_tsutatsu.py --summary-file "${RUNNER_TEMP}/changed.txt"
+
+      # 差分の有無が、そのまま改正の有無である。
+      - name: 差分があれば commit して push
+        run: |
+          set -euo pipefail
+          git config user.name  "tsutatsu-collector"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "通達に変更はありませんでした。commit しません。"
+            exit 0
+          fi
+
+          CHANGED="$(cat "${RUNNER_TEMP}/changed.txt" 2>/dev/null || true)"
+          if [ -n "$CHANGED" ]; then
+            SUBJECT="通達を更新: ${CHANGED}"
+          else
+            SUBJECT="通達を更新: $(date -u -d '+9 hours' +%Y-%m-%d)"
+          fi
+
+          {
+            echo "## 変更されたファイル"
+            git status --porcelain | head -200
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          git add -A
+          git commit -m "${SUBJECT}" -m "出典: 国税庁 法令解釈通達 https://www.nta.go.jp/law/tsutatsu/menu.htm"
+          git push
+
+      - name: 取りこぼしがないか確認
+        # max_pages に達して巡回を打ち切った通達があれば警告する。
+        # 打ち切られると、その通達は一部しか収録されない。
+        run: |
+          python - <<'PY'
+          import json, glob, sys
+          bad = []
+          for p in glob.glob('tsutatsu/*/_meta.json'):
+              m = json.load(open(p, encoding='utf-8'))
+              print(f"{m['名称']}: {m['item_count']}項目 / {m['page_count']}ページ")
+              if m.get('truncated'):
+                  bad.append(m['名称'])
+          if bad:
+              print('::warning::max_pages に達した通達があります（取りこぼしの可能性）: ' + '、'.join(bad))
+          PY

@@ -5,6 +5,12 @@ on:
   schedule:
     - cron: '0 18 * * *'      # UTC 18:00 = JST 翌日 03:00
   workflow_dispatch:           # 手動実行も可
+  push:                        # 収集の仕組みを変えたら、その場で動作を確かめる
+    branches: [main]
+    paths:
+      - 'collectors/egov_law.py'
+      - 'config/laws.json'
+      - '.github/workflows/collect-laws.yml'
 
 concurrency:
   group: collect-laws

@@ -1,0 +1,127 @@
+{
+  "_説明": "収集対象の法令解釈通達。国税庁サイトを再帰的に辿って取得する。",
+  "_出典": "国税庁 法令解釈通達 https://www.nta.go.jp/law/tsutatsu/menu.htm",
+  "_法的根拠": "通達は著作権法13条2号により著作権の目的とならない。あわせて国税庁サイトは政府標準利用規約に準拠しており、出典明示のうえ複製・加工できる。",
+  "_巡回の作法": "1ページあたり0.8秒の間隔を空ける。max_pages を超えたら止める（暴走防止）。",
+  "tsutatsu": [
+    {
+      "code": "hojin-kihon",
+      "名称": "法人税基本通達",
+      "略称": "法基通",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01.htm",
+      "prefix": "/law/tsutatsu/kihon/hojin/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 400,
+      "有効": true,
+      "exclude_regex": "/\\d{8}/"
+    },
+    {
+      "code": "shohi-kihon",
+      "名称": "消費税法基本通達",
+      "略称": "消基通",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01.htm",
+      "prefix": "/law/tsutatsu/kihon/shohi/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 250,
+      "有効": true,
+      "exclude_regex": "/\\d{8}/"
+    },
+    {
+      "code": "shotoku-kihon",
+      "名称": "所得税基本通達",
+      "略称": "所基通",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01.htm",
+      "prefix": "/law/tsutatsu/kihon/shotoku/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 250,
+      "有効": true,
+      "exclude_regex": "/\\d{8}/"
+    },
+    {
+      "code": "tsusoku-kihon",
+      "名称": "国税通則法基本通達",
+      "略称": "通基通",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/00.htm",
+      "prefix": "/law/tsutatsu/kihon/tsusoku/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 150,
+      "有効": false,
+      "exclude_regex": "/\\d{8}/",
+      "_未対応の理由": "国税通則法基本通達（徴収部関係）は通達番号を持たず、「第9条の2関係」＋見出しのみで構成されるため、番号で引く方式に載らない。徴収手続が中心で決算レビューでの重要度も低いため未対応とする。必要になったら専用の解析を書く。目次: https://www.nta.go.jp/law/tsutatsu/kihon/tsusoku/mokuji.htm"
+    },
+    {
+      "code": "sochiho-hojin",
+      "名称": "租税特別措置法関係通達（法人税編）",
+      "略称": "措通(法)",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/sotihou.htm",
+      "prefix": "/law/tsutatsu/kobetsu/hojin/sochiho/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 300,
+      "有効": true
+    },
+    {
+      "code": "sochiho-kansetsu",
+      "名称": "租税特別措置法関係通達（消費税編ほか間接税）",
+      "略称": "措通(消)",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/sochiho/sotihou.htm",
+      "prefix": "/law/tsutatsu/kobetsu/kansetsu/sochiho/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 150,
+      "有効": false,
+      "_未対応の理由": "措置法通達（消費税編ほか間接税）は個別通達の集合で、<h2>1　大使館等の範囲</h2> のように見出しに番号が入る別構造である。外国公館免税など決算レビューでの重要度が低いため未対応とする。入口: https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/sochiho/sotihou.htm"
+    },
+    {
+      "code": "sisan-sozoku",
+      "名称": "相続税法基本通達",
+      "略称": "相基通",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/sozoku2/01.htm",
+      "prefix": "/law/tsutatsu/kihon/sisan/sozoku2/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 200,
+      "有効": false,
+      "_備考": "相続・贈与を扱うようになったら有効にする",
+      "exclude_regex": "/\\d{8}/"
+    },
+    {
+      "code": "sisan-hyoka",
+      "名称": "財産評価基本通達",
+      "略称": "評基通",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kihon/sisan/hyoka_new/01.htm",
+      "prefix": "/law/tsutatsu/kihon/sisan/hyoka_new/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 200,
+      "有効": false,
+      "exclude_regex": "/\\d{8}/"
+    },
+    {
+      "code": "inshi-kihon",
+      "名称": "印紙税法基本通達",
+      "略称": "印基通",
+      "root": "https://www.nta.go.jp/law/tsutatsu/kihon/inshi/mokuji.htm",
+      "prefix": "/law/tsutatsu/kihon/inshi/",
+      "exclude": [
+        "/kaisei/"
+      ],
+      "max_pages": 150,
+      "有効": false,
+      "exclude_regex": "/\\d{8}/"
+    }
+  ],
+  "_旧版アーカイブについて": "基本通達では /20230930/ のように8桁の日付を名前にしたディレクトリが旧版のアーカイブである。exclude_regex で除外している。インボイス制度前など過去の時点の通達が必要なときは、国税庁サイトの当該アーカイブURLを直接参照すること。"
+}

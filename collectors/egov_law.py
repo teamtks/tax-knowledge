@@ -548,6 +548,23 @@ def cmd_check(entries):
     return changed
 
 
+def load_all_metas():
+    """law/*/_meta.json を全部読む。
+
+    索引は「今回収集した分」ではなく「ディスク上にある全部」から作る。
+    --law で1法令だけ収集したときに、他の法令が索引から消えてしまうため。
+    """
+    out = []
+    if not os.path.isdir(LAW_DIR):
+        return out
+    for law_id in sorted(os.listdir(LAW_DIR)):
+        p = os.path.join(LAW_DIR, law_id, "_meta.json")
+        if os.path.exists(p):
+            with open(p, encoding="utf-8") as f:
+                out.append(json.load(f))
+    return out
+
+
 def write_index(metas):
     idx = {
         "_説明": "収集済みの法令一覧。取得日時は記録しない（git のコミット日時が取得日時）。",
@@ -619,9 +636,10 @@ def main():
             failed.append(e["法令名"])
         time.sleep(SLEEP)
 
-    if metas:
-        write_index(metas)
-        write_if_changed(os.path.join(ROOT, "LAWS.md"), render_root_readme(metas))
+    all_metas = load_all_metas()
+    if all_metas:
+        write_index(all_metas)
+        write_if_changed(os.path.join(ROOT, "LAWS.md"), render_root_readme(all_metas))
 
     print("\n完了  作成 %d / 更新 %d / 不変 %d" % (total["created"], total["updated"], total["unchanged"]))
     if amended:

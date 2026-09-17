@@ -1,0 +1,36 @@
+{
+  "_説明": "収集済みの法令解釈通達の一覧。取得日時は記録しない（git のコミット日時が取得日時）。",
+  "_出典": "国税庁 法令解釈通達 https://www.nta.go.jp/law/tsutatsu/menu.htm",
+  "_法的根拠": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは政府標準利用規約に準拠。",
+  "item_total": 4451,
+  "tsutatsu": [
+    {
+      "code": "hojin-kihon",
+      "名称": "法人税基本通達",
+      "略称": "法基通",
+      "item_count": 1364,
+      "path": "tsutatsu/hojin-kihon/"
+    },
+    {
+      "code": "shohi-kihon",
+      "名称": "消費税法基本通達",
+      "略称": "消基通",
+      "item_count": 653,
+      "path": "tsutatsu/shohi-kihon/"
+    },
+    {
+      "code": "shotoku-kihon",
+      "名称": "所得税基本通達",
+      "略称": "所基通",
+      "item_count": 608,
+      "path": "tsutatsu/shotoku-kihon/"
+    },
+    {
+      "code": "sochiho-hojin",
+      "名称": "租税特別措置法関係通達（法人税編）",
+      "略称": "措通(法)",
+      "item_count": 1826,
+      "path": "tsutatsu/sochiho-hojin/"
+    }
+  ]
+}

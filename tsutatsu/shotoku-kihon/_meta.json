@@ -1,0 +1,4269 @@
+{
+  "code": "shotoku-kihon",
+  "名称": "所得税基本通達",
+  "略称": "所基通",
+  "root": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01.htm",
+  "page_count": 84,
+  "item_count": 608,
+  "truncated": false,
+  "出典": "国税庁 法令解釈通達",
+  "利用条件": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは政府標準利用規約に準拠。",
+  "items": [
+    {
+      "num": "2-1",
+      "caption": "（住所の意義）",
+      "heading": "〔居住者、非永住者及び非居住者（第3、4、5号関係）〕",
+      "file": "items/2-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm"
+    },
+    {
+      "num": "2-2",
+      "caption": "（再入国した場合の居住期間）",
+      "heading": "〔居住者、非永住者及び非居住者（第3、4、5号関係）〕",
+      "file": "items/2-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm"
+    },
+    {
+      "num": "2-3",
+      "caption": "（国内に居住する者の非永住者等の区分）",
+      "heading": "〔居住者、非永住者及び非居住者（第3、4、5号関係）〕",
+      "file": "items/2-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm"
+    },
+    {
+      "num": "2-4",
+      "caption": "（居住期間の計算の起算日）",
+      "heading": "〔居住者、非永住者及び非居住者（第3、4、5号関係）〕",
+      "file": "items/2-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm"
+    },
+    {
+      "num": "2-4の2",
+      "caption": "（過去10年以内の計算）",
+      "heading": "〔居住者、非永住者及び非居住者（第3、4、5号関係）〕",
+      "file": "items/2-4の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm"
+    },
+    {
+      "num": "2-4の3",
+      "caption": "（国内に住所又は居所を有していた期間の計算）",
+      "heading": "〔居住者、非永住者及び非居住者（第3、4、5号関係）〕",
+      "file": "items/2-4の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/01.htm"
+    },
+    {
+      "num": "2-5",
+      "caption": "（法人でない社団の範囲）",
+      "heading": "〔人格のない社団等（第8号関係）〕",
+      "file": "items/2-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/02.htm"
+    },
+    {
+      "num": "2-6",
+      "caption": "（法人でない財団の範囲）",
+      "heading": "〔人格のない社団等（第8号関係）〕",
+      "file": "items/2-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/02.htm"
+    },
+    {
+      "num": "2-7",
+      "caption": "（法人でない社団又は財団の代表者又は管理人）",
+      "heading": "〔人格のない社団等（第8号関係）〕",
+      "file": "items/2-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/02.htm"
+    },
+    {
+      "num": "2-8",
+      "caption": "（福利厚生等を目的として組織された従業員団体の収入及び支出）",
+      "heading": "〔人格のない社団等（第8号関係）〕",
+      "file": "items/2-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/02.htm"
+    },
+    {
+      "num": "2-9",
+      "caption": "（従業員団体の収入及び支出の特例）",
+      "heading": "〔人格のない社団等（第8号関係）〕",
+      "file": "items/2-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/02.htm"
+    },
+    {
+      "num": "2-15",
+      "caption": "（貴金属の素材の価額が大部分を占める固定資産）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-16",
+      "caption": "（現にか動していない資産）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-17",
+      "caption": "（建設又は製作中の資産）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-17.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-18",
+      "caption": "（温泉利用権）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-18.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-18の2",
+      "caption": "（工業所有権の実施権等）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-18の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-19",
+      "caption": "（出漁権等）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-19.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-20",
+      "caption": "（無形固定資産の業務の用に供した時期）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-20.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-21",
+      "caption": "（公共下水道施設の使用のための負担金）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-21.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-22",
+      "caption": "（電気通信施設利用権の範囲）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-22.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-23",
+      "caption": "（電気通信施設利用権の範囲）",
+      "heading": "〔減価償却資産（第19号関係）〕",
+      "file": "items/2-23.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/04.htm"
+    },
+    {
+      "num": "2-25",
+      "caption": "（共同的施設の設置又は改良のために支出する費用）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-25.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "2-26",
+      "caption": "（簡易な施設の負担金の必要経費算入）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-26.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "2-27",
+      "caption": "（資産を賃借するための権利金等）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-27.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "2-28",
+      "caption": "（ノーハウの頭金等）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-28.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "2-29",
+      "caption": "（広告宣伝の用に供する資産を贈与したことにより生ずる費用）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-29.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "2-29の2",
+      "caption": "（スキー場のゲレンデ整備費用）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-29の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "2-29の3",
+      "caption": "（出版権の設定の対価）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-29の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "2-29の4",
+      "caption": "（同業者団体等の加入金）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-29の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "2-29の5",
+      "caption": "（職業運動選手等の契約金等）",
+      "heading": "〔繰延資産（第20号関係）〕",
+      "file": "items/2-29の5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/05.htm"
+    },
+    {
+      "num": "3-1",
+      "caption": "（船舶、航空機の乗組員の住所の判定）",
+      "heading": "法第3条《居住者及び非居住者等の区分》関係",
+      "file": "items/3-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/08.htm"
+    },
+    {
+      "num": "3-2",
+      "caption": "（学術、技芸を習得する者の住所の判定）",
+      "heading": "法第3条《居住者及び非居住者等の区分》関係",
+      "file": "items/3-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/08.htm"
+    },
+    {
+      "num": "3-3",
+      "caption": "（国内に居住することとなった者等の住所の推定）",
+      "heading": "法第3条《居住者及び非居住者等の区分》関係",
+      "file": "items/3-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/08.htm"
+    },
+    {
+      "num": "7-1",
+      "caption": "（特定有価証券の意義）",
+      "heading": "〔法第7条《課税所得の範囲》関係〕",
+      "file": "items/7-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/01.htm"
+    },
+    {
+      "num": "7-2",
+      "caption": "（非永住者に係る課税標準の計算……送金を受領しなかった場合）",
+      "heading": "〔法第7条《課税所得の範囲》関係〕",
+      "file": "items/7-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/01.htm"
+    },
+    {
+      "num": "7-3",
+      "caption": "（非永住者に係る課税標準の計算……送金を受領した場合）",
+      "heading": "〔法第7条《課税所得の範囲》関係〕",
+      "file": "items/7-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/01.htm"
+    },
+    {
+      "num": "7-4",
+      "caption": "（国内において支払われたものの意義）",
+      "heading": "〔法第7条《課税所得の範囲》関係〕",
+      "file": "items/7-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/01.htm"
+    },
+    {
+      "num": "7-5",
+      "caption": "（確定申告等の時までに支払がない所得の支払地の推定）",
+      "heading": "〔法第7条《課税所得の範囲》関係〕",
+      "file": "items/7-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/01.htm"
+    },
+    {
+      "num": "7-6",
+      "caption": "（送金の範囲）",
+      "heading": "〔法第7条《課税所得の範囲》関係〕",
+      "file": "items/7-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/01.htm"
+    },
+    {
+      "num": "9-12の2",
+      "caption": "（「資力を喪失して債務を弁済することが著しく困難」である場合の意義）",
+      "heading": "〔強制換価等による譲渡（第10号関係)〕",
+      "file": "items/9-12の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/03.htm"
+    },
+    {
+      "num": "9-12の3",
+      "caption": "（非課税とされる山林の伐採又は譲渡による所得）",
+      "heading": "〔強制換価等による譲渡（第10号関係)〕",
+      "file": "items/9-12の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/03.htm"
+    },
+    {
+      "num": "9-12の4",
+      "caption": "（譲渡対価が債務の弁済に充てられたかどうかの判定）",
+      "heading": "〔強制換価等による譲渡（第10号関係)〕",
+      "file": "items/9-12の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/03.htm"
+    },
+    {
+      "num": "9-12の5",
+      "caption": "（代物弁済）",
+      "heading": "〔強制換価等による譲渡（第10号関係)〕",
+      "file": "items/9-12の5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/03.htm"
+    },
+    {
+      "num": "10-1",
+      "caption": "（委託者と受益者とが異なる合同運用信託についての非課税規定の適用）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-2",
+      "caption": "（利子計算期間の中途で購入した有価証券の利子についての非課税規定の適用）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-3",
+      "caption": "（同一金融機関の営業所等において一般の預貯金と勤務先預け金とについて非課税の規定の適用を受けようとする場合の手続）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-4",
+      "caption": "（本邦通貨で表示されたものの意義）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-5",
+      "caption": "（非課税貯蓄申込書の特例が認められる預貯金等の範囲）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-6",
+      "caption": "（普通預金又は普通貯金に相当するもの）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-7",
+      "caption": "（同じ日に預入等と払出しが行われた場合の普通預金等に係る限度額の判定）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-8",
+      "caption": "（国外勤務者が追加預入等をした場合の非課税規定の適用関係）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-9",
+      "caption": "（元本等の合計額が一時的に非課税貯蓄限度額を超えた預貯金等の利子等の課税関係）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-10",
+      "caption": "（確認書類の範囲）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-11",
+      "caption": "（有価証券の預入等をする日の意義）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-12",
+      "caption": "（非課税貯蓄申告書の効力）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-13",
+      "caption": "（非課税貯蓄限度額の引上げによりその合計額が300万円を超えることとなった非課税貯蓄申告書の効力）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-14",
+      "caption": "（郵便等により非課税貯蓄申告書等の提出があった場合）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-15",
+      "caption": "（郵便等により提示された確認書類によって氏名等を確認する場合）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-16",
+      "caption": "（個人の住所と確認書類に記載されている住所とが異なる場合）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-17",
+      "caption": "（非課税貯蓄申告書等に記載する氏名等）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-17.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-18",
+      "caption": "（預貯金等の移管と非課税貯蓄申告書の効力）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-18.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-19",
+      "caption": "（障害者等に該当しないこととなった者が預貯金等の移管を行った場合）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-19.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-20",
+      "caption": "（住所等の変更と預貯金等の移管とが同時に行われた場合の非課税貯蓄に関する異動申告書）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-20.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-21",
+      "caption": "（非課税規定の適用を受けていた者が死亡した場合の課税関係）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-21.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-22",
+      "caption": "（非課税貯蓄者死亡届出書又は非課税貯蓄相続申込書の提出期限等）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-22.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-23",
+      "caption": "（非課税貯蓄相続申込書を提出することができる者）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-23.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-24",
+      "caption": "（非課税貯蓄相続申込書の提出の効果）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-24.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-25",
+      "caption": "（非課税貯蓄限度額変更申告書等の提出があった場合の非課税貯蓄申告書の写しの訂正）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-25.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-26",
+      "caption": "（違反預貯金等が発見された場合）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-26.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-27",
+      "caption": "（非課税貯蓄限度額の合計額が300万円を超えることとなる非課税貯蓄申告書等の効力）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-27.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "10-28",
+      "caption": "（非課税貯蓄みなし廃止通知書等の書式）",
+      "heading": "法第10条《障害者等の少額預金の利子所得等の非課税》関係",
+      "file": "items/10-28.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/06.htm"
+    },
+    {
+      "num": "11-1",
+      "caption": "（非課税申告書の包括的記載及び継続的効力）",
+      "heading": "法第11条《公共法人等及び公益信託等に係る非課税》関係",
+      "file": "items/11-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/07.htm"
+    },
+    {
+      "num": "11-2",
+      "caption": "（非課税申告書の効力）",
+      "heading": "法第11条《公共法人等及び公益信託等に係る非課税》関係",
+      "file": "items/11-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/07.htm"
+    },
+    {
+      "num": "11-3",
+      "caption": "（振替記載等の期間の通算）",
+      "heading": "法第11条《公共法人等及び公益信託等に係る非課税》関係",
+      "file": "items/11-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/07.htm"
+    },
+    {
+      "num": "11-4",
+      "caption": "（非課税申告書等の税務署長への送付等）",
+      "heading": "法第11条《公共法人等及び公益信託等に係る非課税》関係",
+      "file": "items/11-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/02/07.htm"
+    },
+    {
+      "num": "12-1",
+      "caption": "（資産から生ずる収益を享受する者の判定）",
+      "heading": "法第12条《実質所得者課税の原則》関係",
+      "file": "items/12-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/01.htm"
+    },
+    {
+      "num": "12-2",
+      "caption": "（事業から生ずる収益を享受する者の判定）",
+      "heading": "法第12条《実質所得者課税の原則》関係",
+      "file": "items/12-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/01.htm"
+    },
+    {
+      "num": "12-3",
+      "caption": "（夫婦間における農業の事業主の判定）",
+      "heading": "法第12条《実質所得者課税の原則》関係",
+      "file": "items/12-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/01.htm"
+    },
+    {
+      "num": "12-4",
+      "caption": "（親子間における農業の事業主の判定）",
+      "heading": "法第12条《実質所得者課税の原則》関係",
+      "file": "items/12-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/01.htm"
+    },
+    {
+      "num": "12-5",
+      "caption": "（親族間における事業主の判定）",
+      "heading": "法第12条《実質所得者課税の原則》関係",
+      "file": "items/12-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/01.htm"
+    },
+    {
+      "num": "13-1",
+      "caption": "（信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属）",
+      "heading": "法第13条《信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属》関係",
+      "file": "items/13-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/02.htm"
+    },
+    {
+      "num": "13-2",
+      "caption": "（信託財産に帰せられる収益及び費用の帰属の時期）",
+      "heading": "法第13条《信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属》関係",
+      "file": "items/13-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/02.htm"
+    },
+    {
+      "num": "13-3",
+      "caption": "（信託財産に帰せられる収益及び費用の額の計算）",
+      "heading": "法第13条《信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属》関係",
+      "file": "items/13-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/02.htm"
+    },
+    {
+      "num": "13-4",
+      "caption": "（権利の内容に応ずることの例示）",
+      "heading": "法第13条《信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属》関係",
+      "file": "items/13-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/02.htm"
+    },
+    {
+      "num": "13-5",
+      "caption": "（信託による資産の移転等）",
+      "heading": "法第13条《信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属》関係",
+      "file": "items/13-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/02.htm"
+    },
+    {
+      "num": "13-6",
+      "caption": "（信託の受益者としての権利の譲渡等）",
+      "heading": "法第13条《信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属》関係",
+      "file": "items/13-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/02.htm"
+    },
+    {
+      "num": "13-7",
+      "caption": "（受益者等課税信託に係る受益者の範囲）",
+      "heading": "法第13条《信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属》関係",
+      "file": "items/13-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/02.htm"
+    },
+    {
+      "num": "13-8",
+      "caption": "（受益者とみなされる委託者）",
+      "heading": "法第13条《信託財産に属する資産及び負債並びに信託財産に帰せられる収益及び費用の帰属》関係",
+      "file": "items/13-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/03/02.htm"
+    },
+    {
+      "num": "23-1",
+      "caption": "（預貯金の利子に該当するもの）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/23-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-1",
+      "caption": "（剰余金の配当、利益の配当又は剰余金の分配に含まれるもの）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-2",
+      "caption": "（配当等に含まれないもの）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-5",
+      "caption": "（株式等を取得するために要した負債の利子）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-6",
+      "caption": "（株式等の譲渡による所得がある場合の負債の利子）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-6の2",
+      "caption": "（配当所得の収入金額を超える負債の利子）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-6の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-7",
+      "caption": "（負債を借り換えた場合）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-8",
+      "caption": "（負債により取得した株式等の一部を譲渡した場合）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-9",
+      "caption": "（負債により取得した株式等を買い換えた場合）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "24-10",
+      "caption": "（負債の利子につき月数あん分を行う場合）",
+      "heading": "法第23条《利子所得》関係",
+      "file": "items/24-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/01.htm"
+    },
+    {
+      "num": "28-1",
+      "caption": "（宿日直料）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-2",
+      "caption": "（同一人が宿直と日直とを引き続いて行った場合）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-3",
+      "caption": "（年額又は月額により支給される旅費）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-4",
+      "caption": "（役員等に支給される交際費等）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-5",
+      "caption": "（雇用契約等に基づいて支給される結婚祝金品等）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-6",
+      "caption": "（雇用契約等に基づいて支給される結婚祝金品等）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-7",
+      "caption": "（委員手当等）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-8",
+      "caption": "（地方自治法の規定による費用の弁償）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-9",
+      "caption": "（非常勤の消防団員が支給を受ける金銭）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-9の2",
+      "caption": "（医師又は歯科医師が支給を受ける休日、夜間診療の委嘱料等）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-9の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-9の3",
+      "caption": "（派遣医が支給を受ける診療の報酬等）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-9の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "28-10",
+      "caption": "（給与等の受領を辞退した場合）",
+      "heading": "法第28条《給与所得》関係",
+      "file": "items/28-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/03.htm"
+    },
+    {
+      "num": "30-1",
+      "caption": "（退職手当等の範囲）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-2",
+      "caption": "（引き続き勤務する者に支払われる給与で退職手当等とするもの）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-2の2",
+      "caption": "（使用人から執行役員への就任に伴い退職手当等として支給される一時金）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-2の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-3",
+      "caption": "（受給者が掛金を拠出することにより退職に際しその使用者から支払われる一時金）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-4",
+      "caption": "（過去の勤務に基づき使用者であった者から支給される年金に代えて支払われる一時金）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-5",
+      "caption": "（解雇予告手当）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-6",
+      "caption": "（退職手当等の支払金額の計算の基礎となった期間と勤続年数との関係）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-7",
+      "caption": "（長期欠勤又は休職中の期間）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-8",
+      "caption": "（引き続き勤務する者に支払われる給与で退職手当等とされるものに係る勤続年数）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-9",
+      "caption": "（日々雇い入れられる期間）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-10",
+      "caption": "（前に勤務した期間を通算して支払われる退職手当等に係る勤続年数の計算規定を適用する場合）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-11",
+      "caption": "（前に勤務した期間の一部等を通算する場合の勤続年数の計算）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-12",
+      "caption": "（復職等に際し退職手当等を返還した場合）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-13",
+      "caption": "（勤続年数の計算の基礎となる期間の計算）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-14",
+      "caption": "（その年に支払を受ける2以上の退職手当等のうちに前の退職手当等の計算期間を通算して支払われるものがある場合の控除期間）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "30-15",
+      "caption": "（障害による退職に該当する場合）",
+      "heading": "法第30条《退職所得》関係",
+      "file": "items/30-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/04.htm"
+    },
+    {
+      "num": "31-1",
+      "caption": "（確定給付企業年金法等の規定に基づいて支払われる一時金）",
+      "heading": "法第31条《退職手当等とみなす一時金》関係",
+      "file": "items/31-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/05.htm"
+    },
+    {
+      "num": "31-2",
+      "caption": "（退職一時金等に係る勤続年数の計算）",
+      "heading": "法第31条《退職手当等とみなす一時金》関係",
+      "file": "items/31-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/05.htm"
+    },
+    {
+      "num": "31-3",
+      "caption": "（退職金共済契約の範囲）",
+      "heading": "法第31条《退職手当等とみなす一時金》関係",
+      "file": "items/31-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/05.htm"
+    },
+    {
+      "num": "31-4",
+      "caption": "（被共済者間の公平な取扱い）",
+      "heading": "法第31条《退職手当等とみなす一時金》関係",
+      "file": "items/31-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/05.htm"
+    },
+    {
+      "num": "31-5",
+      "caption": "（退職給付金支給事業とその他の事業とを併せて行う団体に対して支出した掛金）",
+      "heading": "法第31条《退職手当等とみなす一時金》関係",
+      "file": "items/31-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/05.htm"
+    },
+    {
+      "num": "32-1",
+      "caption": "（山林の伐採又は譲渡による所得）",
+      "heading": "法第32条《山林所得》関係",
+      "file": "items/32-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/06.htm"
+    },
+    {
+      "num": "32-2",
+      "caption": "（山林とともに土地を譲渡した場合）",
+      "heading": "法第32条《山林所得》関係",
+      "file": "items/32-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/06.htm"
+    },
+    {
+      "num": "32-3",
+      "caption": "（山林の取得の日）",
+      "heading": "法第32条《山林所得》関係",
+      "file": "items/32-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/06.htm"
+    },
+    {
+      "num": "32-4",
+      "caption": "（山林所得の基因となる山林とその他の山林とがある場合の収入金額等の区分）",
+      "heading": "法第32条《山林所得》関係",
+      "file": "items/32-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/06.htm"
+    },
+    {
+      "num": "33-1",
+      "caption": "（譲渡所得の基因となる資産の範囲）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-1の2",
+      "caption": "（少額重要資産の範囲）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-1の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-1の3",
+      "caption": "（使用可能期間が1年未満である減価償却資産）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-1の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-1の4",
+      "caption": "（財産分与による資産の移転）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-1の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-1の5",
+      "caption": "（代償分割による資産の移転）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-1の5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-1の6",
+      "caption": "（遺留分侵害額の請求に基づく金銭の支払に代えて行う資産の移転）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-1の6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-1の7",
+      "caption": "（共有地の分割）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-1の7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-1の8",
+      "caption": "（受益者等課税信託の信託財産に属する資産の譲渡等）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-1の8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-2",
+      "caption": "（譲渡担保に係る資産の移転）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-3",
+      "caption": "（極めて長期間保有していた不動産の譲渡による所得）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-4",
+      "caption": "（固定資産である土地に区画形質の変更等を加えて譲渡した場合の所得）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-4の2",
+      "caption": "（区画形質の変更等を加えた土地に借地権等を設定した場合の所得）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-4の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-5",
+      "caption": "（極めて長期間保有していた土地に区画形質の変更等を加えて譲渡した場合の所得）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-6",
+      "caption": "（借家人が受ける立退料）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-6の2",
+      "caption": "（ゴルフ会員権の譲渡による所得）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-6の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-6の3",
+      "caption": "（ゴルフ場の利用権の譲渡に類似する株式等の譲渡による所得の所得区分）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-6の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-6の4",
+      "caption": "（有価証券の譲渡所得が短期譲渡所得に該当するかどうかの判定）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-6の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-6の5",
+      "caption": "（土石等の譲渡による所得）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-6の5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-6の6",
+      "caption": "（法律の規定に基づかない区画形質の変更に伴う土地の交換分合）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-6の6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-6の7",
+      "caption": "（宅地造成契約に基づく土地の交換等）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-6の7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-6の8",
+      "caption": "（配偶者居住権等の消滅による所得）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-6の8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-7",
+      "caption": "（譲渡費用の範囲）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-8",
+      "caption": "（資産の譲渡に関連する資産損失）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-9",
+      "caption": "（資産の取得の日）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-10",
+      "caption": "（借地権者等が取得した底地の取得時期等）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-11",
+      "caption": "（譲渡資産のうちに短期保有資産と長期保有資産とがある場合の収入金額等の区分）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-11の2",
+      "caption": "（借地権等を消滅させた後、土地を譲渡した場合等の収入金額の区分）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-11の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-11の3",
+      "caption": "（底地を取得した後、土地を譲渡した場合等の収入金額の区分）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-11の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-12",
+      "caption": "（特別高圧架空電線等の意義）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-13",
+      "caption": "（借地権に係る土地を他人に使用させる行為等）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-14",
+      "caption": "（複利の方法で計算した現在価値に相当する金額の計算）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-15",
+      "caption": "（借地権の設定等に伴う保証金等）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-15の2",
+      "caption": "（共同建築の場合の借地権の設定）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-15の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-15の3",
+      "caption": "（大深度事業と一体的に施行される事業により設置される施設等の所有を目的とする地下について上下の範囲を定めた借地権の設定）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-15の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-15の4",
+      "caption": "（大深度事業認可前の借地権の設定）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-15の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "33-16",
+      "caption": "（物納の撤回に係る資産を譲渡した場合）",
+      "heading": "法第33条《譲渡所得》関係",
+      "file": "items/33-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/07.htm"
+    },
+    {
+      "num": "34-1",
+      "caption": "（一時所得の例示）",
+      "heading": "法第34条《一時所得》関係",
+      "file": "items/34-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/08.htm"
+    },
+    {
+      "num": "34-2",
+      "caption": "（遺族が受ける給与等、公的年金等及び退職手当等）",
+      "heading": "法第34条《一時所得》関係",
+      "file": "items/34-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/08.htm"
+    },
+    {
+      "num": "34-3",
+      "caption": "（一時所得の収入を得るために支出した金額）",
+      "heading": "法第34条《一時所得》関係",
+      "file": "items/34-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/08.htm"
+    },
+    {
+      "num": "34-4",
+      "caption": "（生命保険契約等に基づく一時金又は損害保険契約等に基づく満期返戻金等に係る所得金額の計算上控除する保険料等）",
+      "heading": "法第34条《一時所得》関係",
+      "file": "items/34-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/08.htm"
+    },
+    {
+      "num": "35-1",
+      "caption": "（その他雑所得の例示）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-2",
+      "caption": "（業務に係る雑所得の例示）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-3",
+      "caption": "（年金に代えて支払われる一時金）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-4",
+      "caption": "（生命保険契約等又は損害保険契約等に基づく年金に係る所得金額の計算上控除する保険料等）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-4の2",
+      "caption": "（年金の種類の判定）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-4の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-4の3",
+      "caption": "（保証期間における当初年金受取人の契約年額と当初年金受取人以外の者の契約年額が異なる場合）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-4の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-5",
+      "caption": "（受給者が掛金を拠出することにより退職後その使用者であった者から支給される年金）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-6",
+      "caption": "（年金の支給開始日以後に分配を受ける剰余金）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-7",
+      "caption": "（転籍前の法人から支給される較差金）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "35-8",
+      "caption": "（公的年金等に係る雑所得以外の合計所得金額の計算について）",
+      "heading": "法第35条《雑所得》関係",
+      "file": "items/35-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/09.htm"
+    },
+    {
+      "num": "36-15",
+      "caption": "（経済的利益）",
+      "heading": "〔経済的利益〕",
+      "file": "items/36-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/02.htm"
+    },
+    {
+      "num": "36-16",
+      "caption": "（経済的利益の額を収入金額等に算入する時期）",
+      "heading": "〔経済的利益〕",
+      "file": "items/36-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/02.htm"
+    },
+    {
+      "num": "36-17",
+      "caption": "（経済的利益の額を収入金額等に算入する時期）",
+      "heading": "〔経済的利益〕",
+      "file": "items/36-17.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/02.htm"
+    },
+    {
+      "num": "36-18",
+      "caption": "（広告宣伝用資産等の贈与等を受けた場合の経済的利益）",
+      "heading": "〔経済的利益〕",
+      "file": "items/36-18.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/02.htm"
+    },
+    {
+      "num": "36-19",
+      "caption": "（広告宣伝用資産の取得のために金銭の交付を受けた場合）",
+      "heading": "〔経済的利益〕",
+      "file": "items/36-19.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/02.htm"
+    },
+    {
+      "num": "36-20",
+      "caption": "（事業の広告宣伝のための賞金を受けた場合の経済的利益の評価）",
+      "heading": "〔経済的利益〕",
+      "file": "items/36-20.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/02.htm"
+    },
+    {
+      "num": "36-21",
+      "caption": "（課税しない経済的利益……永年勤続者の記念品等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-21.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-22",
+      "caption": "（課税しない経済的利益……創業記念品等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-22.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-23",
+      "caption": "（課税しない経済的利益……商品、製品等の値引販売）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-23.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-24",
+      "caption": "（課税しない経済的利益……残業又は宿日直をした者に支給する食事）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-24.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-25",
+      "caption": "（課税しない経済的利益……掘採場勤務者に支給する燃料）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-25.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-26",
+      "caption": "（課税しない経済的利益……寄宿舎の電気料等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-26.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-27",
+      "caption": "（課税しない経済的利益……寄宿舎の電気料等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-27.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-28",
+      "caption": "（課税しない経済的利益……金銭の無利息貸付け等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-28.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-29",
+      "caption": "（課税しない経済的利益……用役の提供等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-29.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-29の2",
+      "caption": "（課税しない経済的利益……使用人等に対し技術の習得等をさせるために支給する金品）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-29の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-30",
+      "caption": "（課税しない経済的利益……使用者が負担するレクリエーションの費用）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-30.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-31",
+      "caption": "（使用者契約の養老保険に係る経済的利益）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-31.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-31の2",
+      "caption": "（使用者契約の定期保険に係る経済的利益）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-31の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-31の3",
+      "caption": "（使用者契約の定期付養老保険に係る経済的利益）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-31の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-31の4",
+      "caption": "（使用者契約の傷害特約等の特約を付した保険に係る経済的利益）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-31の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-31の5",
+      "caption": "（使用者契約の生命保険契約の転換をした場合）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-31の5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-31の6",
+      "caption": "（生命保険契約に係る取扱いの準用）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-31の6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-31の7",
+      "caption": "（使用者契約の保険契約等に係る経済的利益）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-31の7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-31の8",
+      "caption": "（使用人契約の保険契約等に係る経済的利益）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-31の8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-32",
+      "caption": "（課税しない経済的利益……使用者が負担する少額な保険料等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-32.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-33",
+      "caption": "（使用者が負担する役員又は使用人の行為に基因する損害賠償金等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-33.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-34",
+      "caption": "（使用者が負担するゴルフクラブの入会金）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-34.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-34の2",
+      "caption": "（使用者が負担するゴルフクラブの年会費等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-34の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-34の3",
+      "caption": "（使用者が負担するレジャークラブの入会金等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-34の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-35",
+      "caption": "（使用者が負担する社交団体の入会金等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-35.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-35の2",
+      "caption": "（使用者が負担するロータリークラブ及びライオンズクラブの入会金等）",
+      "heading": "〔給与等に係る経済的利益〕",
+      "file": "items/36-35の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/03.htm"
+    },
+    {
+      "num": "36-36",
+      "caption": "（有価証券の評価）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-36.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-37",
+      "caption": "（保険契約等に関する権利の評価）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-37.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-38",
+      "caption": "（食事の評価）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-38.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-38の2",
+      "caption": "（食事の支給による経済的利益はないものとする場合）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-38の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-39",
+      "caption": "（商品、製品等の評価）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-39.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-40",
+      "caption": "（役員に貸与した住宅等に係る通常の賃貸料の額の計算）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-40.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-41",
+      "caption": "（小規模住宅等に係る通常の賃貸料の額の計算）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-41.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-42",
+      "caption": "（通常の賃貸料の額の計算に関する細目）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-42.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-43",
+      "caption": "（通常の賃貸料の額の計算の特例）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-43.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-44",
+      "caption": "（住宅等の貸与による経済的利益の有無の判定上のプール計算）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-44.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-45",
+      "caption": "（使用人に貸与した住宅等に係る通常の賃貸料の額の計算）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-45.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-45の2",
+      "caption": "（無償返還の届出がある場合の通常の賃貸料の額）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-45の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-46",
+      "caption": "（通常の賃貸料の額の改算を要しない場合）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-46.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-47",
+      "caption": "（徴収している賃貸料の額が通常の賃貸料の額の50％相当額以上である場合）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-47.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-48",
+      "caption": "（住宅等の貸与による経済的利益の有無の判定上のプール計算）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-48.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-49",
+      "caption": "（利息相当額の評価）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-49.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "36-50",
+      "caption": "（用役の評価）",
+      "heading": "〔給与等とされる経済的利益の評価〕",
+      "file": "items/36-50.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/04.htm"
+    },
+    {
+      "num": "37-1",
+      "caption": "（売上原価等の費用の範囲）",
+      "heading": "〔債務が確定している費用〕",
+      "file": "items/37-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/05.htm"
+    },
+    {
+      "num": "37-2",
+      "caption": "（必要経費に算入すべき費用の債務確定の判定）",
+      "heading": "〔債務が確定している費用〕",
+      "file": "items/37-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/05.htm"
+    },
+    {
+      "num": "37-2の2",
+      "caption": "（損害賠償金の必要経費算入の時期）",
+      "heading": "〔債務が確定している費用〕",
+      "file": "items/37-2の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/05.htm"
+    },
+    {
+      "num": "37-3",
+      "caption": "（翌年以後の期間の賃貸料を一括して収受した場合の必要経費）",
+      "heading": "〔債務が確定している費用〕",
+      "file": "items/37-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/05.htm"
+    },
+    {
+      "num": "37-4",
+      "caption": "（酒税等の両建経理）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-5",
+      "caption": "（固定資産税等の必要経費算入）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-6",
+      "caption": "（その年分の必要経費に算入する租税）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-7",
+      "caption": "（事業を廃止した年分の所得につき課税される事業税の見込控除）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-8",
+      "caption": "（受益者負担金の必要経費算入）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-9",
+      "caption": "（農業協同組合等の賦課金）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-9の2",
+      "caption": "（汚染負荷量賦課金等）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-9の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-9の3",
+      "caption": "（負担金の使用期間）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-9の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-9の4",
+      "caption": "（特定の損失又は費用をするための業務の範囲）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-9の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-9の5",
+      "caption": "（負担金の必要経費算入時期）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-9の5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-9の6",
+      "caption": "（災害見舞金に充てるために同業団体等へ拠出する分担金等）",
+      "heading": "〔租税公課〕",
+      "file": "items/37-9の6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/06.htm"
+    },
+    {
+      "num": "37-10",
+      "caption": "（資本的支出の例示）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-10の2",
+      "caption": "（ソフトウエアに係る資本的支出と修繕費）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-10の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37の10-2",
+      "caption": "（株式等の譲渡に係る所得区分）",
+      "heading": "法第23条から第35条まで（各種所得）共通関係",
+      "file": "items/37の10-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/04/11.htm"
+    },
+    {
+      "num": "37-11",
+      "caption": "（修繕費に含まれる費用）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-12",
+      "caption": "（少額又は周期の短い費用の必要経費算入）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-12の2",
+      "caption": "（災害の復旧費用の必要経費算入）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-12の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-13",
+      "caption": "（形式基準による修繕費の判定）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-14",
+      "caption": "（資本的支出と修繕費の区分の特例）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-14の2",
+      "caption": "（災害の場合の原状回復のための費用の特例）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-14の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-14の3",
+      "caption": "（機能復旧補償金による固定資産の取得又は改良）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-14の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-15",
+      "caption": "（地盤沈下による防潮堤、防波堤等の積上費）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-15の2",
+      "caption": "（耐用年数を経過した資産についてした修理、改良等）",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-15の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-15の3",
+      "caption": "(損壊した賃借資産等に係る修繕費)",
+      "heading": "〔資本的支出と修繕費等〕",
+      "file": "items/37-15の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/07.htm"
+    },
+    {
+      "num": "37-16",
+      "caption": "（事業を営む者等の海外渡航費）",
+      "heading": "〔海外渡航費〕",
+      "file": "items/37-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/08.htm"
+    },
+    {
+      "num": "37-17",
+      "caption": "（使用人に支給する海外渡航旅費）",
+      "heading": "〔海外渡航費〕",
+      "file": "items/37-17.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/08.htm"
+    },
+    {
+      "num": "37-18",
+      "caption": "（旅行期間のおおむね全期間を通じて事業の遂行上直接必要と認められる場合）",
+      "heading": "〔海外渡航費〕",
+      "file": "items/37-18.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/08.htm"
+    },
+    {
+      "num": "37-19",
+      "caption": "（事業の遂行上直接必要な海外渡航の判定）",
+      "heading": "〔海外渡航費〕",
+      "file": "items/37-19.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/08.htm"
+    },
+    {
+      "num": "37-20",
+      "caption": "（同伴者の旅費）",
+      "heading": "〔海外渡航費〕",
+      "file": "items/37-20.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/08.htm"
+    },
+    {
+      "num": "37-21",
+      "caption": "（事業の遂行上直接必要と認められる旅行と認められない旅行とを併せて行った場合）",
+      "heading": "〔海外渡航費〕",
+      "file": "items/37-21.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/08.htm"
+    },
+    {
+      "num": "37-22",
+      "caption": "（事業の遂行上直接必要と認められない海外渡航の旅費の特例）",
+      "heading": "〔海外渡航費〕",
+      "file": "items/37-22.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/08.htm"
+    },
+    {
+      "num": "37-23",
+      "caption": "（不動産所得の基因となっていた建物の賃借人に支払った立退料）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-23.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-24",
+      "caption": "（技能の習得又は研修等のために支出した費用）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-24.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-25",
+      "caption": "（民事事件に関する費用）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-25.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-26",
+      "caption": "（刑事事件に関する費用）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-26.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-27",
+      "caption": "（業務用資産の取得のために要した借入金の利子）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-27.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-28",
+      "caption": "（賦払の契約により購入した資産に係る利息等相当部分）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-28.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-29",
+      "caption": "（退職金共済掛金等の必要経費算入の時期）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-29.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-30",
+      "caption": "（前納掛金等の必要経費算入）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-30.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-30の2",
+      "caption": "（短期の前払費用）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-30の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-30の3",
+      "caption": "（消耗品費等）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-30の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-30の4",
+      "caption": "（繰延消費税額等につき相続があった場合の取扱い）",
+      "heading": "〔その他の共通費用〕",
+      "file": "items/37-30の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/09.htm"
+    },
+    {
+      "num": "37-31",
+      "caption": "（災害等関連費用の必要経費算入の時期）",
+      "heading": "〔山林に係る費用〕",
+      "file": "items/37-31.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/10.htm"
+    },
+    {
+      "num": "37-32",
+      "caption": "（間伐した山林に係る必要経費）",
+      "heading": "〔山林に係る費用〕",
+      "file": "items/37-32.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/10.htm"
+    },
+    {
+      "num": "37-33",
+      "caption": "（林地賦課金）",
+      "heading": "〔山林に係る費用〕",
+      "file": "items/37-33.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/10.htm"
+    },
+    {
+      "num": "37-34",
+      "caption": "（立木賦課金）",
+      "heading": "〔山林に係る費用〕",
+      "file": "items/37-34.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/10.htm"
+    },
+    {
+      "num": "37-35",
+      "caption": "（立木賦課金の償却の特例）",
+      "heading": "〔山林に係る費用〕",
+      "file": "items/37-35.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/10.htm"
+    },
+    {
+      "num": "37-36",
+      "caption": "（立木賦課金の額が明らかでない場合）",
+      "heading": "〔山林に係る費用〕",
+      "file": "items/37-36.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/10.htm"
+    },
+    {
+      "num": "37-37",
+      "caption": "（地方公共団体等が林道開設に伴い賦課する賦課金等）",
+      "heading": "〔山林に係る費用〕",
+      "file": "items/37-37.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/10.htm"
+    },
+    {
+      "num": "37-38",
+      "caption": "（譲渡に要した費用）",
+      "heading": "〔山林に係る費用〕",
+      "file": "items/37-38.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/05/10.htm"
+    },
+    {
+      "num": "47-2",
+      "caption": "（個別法を選定することができる棚卸資産）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-3",
+      "caption": "（月別総平均法等）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-4",
+      "caption": "（半製品又は仕掛品についての売価還元法）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-5",
+      "caption": "（売価還元法の適用区分）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-6",
+      "caption": "（売価還元法により評価額を計算する場合の通常の販売価額の総額の計算）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-7",
+      "caption": "（売価還元法により評価額を計算する場合のその年中に販売した棚卸資産の対価の総額の計算）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-8",
+      "caption": "（原価の率が100％を超える場合の売価還元法の適用）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-8の2",
+      "caption": "（未着品の評価）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-8の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-9",
+      "caption": "（低価法における低価の事実の判定の単位）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-10",
+      "caption": "（時価）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-11",
+      "caption": "（前年末において低価法により評価している場合の棚卸資産の取得価額）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "47-12",
+      "caption": "（準棚卸資産に係る必要経費の算入）",
+      "heading": "〔棚卸資産の評価の方法（令第99条関係）〕",
+      "file": "items/47-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/01.htm"
+    },
+    {
+      "num": "48-1",
+      "caption": "（有価証券の種類）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-1の2",
+      "caption": "（特定譲渡制限付株式等の価額）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-1の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-2",
+      "caption": "（発行法人から与えられた株式等を取得する権利の行使により取得した株式等の価額）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48の2-1",
+      "caption": "（一時的に必要な暗号資産を取得した場合の取扱い）",
+      "heading": "法第48条の2《暗号資産の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48の2-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04-2.htm"
+    },
+    {
+      "num": "48-2の2",
+      "caption": "（株主等として与えられる場合）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-2の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48の2-2",
+      "caption": "（暗号資産の種類）",
+      "heading": "法第48条の2《暗号資産の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48の2-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04-2.htm"
+    },
+    {
+      "num": "48の2-3",
+      "caption": "（評価方法の変更申請があった場合の「相当期間」）",
+      "heading": "法第48条の2《暗号資産の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48の2-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04-2.htm"
+    },
+    {
+      "num": "48の2-4",
+      "caption": "（暗号資産の取得価額）",
+      "heading": "法第48条の2《暗号資産の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48の2-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04-2.htm"
+    },
+    {
+      "num": "48-3",
+      "caption": "（有価証券の購入のために要した費用）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-4",
+      "caption": "（有価証券の購入のために要した費用）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-5",
+      "caption": "（有価証券の購入のために要した費用）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-6",
+      "caption": "（有価証券の購入のために要した費用）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-6の2",
+      "caption": "（新株予約権の行使により取得した株式の取得価額）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-6の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-6の3",
+      "caption": "（新株予約権付社債に係る新株予約権の行使により取得した株式の取得価額）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-6の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-7",
+      "caption": "（評価方法の変更申請があった場合の「相当期間」）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "48-8",
+      "caption": "（有価証券の取得価額）",
+      "heading": "法第48条《有価証券の譲渡原価等の計算及びその評価の方法》関係",
+      "file": "items/48-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/04.htm"
+    },
+    {
+      "num": "49-3",
+      "caption": "（減価償却資産に係る登録免許税等）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-4",
+      "caption": "（減価償却資産の取得に際して支払う立退料等）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-5",
+      "caption": "（集中生産を行うなどのための機械装置の移設費）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-6",
+      "caption": "（採掘権の取得価額）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-7",
+      "caption": "（自己の研究に基づき取得した工業所有権の取得価額）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-8",
+      "caption": "（譲渡を受けた出願権に基づき取得した工業所有権の取得価額）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-8の2",
+      "caption": "（自己の製作に係るソフトウエアの取得価額等）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-8の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-8の3",
+      "caption": "（ソフトウエアの取得価額に算入しないことができる費用）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-8の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-8の4",
+      "caption": "（資本的支出の取得価額の特例の適用関係）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-8の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-9",
+      "caption": "（温泉をゆう出する土地を取得した場合の温泉利用権の取得価額）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-10",
+      "caption": "（出漁権等の取得価額）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-11",
+      "caption": "（出漁権等の取得価額）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-12",
+      "caption": "（未成熟の植物から収穫物があった場合等の取得価額の計算）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-12の2",
+      "caption": "（減価償却資産について値引き等があった場合）",
+      "heading": "〔減価償却資産の取得価額（令第126条関係）〕",
+      "file": "items/49-12の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/06.htm"
+    },
+    {
+      "num": "49-13",
+      "caption": "（耐用年数短縮の承認事由の判定）",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-14",
+      "caption": "（耐用年数の短縮の対象となる資産の単位）",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-15",
+      "caption": "（機械及び装置以外の減価償却資産の使用可能期間の算定）",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-15の2",
+      "caption": "(機械及び装置以外の減価償却資産の未経過使用可能期間の算定)",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-15の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-16",
+      "caption": "（機械及び装置の使用可能期間の算定）",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-16の2",
+      "caption": "(機械及び装置の未経過使用可能期間の算定)",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-16の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-17",
+      "caption": "（耐用年数短縮の承認があった後に取得した資産の耐用年数）",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-17.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-17の2",
+      "caption": "（耐用年数短縮の承認を受けている資産に資本的支出をした場合）",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-17の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-17の3",
+      "caption": "（耐用年数短縮が届出により認められる資産の更新に含まれる資産の取得等）",
+      "heading": "〔耐用年数の短縮（令第130条関係）〕",
+      "file": "items/49-17の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/07.htm"
+    },
+    {
+      "num": "49-47",
+      "caption": "（償却費が一定の金額に達したかどうかの判定）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-47.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "49-48",
+      "caption": "（償却累積額による償却限度額の特例の償却を行う減価償却資産に資本的支出をした場合）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-48.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "49-48の2",
+      "caption": "（堅牢な建物等に資本的支出をした場合の減価償却）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-48の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "49-49",
+      "caption": "（劣化資産）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-49.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "49-50",
+      "caption": "（棚卸資産とすることができる劣化資産）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-50.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "49-51",
+      "caption": "（一時に取り替える劣化資産の取得価額の必要経費算入）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-51.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "49-52",
+      "caption": "（一時に取り替えないで随時補充する劣化資産の取得価額の必要経費算入）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-52.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "49-53",
+      "caption": "（少額な劣化資産の必要経費算入）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-53.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "49-54",
+      "caption": "（年の中途で譲渡した減価償却資産の償却費の計算）",
+      "heading": "〔償却累積額による償却費の特例及び堅牢な建物等の償却費の特例（令第134条及び第134条の2関係）〕",
+      "file": "items/49-54.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/08/13.htm"
+    },
+    {
+      "num": "51-2の3",
+      "caption": "（ソフトウエアの除却）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-2の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-3",
+      "caption": "（原状回復のための費用）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-4",
+      "caption": "（スクラップ化していた資産の譲渡損失）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-5",
+      "caption": "（親族の有する固定資産について生じた損失）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-5の2",
+      "caption": "（雑所得の基因となる山林の資産損失）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-5の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-6",
+      "caption": "（保険金、損害賠償金に類するものの範囲）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-7",
+      "caption": "（保険金等の見込控除）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-8",
+      "caption": "（盗難品等の返還を受けた場合のそ及訂正）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-9",
+      "caption": "（損失が生じた資産の取得費等）",
+      "heading": "〔固定資産等の損失〕",
+      "file": "items/51-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/01.htm"
+    },
+    {
+      "num": "51-10",
+      "caption": "（事業の遂行上生じた売掛金、貸付金等に準ずる債権）",
+      "heading": "〔貸倒損失〕",
+      "file": "items/51-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm"
+    },
+    {
+      "num": "51-11",
+      "caption": "（貸金等の全部又は一部の切捨てをした場合の貸倒れ）",
+      "heading": "〔貸倒損失〕",
+      "file": "items/51-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm"
+    },
+    {
+      "num": "51-12",
+      "caption": "（回収不能の貸金等の貸倒れ）",
+      "heading": "〔貸倒損失〕",
+      "file": "items/51-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm"
+    },
+    {
+      "num": "51-13",
+      "caption": "（一定期間取引停止後弁済がない場合等の貸倒れ）",
+      "heading": "〔貸倒損失〕",
+      "file": "items/51-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm"
+    },
+    {
+      "num": "51-14",
+      "caption": "（更生債権者が更生計画の定めるところにより株式を取得した場合）",
+      "heading": "〔貸倒損失〕",
+      "file": "items/51-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm"
+    },
+    {
+      "num": "51-15",
+      "caption": "（更生債権者が更生会社の株式を取得する権利の割当てを受けた場合）",
+      "heading": "〔貸倒損失〕",
+      "file": "items/51-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm"
+    },
+    {
+      "num": "51-16",
+      "caption": "（更生手続の対象とされなかった更生債権の貸倒れ）",
+      "heading": "〔貸倒損失〕",
+      "file": "items/51-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm"
+    },
+    {
+      "num": "51-17",
+      "caption": "（金銭債権の譲渡損失）",
+      "heading": "〔貸倒損失〕",
+      "file": "items/51-17.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/09/02.htm"
+    },
+    {
+      "num": "52-1",
+      "caption": "（その有する売掛金、貸付金等に準ずる金銭債権で事業の遂行上生じたもの）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-1の2",
+      "caption": "（貸倒損失として計上した金銭債権に係る個別評価による貸倒引当金）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-1の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-2",
+      "caption": "（裏書譲渡をした受取手形）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-3",
+      "caption": "（貸倒れに類する事由）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-4",
+      "caption": "（貸倒れに類する事由）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-5",
+      "caption": "（担保権の実行により取立て等の見込みがあると認められる部分の金額）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-6",
+      "caption": "（相当期間の意義）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-7",
+      "caption": "（人的保証に係る回収可能額の算定）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-8",
+      "caption": "（担保物の処分以外に回収が見込まれない貸金等の個別評価による繰入れ）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-9",
+      "caption": "（実質的に債権とみられない部分の金額）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-10",
+      "caption": "（第三者の振り出した手形）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-11",
+      "caption": "（手形交換所等の取引停止処分）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-12",
+      "caption": "（国外にある債務者）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-13",
+      "caption": "（中央銀行の意義）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-14",
+      "caption": "（繰入れ対象となる公的債務者に対する貸金等）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-15",
+      "caption": "（取立て等の見込みがあると認められる部分の金額）",
+      "heading": "〔個別評価による繰入れ（第1項関係）〕",
+      "file": "items/52-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/01.htm"
+    },
+    {
+      "num": "52-18",
+      "caption": "（実質的に債権とみられないもの）",
+      "heading": "〔一括評価による繰入れ（第2項関係）〕",
+      "file": "items/52-18.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/02.htm"
+    },
+    {
+      "num": "52-19",
+      "caption": "（実質的に債権とみられないものの簡便計算を適用できる場合）",
+      "heading": "〔一括評価による繰入れ（第2項関係）〕",
+      "file": "items/52-19.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/02.htm"
+    },
+    {
+      "num": "52-20",
+      "caption": "（リース取引に係る貸金）",
+      "heading": "〔一括評価による繰入れ（第2項関係）〕",
+      "file": "items/52-20.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/02.htm"
+    },
+    {
+      "num": "52-21",
+      "caption": "（返品債権特別勘定を設定している場合の貸金の額）",
+      "heading": "〔一括評価による繰入れ（第2項関係）〕",
+      "file": "items/52-21.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/02.htm"
+    },
+    {
+      "num": "52-22",
+      "caption": "（返品債権特別勘定を設定している場合の貸金の額）",
+      "heading": "〔一括評価による繰入れ（第2項関係）〕",
+      "file": "items/52-22.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/02.htm"
+    },
+    {
+      "num": "52-23",
+      "caption": "（青色申告の承認を受けている者等の範囲）",
+      "heading": "〔一括評価による繰入れ（第2項関係）〕",
+      "file": "items/52-23.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/02.htm"
+    },
+    {
+      "num": "52-24",
+      "caption": "（相続人の青色申告の承認の取消し等があった場合）",
+      "heading": "〔一括評価による繰入れ（第2項関係）〕",
+      "file": "items/52-24.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/10/02.htm"
+    },
+    {
+      "num": "57の3-1",
+      "caption": "（いわゆる外貨建て円払いの取引）",
+      "heading": "法第57条の3《外貨建取引の換算》関係",
+      "file": "items/57の3-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11a/01.htm"
+    },
+    {
+      "num": "57の3-2",
+      "caption": "（外貨建取引の円換算）",
+      "heading": "法第57条の3《外貨建取引の換算》関係",
+      "file": "items/57の3-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11a/01.htm"
+    },
+    {
+      "num": "57の3-3",
+      "caption": "（多通貨会計を採用している場合の外貨建取引の換算）",
+      "heading": "法第57条の3《外貨建取引の換算》関係",
+      "file": "items/57の3-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11a/01.htm"
+    },
+    {
+      "num": "57の3-4",
+      "caption": "（先物外国為替契約等がある場合の収入、経費の換算等）",
+      "heading": "法第57条の3《外貨建取引の換算》関係",
+      "file": "items/57の3-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11a/01.htm"
+    },
+    {
+      "num": "57の3-5",
+      "caption": "（前渡金等の振替え）",
+      "heading": "法第57条の3《外貨建取引の換算》関係",
+      "file": "items/57の3-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11a/01.htm"
+    },
+    {
+      "num": "57の3-6",
+      "caption": "（国外で業務を行う者の損益計算書等に係る外貨建取引の換算）",
+      "heading": "法第57条の3《外貨建取引の換算》関係",
+      "file": "items/57の3-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11a/01.htm"
+    },
+    {
+      "num": "57の4-1",
+      "caption": "（一株に満たない数の株式の譲渡等による代金が交付された場合の取扱い）",
+      "heading": "法第57条の4《株式交換等に係る譲渡所得等の特例》関係",
+      "file": "items/57の4-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11a/02.htm"
+    },
+    {
+      "num": "57の4-2",
+      "caption": "（一に満たない数の株式又は新株予約権の譲渡等による代金が交付された場合の取扱い）",
+      "heading": "法第57条の4《株式交換等に係る譲渡所得等の特例》関係",
+      "file": "items/57の4-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/11a/02.htm"
+    },
+    {
+      "num": "58-1",
+      "caption": "（所有期間の起算日）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-1の2",
+      "caption": "（取得時期の引継規定の適用がある資産の所有期間）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-1の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-2",
+      "caption": "（交換の対象となる土地の範囲）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-2の2",
+      "caption": "（交換の対象となる耕作権の範囲）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-2の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-3",
+      "caption": "（交換の対象となる建物附属設備等）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-4",
+      "caption": "（2以上の種類の資産を交換した場合）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-5",
+      "caption": "（交換により取得した2以上の同種類の資産のうちに同一の用途に供さないものがある場合）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-6",
+      "caption": "（取得資産を譲渡資産の譲渡直前の用途と同一の用途に供したかどうかの判定）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-7",
+      "caption": "（譲渡資産の譲渡直前の用途）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-8",
+      "caption": "（取得資産を譲渡資産の譲渡直前の用途と同一の用途に供する時期）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-9",
+      "caption": "（資産の一部分を交換とし他の部分を売買とした場合）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-10",
+      "caption": "（交換費用の区分）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-11",
+      "caption": "（借地権等の設定の対価として土地を取得した場合）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "58-12",
+      "caption": "（交換資産の時価）",
+      "heading": "法第58条《固定資産の交換の場合の譲渡所得の特例》関係",
+      "file": "items/58-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/01.htm"
+    },
+    {
+      "num": "59-1",
+      "caption": "（財産の拠出）",
+      "heading": "法第59条《贈与等の場合の譲渡所得等の特例》関係",
+      "file": "items/59-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/02.htm"
+    },
+    {
+      "num": "59-2",
+      "caption": "（低額譲渡）",
+      "heading": "法第59条《贈与等の場合の譲渡所得等の特例》関係",
+      "file": "items/59-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/02.htm"
+    },
+    {
+      "num": "59-3",
+      "caption": "（同族会社等に対する低額譲渡）",
+      "heading": "法第59条《贈与等の場合の譲渡所得等の特例》関係",
+      "file": "items/59-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/02.htm"
+    },
+    {
+      "num": "59-4",
+      "caption": "（一の契約により2以上の資産を譲渡した場合の低額譲渡の判定）",
+      "heading": "法第59条《贈与等の場合の譲渡所得等の特例》関係",
+      "file": "items/59-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/02.htm"
+    },
+    {
+      "num": "59-5",
+      "caption": "（借地権等の設定及び借地の無償返還）",
+      "heading": "法第59条《贈与等の場合の譲渡所得等の特例》関係",
+      "file": "items/59-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/02.htm"
+    },
+    {
+      "num": "59-6",
+      "caption": "（株式等を贈与等した場合の「その時における価額」）",
+      "heading": "法第59条《贈与等の場合の譲渡所得等の特例》関係",
+      "file": "items/59-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/02.htm"
+    },
+    {
+      "num": "60の2-1",
+      "caption": "（国外転出時に譲渡又は決済があったものとみなされた対象資産の収入すべき時期）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-2",
+      "caption": "（国外転出直前に譲渡した有価証券等の取扱い）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-3",
+      "caption": "（有価証券等の範囲）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-4",
+      "caption": "（デリバティブ取引等の範囲）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-5",
+      "caption": "（非課税有価証券の取扱い）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-6",
+      "caption": "（令第84条第3項各号に掲げる権利で当該権利の行使をしたならば同項の規定の適用のあるもの）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-7",
+      "caption": "（国外転出の時における有価証券等の価額）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-8",
+      "caption": "（外貨建ての対象資産の円換算）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-9",
+      "caption": "（修正申告等をする場合における対象資産の国外転出時の価額等）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-10",
+      "caption": "（総収入金額に算入されていない対象資産）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-11",
+      "caption": "（対象資産を贈与により居住者に移転した場合の課税取消しと価額下落との関係）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-12",
+      "caption": "（国外転出後に譲渡又は決済をした際の譲渡費用等の取扱い）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の2-13",
+      "caption": "（納税猶予期限が繰り上げられた場合等の価額下落の適用除外）",
+      "heading": "法第60条の2《国外転出をする場合の譲渡所得等の特例》関係",
+      "file": "items/60の2-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-2.htm"
+    },
+    {
+      "num": "60の3-1",
+      "caption": "（非居住者である相続人等が限定承認をした場合）",
+      "heading": "法第60条の3《贈与等により非居住者に資産が移転した場合の譲渡所得等の特例》関係",
+      "file": "items/60の3-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-3.htm"
+    },
+    {
+      "num": "60の3-2",
+      "caption": "（贈与等の時に有している対象資産の範囲）",
+      "heading": "法第60条の3《贈与等により非居住者に資産が移転した場合の譲渡所得等の特例》関係",
+      "file": "items/60の3-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-3.htm"
+    },
+    {
+      "num": "60の3-3",
+      "caption": "（非居住者からの譲渡等をした旨の通知がなかった場合）",
+      "heading": "法第60条の3《贈与等により非居住者に資産が移転した場合の譲渡所得等の特例》関係",
+      "file": "items/60の3-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-3.htm"
+    },
+    {
+      "num": "60の3-4",
+      "caption": "（遺産分割等の事由により非居住者に移転しないこととなった対象資産）",
+      "heading": "法第60条の3《贈与等により非居住者に資産が移転した場合の譲渡所得等の特例》関係",
+      "file": "items/60の3-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-3.htm"
+    },
+    {
+      "num": "60の3-5",
+      "caption": "（国外転出をする場合の譲渡所得等の特例に関する取扱いの準用）",
+      "heading": "法第60条の3《贈与等により非居住者に資産が移転した場合の譲渡所得等の特例》関係",
+      "file": "items/60の3-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-3.htm"
+    },
+    {
+      "num": "60の4-1",
+      "caption": "（有価証券等の取得費とされる金額等の円換算）",
+      "heading": "法第60条の4《外国転出時課税の規定の適用を受けた場合の譲渡所得等の特例》関係",
+      "file": "items/60の4-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/03-4.htm"
+    },
+    {
+      "num": "62-1",
+      "caption": "（災害損失の控除の順序）",
+      "heading": "法第62条《生活に通常必要でない資産の災害による損失》関係",
+      "file": "items/62-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/04.htm"
+    },
+    {
+      "num": "62-2",
+      "caption": "（固定資産等の損失に関する取扱いの準用）",
+      "heading": "法第62条《生活に通常必要でない資産の災害による損失》関係",
+      "file": "items/62-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/12/04.htm"
+    },
+    {
+      "num": "76-1",
+      "caption": "（控除の対象となる生命保険料等）",
+      "heading": "法第76条《生命保険料控除》関係",
+      "file": "items/76-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm"
+    },
+    {
+      "num": "76-2",
+      "caption": "（旧個人年金保険契約等の特約に係る保険料等）",
+      "heading": "法第76条《生命保険料控除》関係",
+      "file": "items/76-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm"
+    },
+    {
+      "num": "76-3",
+      "caption": "（支払った生命保険料等の金額）",
+      "heading": "法第76条《生命保険料控除》関係",
+      "file": "items/76-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm"
+    },
+    {
+      "num": "76-4",
+      "caption": "（使用者が負担した使用人等の負担すべき生命保険料等）",
+      "heading": "法第76条《生命保険料控除》関係",
+      "file": "items/76-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm"
+    },
+    {
+      "num": "76-5",
+      "caption": "（保険金等の支払とともに又は保険金等の支払開始の日以後に分配を受ける剰余金等）",
+      "heading": "法第76条《生命保険料控除》関係",
+      "file": "items/76-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm"
+    },
+    {
+      "num": "76-6",
+      "caption": "（支払った生命保険料等の金額の合計額の計算）",
+      "heading": "法第76条《生命保険料控除》関係",
+      "file": "items/76-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm"
+    },
+    {
+      "num": "76-7",
+      "caption": "（保険会社等に積み立てられた剰余金等で生命保険料等の金額から控除するもの）",
+      "heading": "法第76条《生命保険料控除》関係",
+      "file": "items/76-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm"
+    },
+    {
+      "num": "76-8",
+      "caption": "（生命保険料の金額を超えて剰余金の分配を行うこととなっている場合の取扱い）",
+      "heading": "法第76条《生命保険料控除》関係",
+      "file": "items/76-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/03.htm"
+    },
+    {
+      "num": "77-1",
+      "caption": "（賦払の契約により購入した資産）",
+      "heading": "法第77条《地震保険料控除》関係",
+      "file": "items/77-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/04.htm"
+    },
+    {
+      "num": "77-2",
+      "caption": "（居住の用に供する家屋）",
+      "heading": "法第77条《地震保険料控除》関係",
+      "file": "items/77-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/04.htm"
+    },
+    {
+      "num": "77-3",
+      "caption": "（損害保険契約等に基づく責任開始日前に支払った地震保険料）",
+      "heading": "法第77条《地震保険料控除》関係",
+      "file": "items/77-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/04.htm"
+    },
+    {
+      "num": "77-5",
+      "caption": "（一の契約に基づく地震保険料のうちに控除の対象となるものとならないものとがある場合の区分）",
+      "heading": "法第77条《地震保険料控除》関係",
+      "file": "items/77-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/04.htm"
+    },
+    {
+      "num": "77-6",
+      "caption": "（店舗併用住宅等について支払った地震保険料の特例）",
+      "heading": "法第77条《地震保険料控除》関係",
+      "file": "items/77-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/04.htm"
+    },
+    {
+      "num": "77-7",
+      "caption": "（支払った地震保険料の金額等）",
+      "heading": "法第77条《地震保険料控除》関係",
+      "file": "items/77-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/04.htm"
+    },
+    {
+      "num": "78-1",
+      "caption": "（支出した場合の意義）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-2",
+      "caption": "（入学に関してする寄附金の範囲）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-3",
+      "caption": "（入学に関してする寄附金に該当するもの）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-4",
+      "caption": "（国等に対する寄附金）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-5",
+      "caption": "（災害救助法の規定の適用を受ける地域の被災者のための義援金等）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-6",
+      "caption": "（最終的に国等に帰属しない寄附金）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-7",
+      "caption": "（公共企業体等に対する寄附金）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-8",
+      "caption": "（個人の負担すべき寄附金を法人が支出した場合）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-9",
+      "caption": "（出資に関する業務に充てられることが明らかな寄附金）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "93-1",
+      "caption": "（分配時調整外国税相当額の控除する年分）",
+      "heading": "法第93条《分配時調整外国税相当額控除》関係",
+      "file": "items/93-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/03.htm"
+    },
+    {
+      "num": "95-1",
+      "caption": "(外国所得税の一部につき控除申告をした場合の取扱い）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-2",
+      "caption": "(源泉徴収の外国所得税等）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95の2-1",
+      "caption": "（納税猶予期限が繰り上げられた場合等の外国税額控除の適用除外）",
+      "heading": "法第95条の2《国外転出をする場合の譲渡所得等の特例に係る外国税額控除の特例》関係",
+      "file": "items/95の2-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02-2.htm"
+    },
+    {
+      "num": "95の2-2",
+      "caption": "（外国税額控除に関する取扱いの適用）",
+      "heading": "法第95条の2《国外転出をする場合の譲渡所得等の特例に係る外国税額控除の特例》関係",
+      "file": "items/95の2-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02-2.htm"
+    },
+    {
+      "num": "95-3",
+      "caption": "(外国税額控除の適用時期）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-4",
+      "caption": "(予定納付等をした外国所得税についての外国税額控除の適用時期）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-5",
+      "caption": "（国外事業所等帰属所得に係る所得の金額の計算）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-6",
+      "caption": "（複数の国外事業所等を有する場合の取扱い）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-7",
+      "caption": "（国外事業所等帰属所得に係る所得の金額を計算する場合の準用）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-8",
+      "caption": "（国外事業所等帰属所得に係る所得の金額の計算における共通費用の額の配賦）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-9",
+      "caption": "（国外事業所等帰属所得に係る所得の金額の計算における引当金の取崩額等）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-10",
+      "caption": "（その他の国外源泉所得に係る所得の金額の計算）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-11",
+      "caption": "（その他の国外源泉所得に係る所得の金額の計算における共通費用の額の配賦）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-12",
+      "caption": "（その他の国外源泉所得に係る所得の金額の計算における引当金の取崩額等）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-13",
+      "caption": "（国際海上運輸業における運送原価の計算）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-14",
+      "caption": "（外国所得税が減額された場合の特例の適用時期）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-15",
+      "caption": "（外国所得税が減額された場合の邦貨換算）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-16",
+      "caption": "（外国所得税額に増額があった場合）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-17",
+      "caption": "（国外事業所等帰属所得を認識する場合の準用）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-17.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-18",
+      "caption": "（振替公社債等の運用又は保有）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-18.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-19",
+      "caption": "（機械設備の販売等に付随して行う技術役務の提供）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-19.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-20",
+      "caption": "（船舶又は航空機の貸付け）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-20.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-21",
+      "caption": "（振替公社債等の利子）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-21.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-22",
+      "caption": "（貸付金に準ずるもの）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-22.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-23",
+      "caption": "（工業所有権等の意義）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-23.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-24",
+      "caption": "（使用料の意義）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-24.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-25",
+      "caption": "（備品の範囲）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-25.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-26",
+      "caption": "（給与所得及び退職所得に係る国外源泉所得の所得の金額の計算）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-26.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-27",
+      "caption": "（利子の範囲）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-27.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-28",
+      "caption": "(外国所得税の換算）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-28.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-29",
+      "caption": "(非永住者の外国税額控除の対象となる外国所得税の範囲）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-29.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "95-30",
+      "caption": "（外国所得税を課されたことを証する書類）",
+      "heading": "法第95条《外国税額控除》関係",
+      "file": "items/95-30.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/17/02.htm"
+    },
+    {
+      "num": "137の2-1",
+      "caption": "（修正申告等に係る所得税額の納税猶予）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-2",
+      "caption": "（適用資産の譲渡又は贈与による移転をした日の意義）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-3",
+      "caption": "（納税猶予分の所得税額の一部について納税猶予の期限が確定する場合の所得税の額の計算）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-4",
+      "caption": "（納税猶予の任意の取りやめ）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-5",
+      "caption": "（納税猶予適用者が死亡した場合の納税猶予分の所得税額に係る納付義務の承継）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-6",
+      "caption": "（猶予承継相続人に確定事由が生じた場合）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-7",
+      "caption": "（担保の提供等）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-8",
+      "caption": "（非上場株式等が担保提供された場合）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-9",
+      "caption": "（取引相場のない株式の納税猶予の担保）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-10",
+      "caption": "（納税猶予分の所得税額に相当する担保）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の2-11",
+      "caption": "（増担保命令等に応じない場合の納税猶予の期限の繰上げ）",
+      "heading": "法第137条の2《国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の2-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-2.htm"
+    },
+    {
+      "num": "137の3-1",
+      "caption": "（遺産分割等があった場合の修正申告等に係る所得税額の納税猶予）",
+      "heading": "法第137条の3《贈与等により非居住者に資産が移転した場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の3-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-3.htm"
+    },
+    {
+      "num": "137の3-2",
+      "caption": "（国外転出をする場合の譲渡所得等の特例の適用がある場合の納税猶予に関する取扱いの準用）",
+      "heading": "法第137条の3《贈与等により非居住者に資産が移転した場合の譲渡所得等の特例の適用がある場合の納税猶予》関係",
+      "file": "items/137の3-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/19/02-3.htm"
+    },
+    {
+      "num": "153の6-1",
+      "caption": "（法第153条の2の更正の請求の適用がある場合の法第153条の6の更正の請求の取扱い）",
+      "heading": "法第153条の6《国外転出をした者が外国所得税を納付する場合の更正の請求の特例》関係",
+      "file": "items/153の6-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/21/02.htm"
+    },
+    {
+      "num": "153の6-2",
+      "caption": "（外国所得税を納付することとなる日の意義）",
+      "heading": "法第153条の6《国外転出をした者が外国所得税を納付する場合の更正の請求の特例》関係",
+      "file": "items/153の6-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/21/02.htm"
+    },
+    {
+      "num": "161-22",
+      "caption": "（芸能人等の役務の提供に係る対価の範囲）",
+      "heading": "〔人的役務提供事業の所得（第6号関係）〕",
+      "file": "items/161-22.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/02.htm"
+    },
+    {
+      "num": "161-23",
+      "caption": "（職業運動家の範囲）",
+      "heading": "〔人的役務提供事業の所得（第6号関係）〕",
+      "file": "items/161-23.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/02.htm"
+    },
+    {
+      "num": "161-24",
+      "caption": "（人的役務の提供に係る対価に含まれるもの）",
+      "heading": "〔人的役務提供事業の所得（第6号関係）〕",
+      "file": "items/161-24.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/02.htm"
+    },
+    {
+      "num": "161-25",
+      "caption": "（機械設備の販売等に付随して行う技術役務の提供）",
+      "heading": "〔人的役務提供事業の所得（第6号関係）〕",
+      "file": "items/161-25.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/02.htm"
+    },
+    {
+      "num": "161-37",
+      "caption": "（使用料に含まれないもの）",
+      "heading": "〔使用料等の所得（第11号関係）〕",
+      "file": "items/161-37.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/04.htm"
+    },
+    {
+      "num": "161-38",
+      "caption": "（工業所有権等の現物出資があった場合）",
+      "heading": "〔使用料等の所得（第11号関係）〕",
+      "file": "items/161-38.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/04.htm"
+    },
+    {
+      "num": "161-39",
+      "caption": "（備品の範囲）",
+      "heading": "〔使用料等の所得（第11号関係）〕",
+      "file": "items/161-39.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/04.htm"
+    },
+    {
+      "num": "161-40",
+      "caption": "（旅費、滞在費等）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/161-40.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "161-41",
+      "caption": "（勤務等が国内及び国外の双方にわたって行われた場合の国内源泉所得の計算）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/161-41.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "161-42",
+      "caption": "（内国法人の使用人として常時勤務を行う場合の意義）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/161-42.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "161-43",
+      "caption": "（内国法人の役員が国外にあるその法人の子会社に常時勤務する場合）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/161-43.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "161-44",
+      "caption": "（内国法人等が運航する船舶又は航空機において行う勤務等）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/161-44.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "161-45",
+      "caption": "（国外の寄航地において行われる一時的な人的役務の提供）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/161-45.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "161-46",
+      "caption": "（損害賠償金等）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/161-46.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "162-1",
+      "caption": "（利子の範囲）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/162-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "162-2",
+      "caption": "（工業所有権等及び使用料の意義）",
+      "heading": "〔給与、報酬又は年金（第12号関係）〕",
+      "file": "items/162-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/22/05.htm"
+    },
+    {
+      "num": "164-1",
+      "caption": "（非居住者に対する課税関係の概要）",
+      "heading": "法第164条《非居住者に対する課税の方法》関係",
+      "file": "items/164-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/23/01.htm"
+    },
+    {
+      "num": "164-2",
+      "caption": "（恒久的施設を有する非居住者に対する課税の方法）",
+      "heading": "法第164条《非居住者に対する課税の方法》関係",
+      "file": "items/164-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/23/01.htm"
+    },
+    {
+      "num": "164-3",
+      "caption": "（総合課税の対象となる非居住者の国内源泉所得）",
+      "heading": "法第164条《非居住者に対する課税の方法》関係",
+      "file": "items/164-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/23/01.htm"
+    },
+    {
+      "num": "164-4",
+      "caption": "（恒久的施設を有する組合員の判定）",
+      "heading": "法第164条《非居住者に対する課税の方法》関係",
+      "file": "items/164-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/23/01.htm"
+    },
+    {
+      "num": "174-1",
+      "caption": "（給付金の意義）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "174-2",
+      "caption": "（外国為替の売買相場）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "174-3",
+      "caption": "（中途解約等が行われた場合の本邦通貨に換算した金額）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "174-4",
+      "caption": "（個人年金保険契約の取扱い）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "174-5",
+      "caption": "（一時払に準ずる払込方法の判定）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "174-6",
+      "caption": "（保障倍率の判定）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "174-7",
+      "caption": "（高度の障害の範囲）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "174-8",
+      "caption": "（一部解約の場合の課税関係等）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "174-9",
+      "caption": "（馬主が受ける競馬の賞金に係る課税標準の計算）",
+      "heading": "法第174条《内国法人に係る所得税の課税標準》関係",
+      "file": "items/174-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/26/01.htm"
+    },
+    {
+      "num": "181-1",
+      "caption": "（無記名の公社債の利子等に対する税額の計算）",
+      "heading": "法第181条《源泉徴収義務》関係",
+      "file": "items/181-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/29/01.htm"
+    },
+    {
+      "num": "181-2",
+      "caption": "（株式の配当、投資信託等の収益の分配に対する税額の簡易計算）",
+      "heading": "法第181条《源泉徴収義務》関係",
+      "file": "items/181-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/29/01.htm"
+    },
+    {
+      "num": "181-3",
+      "caption": "（オープン型の証券投資信託の終了等により分配される収益に対する税額の計算）",
+      "heading": "法第181条《源泉徴収義務》関係",
+      "file": "items/181-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/29/01.htm"
+    },
+    {
+      "num": "181-4",
+      "caption": "（オープン型の証券投資信託の終了等により分配される収益に対する税額の計算）",
+      "heading": "法第181条《源泉徴収義務》関係",
+      "file": "items/181-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/29/01.htm"
+    },
+    {
+      "num": "181-5",
+      "caption": "（支払の確定した日から1年を経過した日）",
+      "heading": "法第181条《源泉徴収義務》関係",
+      "file": "items/181-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/29/01.htm"
+    },
+    {
+      "num": "181-6",
+      "caption": "（質権を設定した株式の配当等に対する源泉徴収）",
+      "heading": "法第181条《源泉徴収義務》関係",
+      "file": "items/181-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/29/01.htm"
+    },
+    {
+      "num": "186-1",
+      "caption": "（賞与から控除する源泉控除対象配偶者及び源泉控除対象親族に係る控除）",
+      "heading": "法第186条《賞与に係る徴収税額》関係",
+      "file": "items/186-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/31/02.htm"
+    },
+    {
+      "num": "186-2",
+      "caption": "（賞与の計算の基礎となった期間）",
+      "heading": "法第186条《賞与に係る徴収税額》関係",
+      "file": "items/186-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/31/02.htm"
+    },
+    {
+      "num": "186-3",
+      "caption": "（従たる給与等から控除する源泉控除対象配偶者及び源泉控除対象親族に係る控除がある場合の賞与に対する税額の計算）",
+      "heading": "法第186条《賞与に係る徴収税額》関係",
+      "file": "items/186-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/31/02.htm"
+    },
+    {
+      "num": "186-4",
+      "caption": "（賞与の金額が前月中の通常の給与等の金額の10倍に相当する金額を超えるかどうかの判定）",
+      "heading": "法第186条《賞与に係る徴収税額》関係",
+      "file": "items/186-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/31/02.htm"
+    },
+    {
+      "num": "190-1",
+      "caption": "（中途退職者等について年末調整を行う場合）",
+      "heading": "法第190条《年末調整》関係",
+      "file": "items/190-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/32/01.htm"
+    },
+    {
+      "num": "190-2",
+      "caption": "（その年中に支払うべきことが確定した給与等の計算）",
+      "heading": "法第190条《年末調整》関係",
+      "file": "items/190-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/32/01.htm"
+    },
+    {
+      "num": "190-3",
+      "caption": "（その年最後に支払う給与等に対する税額計算の省略）",
+      "heading": "法第190条《年末調整》関係",
+      "file": "items/190-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/32/01.htm"
+    },
+    {
+      "num": "190-4",
+      "caption": "（給与等の追加払をする場合の再調整）",
+      "heading": "法第190条《年末調整》関係",
+      "file": "items/190-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/32/01.htm"
+    },
+    {
+      "num": "190-5",
+      "caption": "（年末調整後に所得控除に異動があった場合の再調整）",
+      "heading": "法第190条《年末調整》関係",
+      "file": "items/190-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/32/01.htm"
+    },
+    {
+      "num": "190-6",
+      "caption": "（その年最後の給与等が賞与以外の通常の給与等である場合の年末調整）",
+      "heading": "法第190条《年末調整》関係",
+      "file": "items/190-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/32/01.htm"
+    },
+    {
+      "num": "190-7",
+      "caption": "（送金関係書類の提出又は提示が年末調整後にあった場合の再調整）",
+      "heading": "法第190条《年末調整》関係",
+      "file": "items/190-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/32/01.htm"
+    },
+    {
+      "num": "196-1",
+      "caption": "（保険料等の金額等を証する書類の添付又は提示のない給与所得者の保険料控除申告書を受け取った場合の支払者の措置）",
+      "heading": "法第196条《給与所得者の保険料控除申告書》関係",
+      "file": "items/196-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/33/03.htm"
+    },
+    {
+      "num": "196-2",
+      "caption": "（保険料の金額等を証する書類の提出又は提示に代わるもの）",
+      "heading": "法第196条《給与所得者の保険料控除申告書》関係",
+      "file": "items/196-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/33/03.htm"
+    },
+    {
+      "num": "196-3",
+      "caption": "（生命保険料等の金額等を証する書類の範囲）",
+      "heading": "法第196条《給与所得者の保険料控除申告書》関係",
+      "file": "items/196-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/33/03.htm"
+    },
+    {
+      "num": "196-4",
+      "caption": "（月払契約の生命保険料等に係る証する書類）",
+      "heading": "法第196条《給与所得者の保険料控除申告書》関係",
+      "file": "items/196-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/33/03.htm"
+    },
+    {
+      "num": "196-5",
+      "caption": "（旧個人年金保険契約等の特約に係る生命保険料の金額を証する書類等）",
+      "heading": "法第196条《給与所得者の保険料控除申告書》関係",
+      "file": "items/196-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/33/03.htm"
+    },
+    {
+      "num": "196-6",
+      "caption": "（地震保険料の金額等を証する書類の範囲）",
+      "heading": "法第196条《給与所得者の保険料控除申告書》関係",
+      "file": "items/196-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/33/03.htm"
+    },
+    {
+      "num": "196-7",
+      "caption": "（月払契約の地震保険料に係る証する書類に記載する金額）",
+      "heading": "法第196条《給与所得者の保険料控除申告書》関係",
+      "file": "items/196-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/33/03.htm"
+    },
+    {
+      "num": "196-8",
+      "caption": "（地震保険料の金額等を証する書類の記載事項）",
+      "heading": "法第196条《給与所得者の保険料控除申告書》関係",
+      "file": "items/196-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/33/03.htm"
+    },
+    {
+      "num": "204-1",
+      "caption": "（支払を受ける者が法人以外の団体等である場合の法第204条の規定の適用）",
+      "heading": "〔共通関係〕",
+      "file": "items/204-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/01.htm"
+    },
+    {
+      "num": "204-2",
+      "caption": "（報酬、料金等の性質を有するもの）",
+      "heading": "〔共通関係〕",
+      "file": "items/204-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/01.htm"
+    },
+    {
+      "num": "204-3",
+      "caption": "（報酬、料金等の性質を有する経済的利益）",
+      "heading": "〔共通関係〕",
+      "file": "items/204-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/01.htm"
+    },
+    {
+      "num": "204-4",
+      "caption": "（報酬又は料金の支払者が負担する旅費）",
+      "heading": "〔共通関係〕",
+      "file": "items/204-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/01.htm"
+    },
+    {
+      "num": "204-5",
+      "caption": "（報酬、料金等に係る源泉徴収義務者の範囲等）",
+      "heading": "〔共通関係〕",
+      "file": "items/204-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/01.htm"
+    },
+    {
+      "num": "204-6",
+      "caption": "（原稿等の報酬又は料金）",
+      "heading": "〔原稿等の報酬又は料金（第1号関係）〕",
+      "file": "items/204-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/02.htm"
+    },
+    {
+      "num": "204-7",
+      "caption": "（デザインの範囲）",
+      "heading": "〔原稿等の報酬又は料金（第1号関係）〕",
+      "file": "items/204-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/02.htm"
+    },
+    {
+      "num": "204-8",
+      "caption": "（デザインとその施工の対価を一括して支払う場合）",
+      "heading": "〔原稿等の報酬又は料金（第1号関係）〕",
+      "file": "items/204-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/02.htm"
+    },
+    {
+      "num": "204-9",
+      "caption": "（版下の報酬又は料金の範囲）",
+      "heading": "〔原稿等の報酬又は料金（第1号関係）〕",
+      "file": "items/204-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/02.htm"
+    },
+    {
+      "num": "204-10",
+      "caption": "（懸賞応募作品の入選者に支払う少額な報酬又は料金）",
+      "heading": "〔原稿等の報酬又は料金（第1号関係）〕",
+      "file": "items/204-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/02.htm"
+    },
+    {
+      "num": "204-11",
+      "caption": "（登録免許税に充てるため支払われた金銭等）",
+      "heading": "〔弁護士等の報酬又は料金（第2号関係）〕",
+      "file": "items/204-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/03.htm"
+    },
+    {
+      "num": "204-12",
+      "caption": "（測量士等の資格のない測量業者等に支払う報酬又は料金）",
+      "heading": "〔弁護士等の報酬又は料金（第2号関係）〕",
+      "file": "items/204-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/03.htm"
+    },
+    {
+      "num": "204-13",
+      "caption": "（建築士事務所未登録の建築士）",
+      "heading": "〔弁護士等の報酬又は料金（第2号関係）〕",
+      "file": "items/204-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/03.htm"
+    },
+    {
+      "num": "204-14",
+      "caption": "（設計等とその施工の対価を一括して支払う場合）",
+      "heading": "〔弁護士等の報酬又は料金（第2号関係）〕",
+      "file": "items/204-14.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/03.htm"
+    },
+    {
+      "num": "204-15",
+      "caption": "（企業診断員の範囲）",
+      "heading": "〔弁護士等の報酬又は料金（第2号関係）〕",
+      "file": "items/204-15.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/03.htm"
+    },
+    {
+      "num": "204-16",
+      "caption": "（火災損害鑑定人又は自動車等損害鑑定人の範囲）",
+      "heading": "〔弁護士等の報酬又は料金（第2号関係）〕",
+      "file": "items/204-16.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/03.htm"
+    },
+    {
+      "num": "204-17",
+      "caption": "（火災損害鑑定人又は自動車等損害鑑定人の業務に関する報酬又は料金で源泉徴収を要しないもの）",
+      "heading": "〔弁護士等の報酬又は料金（第2号関係）〕",
+      "file": "items/204-17.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/03.htm"
+    },
+    {
+      "num": "204-18",
+      "caption": "（技術士の行う業務と同一の業務を行う者の意義）",
+      "heading": "〔弁護士等の報酬又は料金（第2号関係）〕",
+      "file": "items/204-18.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/03.htm"
+    },
+    {
+      "num": "204-24",
+      "caption": "（ラジオ放送又はテレビジョン放送に係る出演の報酬又は料金に含まれるもの）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-24.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "204-25",
+      "caption": "（出演の報酬又は料金に含まれないもの）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-25.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "204-26",
+      "caption": "（映画、演劇に係る製作又は編集の報酬又は料金に含まれるもの）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-26.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "204-27",
+      "caption": "（芸能人の役務の提供に関する報酬又は料金に含まれるもの）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-27.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "204-28",
+      "caption": "（芸能人の役務の提供に関する報酬又は料金の意義等）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-28.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "204-28の2",
+      "caption": "（報酬又は料金に著作権の対価が含まれている場合）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-28の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "204-28の3",
+      "caption": "（映画又はレコード製作の対価等）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-28の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "204-28の4",
+      "caption": "（不特定多数の者から受けるものの範囲）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-28の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "204-28の5",
+      "caption": "（個人事業主が芸能人の役務の提供のあっせん等をした場合等の課税関係）",
+      "heading": "〔映画、演劇等の出演等の報酬又は料金（第5号関係）〕",
+      "file": "items/204-28の5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/05.htm"
+    },
+    {
+      "num": "205-1",
+      "caption": "（同一人に対し1回に支払われる金額の意義）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-2",
+      "caption": "（同一人に対し1回に支払われるべき金額の意義）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-3",
+      "caption": "（同一人に対しその月分として支払われる金額の意義）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-4",
+      "caption": "（同一人に対しその月中に支払われる金額の意義）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-5",
+      "caption": "（同一人に対しその月中に報酬又は料金と給与等とを支払う場合）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-6",
+      "caption": "（確定申告書に記載された源泉徴収をされるべき税額と現実に源泉徴収された税額とが異なる場合の精算）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-7",
+      "caption": "（未払の報酬、料金等について支払調書に記載すべき源泉徴収税額）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-8",
+      "caption": "（賞品を受けることとなった日の意義）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-8.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-9",
+      "caption": "（賞品の評価）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-10",
+      "caption": "（金銭以外のものと金銭とのいずれかを選択することができる場合の意義等）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-10.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-11",
+      "caption": "（旅行その他の役務の提供と物品とのいずれかを選択できる場合の評価）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-11.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-12",
+      "caption": "（賞金に対する税額を支払者が負担する場合の税額の計算）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-12.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "205-13",
+      "caption": "（受賞者が2人以上の1組である場合の賞金に対する税額の計算）",
+      "heading": "法第205条《徴収税額》関係",
+      "file": "items/205-13.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/07.htm"
+    },
+    {
+      "num": "206-1",
+      "caption": "（報酬又は料金を帳簿に明確に記録しているものとして証明書を交付する場合）",
+      "heading": "法第206条《源泉徴収を要しない報酬又は料金》関係",
+      "file": "items/206-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/08.htm"
+    },
+    {
+      "num": "206-2",
+      "caption": "（映画の製作等を主たる事業としているかどうかの判定）",
+      "heading": "法第206条《源泉徴収を要しない報酬又は料金》関係",
+      "file": "items/206-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/08.htm"
+    },
+    {
+      "num": "206-3",
+      "caption": "（演劇の範囲等）",
+      "heading": "法第206条《源泉徴収を要しない報酬又は料金》関係",
+      "file": "items/206-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/08.htm"
+    },
+    {
+      "num": "206-4",
+      "caption": "（自己に専属する芸能人の意義）",
+      "heading": "法第206条《源泉徴収を要しない報酬又は料金》関係",
+      "file": "items/206-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/36/08.htm"
+    },
+    {
+      "num": "221-1",
+      "caption": "（支払者が税額を負担する場合の税額計算）",
+      "heading": "法第221条《源泉徴収に係る所得税の徴収》関係",
+      "file": "items/221-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/39/01.htm"
+    },
+    {
+      "num": "232-1",
+      "caption": "（前々年分の収入金額の判定）",
+      "heading": "法第232条（事業所得等を有する者の帳簿書類の備付け等）関係",
+      "file": "items/232-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/40/02.htm"
+    }
+  ]
+}
