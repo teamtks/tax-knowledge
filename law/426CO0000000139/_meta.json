@@ -1,0 +1,226 @@
+{
+  "law_id": "426CO0000000139",
+  "law_title": "地方法人税法施行令",
+  "略称": "地方法人税令",
+  "law_num": "平成二十六年政令第百三十九号",
+  "promulgation_date": "2014-03-31",
+  "law_revision_id": "426CO0000000139_20260401_508CO0000000095",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_law_num": "令和八年政令第九十五号",
+  "amendment_law_title": "地方法人税法施行令の一部を改正する政令",
+  "current_revision_status": "CurrentEnforced",
+  "article_count": 17,
+  "suppl_count": 14,
+  "has_appendix": false,
+  "articles": [
+    {
+      "num": "1",
+      "title": "第一条",
+      "caption": "（定義）",
+      "elm": "Mp-At_1",
+      "file": "articles/At_1.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "2",
+      "title": "第二条",
+      "caption": "（法人課税信託の受託者等に関する通則）",
+      "elm": "Mp-At_2",
+      "file": "articles/At_2.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "3",
+      "title": "第三条",
+      "caption": "（外国税額の控除限度額の計算）",
+      "elm": "Mp-At_3",
+      "file": "articles/At_3.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "4",
+      "title": "第四条",
+      "caption": "（分配時調整外国税相当額の控除）",
+      "elm": "Mp-At_4",
+      "file": "articles/At_4.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "5",
+      "title": "第五条",
+      "caption": "（仮決算をした場合の中間申告）",
+      "elm": "Mp-At_5",
+      "file": "articles/At_5.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "6",
+      "title": "第六条",
+      "caption": "（通算法人の災害等による申告書の提出期限の延長）",
+      "elm": "Mp-At_6",
+      "file": "articles/At_6.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "7",
+      "title": "第七条",
+      "caption": "（電子情報処理組織による申告）",
+      "elm": "Mp-At_7",
+      "file": "articles/At_7.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "8",
+      "title": "第八条",
+      "caption": "（外国税額の還付の手続）",
+      "elm": "Mp-At_8",
+      "file": "articles/At_8.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "9",
+      "title": "第九条",
+      "caption": "（還付すべき外国税額の充当の順序）",
+      "elm": "Mp-At_9",
+      "file": "articles/At_9.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "10",
+      "title": "第十条",
+      "caption": "（中間納付額の還付の手続）",
+      "elm": "Mp-At_10",
+      "file": "articles/At_10.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "11",
+      "title": "第十一条",
+      "caption": "（還付すべき中間納付額の充当の順序）",
+      "elm": "Mp-At_11",
+      "file": "articles/At_11.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "12",
+      "title": "第十二条",
+      "caption": "（中間納付額に係る延滞税の還付金額及び還付加算金の額の計算）",
+      "elm": "Mp-At_12",
+      "file": "articles/At_12.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "13",
+      "title": "第十三条",
+      "caption": "（欠損金の繰戻しによる法人税の還付があった場合の還付の通知）",
+      "elm": "Mp-At_13",
+      "file": "articles/At_13.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "13_2",
+      "title": "第十三条の二",
+      "caption": "（電子情報処理組織による申告）",
+      "elm": "Mp-At_13_2",
+      "file": "articles/At_13_2.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "14",
+      "title": "第十四条",
+      "caption": "（更正等により還付すべき外国税額の充当の順序）",
+      "elm": "Mp-At_14",
+      "file": "articles/At_14.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "15",
+      "title": "第十五条",
+      "caption": "（更正等又は決定による中間納付額に係る延滞税の還付金額及び還付加算金の額の計算等）",
+      "elm": "Mp-At_15",
+      "file": "articles/At_15.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "16",
+      "title": "第十六条",
+      "caption": "（仮装経理に基づく過大申告の場合の更正に伴う還付特例対象地方法人税額等の範囲）",
+      "elm": "Mp-At_16",
+      "file": "articles/At_16.md",
+      "breadcrumb": ""
+    }
+  ],
+  "suppl": [
+    {
+      "amend_law_num": "",
+      "label": "附　則",
+      "file": "suppl/制定附則.md"
+    },
+    {
+      "amend_law_num": "平成二七年三月三一日政令第一四三号",
+      "label": "附　則",
+      "file": "suppl/平成二七年三月三一日政令第一四三号.md"
+    },
+    {
+      "amend_law_num": "平成二八年三月三一日政令第一四七号",
+      "label": "附　則",
+      "file": "suppl/平成二八年三月三一日政令第一四七号.md"
+    },
+    {
+      "amend_law_num": "平成二八年一一月二八日政令第三五七号",
+      "label": "附　則",
+      "file": "suppl/平成二八年一一月二八日政令第三五七号.md"
+    },
+    {
+      "amend_law_num": "平成二九年三月三一日政令第一〇七号",
+      "label": "附　則",
+      "file": "suppl/平成二九年三月三一日政令第一〇七号.md"
+    },
+    {
+      "amend_law_num": "平成三〇年三月三一日政令第一三三号",
+      "label": "附　則",
+      "file": "suppl/平成三〇年三月三一日政令第一三三号.md"
+    },
+    {
+      "amend_law_num": "平成三一年三月二九日政令第九七号",
+      "label": "附　則",
+      "file": "suppl/平成三一年三月二九日政令第九七号.md"
+    },
+    {
+      "amend_law_num": "令和二年三月三一日政令第一一三号",
+      "label": "附　則",
+      "file": "suppl/令和二年三月三一日政令第一一三号.md"
+    },
+    {
+      "amend_law_num": "令和二年六月二六日政令第二〇七号",
+      "label": "附　則",
+      "file": "suppl/令和二年六月二六日政令第二〇七号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日政令第一一九号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日政令第一一九号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日政令第一三〇号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日政令第一三〇号.md"
+    },
+    {
+      "amend_law_num": "令和五年六月一六日政令第二〇九号",
+      "label": "附　則",
+      "file": "suppl/令和五年六月一六日政令第二〇九号.md"
+    },
+    {
+      "amend_law_num": "令和七年三月三一日政令第一二二号",
+      "label": "附　則",
+      "file": "suppl/令和七年三月三一日政令第一二二号.md"
+    },
+    {
+      "amend_law_num": "令和八年三月三一日政令第九五号",
+      "label": "附　則",
+      "file": "suppl/令和八年三月三一日政令第九五号.md"
+    }
+  ]
+}

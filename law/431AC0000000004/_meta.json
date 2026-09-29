@@ -1,0 +1,353 @@
+{
+  "law_id": "431AC0000000004",
+  "law_title": "特別法人事業税及び特別法人事業譲与税に関する法律",
+  "略称": "特別法人事業税法",
+  "law_num": "平成三十一年法律第四号",
+  "promulgation_date": "2019-03-29",
+  "law_revision_id": "431AC0000000004_20260401_508AC0000000002",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_law_num": "令和八年法律第二号",
+  "amendment_law_title": "地方税法等の一部を改正する法律",
+  "current_revision_status": "CurrentEnforced",
+  "article_count": 36,
+  "suppl_count": 9,
+  "has_appendix": false,
+  "articles": [
+    {
+      "num": "1",
+      "title": "第一条",
+      "caption": "（趣旨）",
+      "elm": "Mp-At_1",
+      "file": "articles/At_1.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
+      "num": "2",
+      "title": "第二条",
+      "caption": "（定義）",
+      "elm": "Mp-At_2",
+      "file": "articles/At_2.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第一節　総則"
+    },
+    {
+      "num": "3",
+      "title": "第三条",
+      "caption": "（人格のない社団等に対する適用）",
+      "elm": "Mp-At_3",
+      "file": "articles/At_3.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第一節　総則"
+    },
+    {
+      "num": "4",
+      "title": "第四条",
+      "caption": "（納税義務者）",
+      "elm": "Mp-At_4",
+      "file": "articles/At_4.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第一節　総則"
+    },
+    {
+      "num": "5",
+      "title": "第五条",
+      "caption": "（課税の対象）",
+      "elm": "Mp-At_5",
+      "file": "articles/At_5.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第一節　総則"
+    },
+    {
+      "num": "6",
+      "title": "第六条",
+      "caption": "",
+      "elm": "Mp-At_6",
+      "file": "articles/At_6.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第二節　課税標準"
+    },
+    {
+      "num": "7",
+      "title": "第七条",
+      "caption": "",
+      "elm": "Mp-At_7",
+      "file": "articles/At_7.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第三節　税額の計算"
+    },
+    {
+      "num": "8",
+      "title": "第八条",
+      "caption": "（賦課徴収）",
+      "elm": "Mp-At_8",
+      "file": "articles/At_8.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "9",
+      "title": "第九条",
+      "caption": "（申告）",
+      "elm": "Mp-At_9",
+      "file": "articles/At_9.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "10",
+      "title": "第十条",
+      "caption": "（納付等）",
+      "elm": "Mp-At_10",
+      "file": "articles/At_10.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "11",
+      "title": "第十一条",
+      "caption": "（還付等）",
+      "elm": "Mp-At_11",
+      "file": "articles/At_11.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "12",
+      "title": "第十二条",
+      "caption": "（還付金等の国への払込額からの控除等）",
+      "elm": "Mp-At_12",
+      "file": "articles/At_12.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "13",
+      "title": "第十三条",
+      "caption": "（延滞金等の計算）",
+      "elm": "Mp-At_13",
+      "file": "articles/At_13.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "14",
+      "title": "第十四条",
+      "caption": "（充当等の特例）",
+      "elm": "Mp-At_14",
+      "file": "articles/At_14.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "15",
+      "title": "第十五条",
+      "caption": "（納税管理人）",
+      "elm": "Mp-At_15",
+      "file": "articles/At_15.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "16",
+      "title": "第十六条",
+      "caption": "（処分に関する不服審査等）",
+      "elm": "Mp-At_16",
+      "file": "articles/At_16.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "17",
+      "title": "第十七条",
+      "caption": "（犯則事件の調査及び処分）",
+      "elm": "Mp-At_17",
+      "file": "articles/At_17.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "18",
+      "title": "第十八条",
+      "caption": "（賦課徴収又は申告納付に関する報告等）",
+      "elm": "Mp-At_18",
+      "file": "articles/At_18.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第四節　申告及び納付等"
+    },
+    {
+      "num": "19",
+      "title": "第十九条",
+      "caption": "（申告の特例）",
+      "elm": "Mp-At_19",
+      "file": "articles/At_19.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第五節　雑則"
+    },
+    {
+      "num": "20",
+      "title": "第二十条",
+      "caption": "（収納の特例）",
+      "elm": "Mp-At_20",
+      "file": "articles/At_20.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第五節　雑則"
+    },
+    {
+      "num": "21",
+      "title": "第二十一条",
+      "caption": "（事務の区分）",
+      "elm": "Mp-At_21",
+      "file": "articles/At_21.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第五節　雑則"
+    },
+    {
+      "num": "22",
+      "title": "第二十二条",
+      "caption": "（検査拒否等に関する罪）",
+      "elm": "Mp-At_22",
+      "file": "articles/At_22.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第六節　罰則"
+    },
+    {
+      "num": "23",
+      "title": "第二十三条",
+      "caption": "（故意不申告の罪）",
+      "elm": "Mp-At_23",
+      "file": "articles/At_23.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第六節　罰則"
+    },
+    {
+      "num": "24",
+      "title": "第二十四条",
+      "caption": "（虚偽の中間申告納付に関する罪）",
+      "elm": "Mp-At_24",
+      "file": "articles/At_24.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第六節　罰則"
+    },
+    {
+      "num": "25",
+      "title": "第二十五条",
+      "caption": "（脱税に関する罪）",
+      "elm": "Mp-At_25",
+      "file": "articles/At_25.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第六節　罰則"
+    },
+    {
+      "num": "26",
+      "title": "第二十六条",
+      "caption": "（滞納処分に関する罪）",
+      "elm": "Mp-At_26",
+      "file": "articles/At_26.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第六節　罰則"
+    },
+    {
+      "num": "27",
+      "title": "第二十七条",
+      "caption": "（滞納処分に関する検査拒否等の罪）",
+      "elm": "Mp-At_27",
+      "file": "articles/At_27.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第六節　罰則"
+    },
+    {
+      "num": "27_2",
+      "title": "第二十七条の二",
+      "caption": "（滞納処分に関する虚偽の陳述の罪）",
+      "elm": "Mp-At_27_2",
+      "file": "articles/At_27_2.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第六節　罰則"
+    },
+    {
+      "num": "28",
+      "title": "第二十八条",
+      "caption": "（秘密漏えいに関する罪）",
+      "elm": "Mp-At_28",
+      "file": "articles/At_28.md",
+      "breadcrumb": "第二章　特別法人事業税 > 第六節　罰則"
+    },
+    {
+      "num": "29",
+      "title": "第二十九条",
+      "caption": "（特別法人事業譲与税）",
+      "elm": "Mp-At_29",
+      "file": "articles/At_29.md",
+      "breadcrumb": "第三章　特別法人事業譲与税"
+    },
+    {
+      "num": "30",
+      "title": "第三十条",
+      "caption": "（毎年度の譲与額）",
+      "elm": "Mp-At_30",
+      "file": "articles/At_30.md",
+      "breadcrumb": "第三章　特別法人事業譲与税"
+    },
+    {
+      "num": "31",
+      "title": "第三十一条",
+      "caption": "（譲与時期及び各譲与時期の譲与額）",
+      "elm": "Mp-At_31",
+      "file": "articles/At_31.md",
+      "breadcrumb": "第三章　特別法人事業譲与税"
+    },
+    {
+      "num": "32",
+      "title": "第三十二条",
+      "caption": "（譲与すべき額の算定に錯誤があった場合の措置）",
+      "elm": "Mp-At_32",
+      "file": "articles/At_32.md",
+      "breadcrumb": "第三章　特別法人事業譲与税"
+    },
+    {
+      "num": "33",
+      "title": "第三十三条",
+      "caption": "（地方財政審議会の意見の聴取）",
+      "elm": "Mp-At_33",
+      "file": "articles/At_33.md",
+      "breadcrumb": "第三章　特別法人事業譲与税"
+    },
+    {
+      "num": "34",
+      "title": "第三十四条",
+      "caption": "（特別法人事業譲与税の使途）",
+      "elm": "Mp-At_34",
+      "file": "articles/At_34.md",
+      "breadcrumb": "第三章　特別法人事業譲与税"
+    },
+    {
+      "num": "35",
+      "title": "第三十五条",
+      "caption": "（命令への委任）",
+      "elm": "Mp-At_35",
+      "file": "articles/At_35.md",
+      "breadcrumb": "第四章　雑則"
+    }
+  ],
+  "suppl": [
+    {
+      "amend_law_num": "",
+      "label": "附　則",
+      "file": "suppl/制定附則.md"
+    },
+    {
+      "amend_law_num": "平成三〇年三月三一日法律第三号",
+      "label": "附　則",
+      "file": "suppl/平成三〇年三月三一日法律第三号.md"
+    },
+    {
+      "amend_law_num": "平成三一年三月二九日法律第二号",
+      "label": "附　則",
+      "file": "suppl/平成三一年三月二九日法律第二号.md"
+    },
+    {
+      "amend_law_num": "令和二年三月三一日法律第五号",
+      "label": "附　則",
+      "file": "suppl/令和二年三月三一日法律第五号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日法律第七号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日法律第七号.md"
+    },
+    {
+      "amend_law_num": "令和四年三月三一日法律第一号",
+      "label": "附　則",
+      "file": "suppl/令和四年三月三一日法律第一号.md"
+    },
+    {
+      "amend_law_num": "令和四年六月一七日法律第六八号",
+      "label": "附　則",
+      "file": "suppl/令和四年六月一七日法律第六八号.md"
+    },
+    {
+      "amend_law_num": "令和五年三月三一日法律第一号",
+      "label": "附　則",
+      "file": "suppl/令和五年三月三一日法律第一号.md"
+    },
+    {
+      "amend_law_num": "令和八年三月三一日法律第二号",
+      "label": "附　則",
+      "file": "suppl/令和八年三月三一日法律第二号.md"
+    }
+  ]
+}

@@ -3,6 +3,26 @@
   "_出典": "e-Gov法令検索（デジタル庁） https://laws.e-gov.go.jp/",
   "laws": [
     {
+      "law_id": "325AC0000000226",
+      "law_title": "地方税法",
+      "略称": "地法",
+      "law_num": "昭和二十五年法律第二百二十六号",
+      "law_revision_id": "325AC0000000226_20260924_506AC0000000065",
+      "amendment_enforcement_date": "2026-09-24",
+      "article_count": 1348,
+      "path": "law/325AC0000000226/"
+    },
+    {
+      "law_id": "325CO0000000245",
+      "law_title": "地方税法施行令",
+      "略称": "地令",
+      "law_num": "昭和二十五年政令第二百四十五号",
+      "law_revision_id": "325CO0000000245_20260822_508CO0000000251",
+      "amendment_enforcement_date": "2026-08-22",
+      "article_count": 855,
+      "path": "law/325CO0000000245/"
+    },
+    {
       "law_id": "332AC0000000026",
       "law_title": "租税特別措置法",
       "略称": "措法",
@@ -131,6 +151,36 @@
       "amendment_enforcement_date": "2026-09-01",
       "article_count": 71,
       "path": "law/363M50000040053/"
+    },
+    {
+      "law_id": "426AC0000000011",
+      "law_title": "地方法人税法",
+      "略称": "地方法人税法",
+      "law_num": "平成二十六年法律第十一号",
+      "law_revision_id": "426AC0000000011_20260401_507AC0000000013",
+      "amendment_enforcement_date": "2026-04-01",
+      "article_count": 58,
+      "path": "law/426AC0000000011/"
+    },
+    {
+      "law_id": "426CO0000000139",
+      "law_title": "地方法人税法施行令",
+      "略称": "地方法人税令",
+      "law_num": "平成二十六年政令第百三十九号",
+      "law_revision_id": "426CO0000000139_20260401_508CO0000000095",
+      "amendment_enforcement_date": "2026-04-01",
+      "article_count": 17,
+      "path": "law/426CO0000000139/"
+    },
+    {
+      "law_id": "431AC0000000004",
+      "law_title": "特別法人事業税及び特別法人事業譲与税に関する法律",
+      "略称": "特別法人事業税法",
+      "law_num": "平成三十一年法律第四号",
+      "law_revision_id": "431AC0000000004_20260401_508AC0000000002",
+      "amendment_enforcement_date": "2026-04-01",
+      "article_count": 36,
+      "path": "law/431AC0000000004/"
     }
   ]
 }
