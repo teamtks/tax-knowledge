@@ -4,14 +4,14 @@
   "略称": "地法",
   "law_num": "昭和二十五年法律第二百二十六号",
   "promulgation_date": "1950-07-31",
-  "law_revision_id": "325AC0000000226_20260924_506AC0000000065",
-  "amendment_enforcement_date": "2026-09-24",
-  "amendment_promulgate_date": "2024-06-26",
-  "amendment_law_num": "令和六年法律第六十五号",
-  "amendment_law_title": "地方自治法の一部を改正する法律",
+  "law_revision_id": "325AC0000000226_20261001_508AC0000000002",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_law_num": "令和八年法律第二号",
+  "amendment_law_title": "地方税法等の一部を改正する法律",
   "current_revision_status": "CurrentEnforced",
   "article_count": 1348,
-  "suppl_count": 940,
+  "suppl_count": 941,
   "has_appendix": false,
   "articles": [
     {
@@ -15479,6 +15479,11 @@
       "amend_law_num": "令和七年六月六日法律第五七号",
       "label": "附　則",
       "file": "suppl/令和七年六月六日法律第五七号.md"
+    },
+    {
+      "amend_law_num": "令和七年六月一八日法律第七〇号",
+      "label": "附　則",
+      "file": "suppl/令和七年六月一八日法律第七〇号.md"
     },
     {
       "amend_law_num": "令和七年六月二〇日法律第七四号",

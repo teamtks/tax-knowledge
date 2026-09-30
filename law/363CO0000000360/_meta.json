@@ -4,14 +4,14 @@
   "略称": "消令",
   "law_num": "昭和六十三年政令第三百六十号",
   "promulgation_date": "1988-12-30",
-  "law_revision_id": "363CO0000000360_20260901_508CO0000000096",
-  "amendment_enforcement_date": "2026-09-01",
+  "law_revision_id": "363CO0000000360_20261001_508CO0000000108",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_promulgate_date": "2026-03-31",
-  "amendment_law_num": "令和八年政令第九十六号",
-  "amendment_law_title": "消費税法施行令の一部を改正する政令",
-  "current_revision_status": "PreviousEnforced",
+  "amendment_law_num": "令和八年政令第百八号",
+  "amendment_law_title": "消費税法施行令等の一部を改正する政令の一部を改正する政令",
+  "current_revision_status": "CurrentEnforced",
   "article_count": 127,
-  "suppl_count": 142,
+  "suppl_count": 143,
   "has_appendix": false,
   "articles": [
     {
@@ -1741,6 +1741,11 @@
       "amend_law_num": "令和八年三月三一日政令第九六号",
       "label": "附　則",
       "file": "suppl/令和八年三月三一日政令第九六号.md"
+    },
+    {
+      "amend_law_num": "令和八年三月三一日政令第一〇八号",
+      "label": "附　則",
+      "file": "suppl/令和八年三月三一日政令第一〇八号.md"
     }
   ]
 }
