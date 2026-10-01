@@ -30,8 +30,15 @@ jobs:
           python-version: '3.12'
           # 依存パッケージなし（標準ライブラリのみ）。pip install も cache も不要。
 
+      # 1法令の失敗で全体を止めない。止めると、成功した法令の更新まで commit されない。
+      # 失敗は最後のステップで job を失敗にして知らせる。
       - name: 法令を取得
-        run: python collectors/egov_law.py --summary-file "${RUNNER_TEMP}/changed.txt"
+        id: fetch
+        run: |
+          set +e
+          python collectors/egov_law.py --summary-file "${RUNNER_TEMP}/changed.txt"
+          echo "rc=$?" >> "$GITHUB_OUTPUT"
+          exit 0
 
       # 差分の有無が、そのまま改正の有無である。
       # 別に検知ロジックを持たず、git に判定させる。
@@ -73,3 +80,9 @@ jobs:
           print(f"法令 {n} 本 / 本則 {arts} 条")
           assert n > 0 and arts > 0, "索引が空です"
           PY
+
+      - name: 取得に失敗した法令があれば知らせる
+        if: steps.fetch.outputs.rc != '0'
+        run: |
+          echo "::error::法令の取得に失敗したものがあります（詳細は上の注記）。成功した分は commit 済みです。"
+          exit 1

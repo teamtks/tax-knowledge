@@ -636,6 +636,10 @@ def main():
                 amended.append(meta["law_title"])
         except Exception as ex:                      # noqa: BLE001
             print("  !! %s の取得に失敗: %s" % (e["法令名"], ex))
+            # GitHub Actions の注記として出す。注記は認証なしで API から読めるため、
+            # ログを開けない環境からでも失敗の理由を確かめられる。
+            if os.environ.get("GITHUB_ACTIONS"):
+                print("::warning title=%s の取得に失敗::%s" % (e["法令名"], " ".join(str(ex).split())[:900]))
             failed.append(e["法令名"])
         time.sleep(SLEEP)
 
