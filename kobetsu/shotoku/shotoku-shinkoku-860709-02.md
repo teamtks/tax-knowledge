@@ -2,7 +2,7 @@
 
 > 種別: 個別通達／shotoku
 > 元の資料: 土地信託に関する所得税、法人税並びに相続税及び贈与税の取扱いについて
-> 出典: 国税庁（https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/860709/02.htm）。政府標準利用規約に基づき、出典を明示して複製・加工している。法令・通達・判決・裁決は著作権法13条により著作権の目的とならない。
+> 出典：国税庁ホームページ（https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/860709/02.htm）を加工して作成。tax-knowledge が書式を整え見出し等を付したもので、国税庁が作成したものではない。公共データ利用規約（第1.0版）に準拠して利用している。
 
 第2　所得税に関する取扱い
 

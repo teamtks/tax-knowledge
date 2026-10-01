@@ -2,7 +2,7 @@
 
 > 種別: 個別通達／shotoku
 > 
-> 出典: 国税庁（https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/520725/01.htm）。政府標準利用規約に基づき、出典を明示して複製・加工している。法令・通達・判決・裁決は著作権法13条により著作権の目的とならない。
+> 出典：国税庁ホームページ（https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/520725/01.htm）を加工して作成。tax-knowledge が書式を整え見出し等を付したもので、国税庁が作成したものではない。公共データ利用規約（第1.0版）に準拠して利用している。
 
 災害被害者に対する租税の減免、徴収猶予等に関する法律（所得税関係）の取扱方について
 

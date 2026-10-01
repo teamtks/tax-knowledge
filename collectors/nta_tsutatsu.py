@@ -33,7 +33,7 @@
 ----
     国税庁 法令解釈通達 https://www.nta.go.jp/law/tsutatsu/menu.htm
     通達は著作権法13条2号により著作権の目的とならない。
-    国税庁サイトは政府標準利用規約に準拠しており、出典明示のうえ複製・加工できる。
+    国税庁サイトは公共データ利用規約（第1.0版）に準拠しており、出典明示のうえ複製・加工できる。
 """
 
 import argparse
@@ -222,7 +222,9 @@ def render_item(it, ryakusho):
         L.append("")
     L.append("---")
     L.append("")
-    L.append("出典: 国税庁 [%s](%s)" % (it["heading"] or "法令解釈通達", it["url"]))
+    # 国税庁の利用規約（公共データ利用規約 第1.0版）の出典記載例に合わせ、加工した旨を書く。
+    L.append("出典：国税庁ホームページ [%s](%s) を加工して作成（tax-knowledge が書式を整えたもので、国税庁が作成したものではない）"
+             % (it["heading"] or "法令解釈通達", it["url"]))
     return "\n".join(L).rstrip() + "\n"
 
 
@@ -345,7 +347,7 @@ def collect(entry, verbose=True):
         "item_count": len(meta_items),
         "truncated": truncated,
         "出典": "国税庁 法令解釈通達",
-        "利用条件": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは政府標準利用規約に準拠。",
+        "利用条件": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは公共データ利用規約（第1.0版）に準拠。",
         "items": meta_items,
     }
     stats[write_if_changed(os.path.join(out, "_meta.json"),
@@ -427,7 +429,7 @@ def write_index():
     idx = {
         "_説明": "収集済みの法令解釈通達の一覧。取得日時は記録しない（git のコミット日時が取得日時）。",
         "_出典": "国税庁 法令解釈通達 https://www.nta.go.jp/law/tsutatsu/menu.htm",
-        "_法的根拠": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは政府標準利用規約に準拠。",
+        "_法的根拠": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは公共データ利用規約（第1.0版）に準拠。",
         "item_total": sum(r["item_count"] for r in rows),
         "tsutatsu": rows,
     }

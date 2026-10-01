@@ -2,7 +2,7 @@
 
 > 種別: 個別通達／shotoku
 > 元の資料: 介護保険制度下での居宅サービスの対価に係る医療費控除の取扱いについて
-> 出典: 国税庁（https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/000608/01.htm）。政府標準利用規約に基づき、出典を明示して複製・加工している。法令・通達・判決・裁決は著作権法13条により著作権の目的とならない。
+> 出典：国税庁ホームページ（https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/000608/01.htm）を加工して作成。tax-knowledge が書式を整え見出し等を付したもので、国税庁が作成したものではない。公共データ利用規約（第1.0版）に準拠して利用している。
 
 課所4-11 
 平成12年6月8日
