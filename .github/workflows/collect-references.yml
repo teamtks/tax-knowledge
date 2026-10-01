@@ -1,0 +1,77 @@
+name: 参考資料を収集（質疑応答・裁決・タックスアンサー・個別通達）
+
+# 法令・基本通達に加えて、当てはめの材料になる資料をそろえる。
+#   質疑応答事例   … 国税庁が具体的な事実に当てはめた回答
+#   公表裁決事例   … 審判所が処分を維持したか取り消したか
+#   タックスアンサー … 制度の概要と根拠法令等への入口
+#   個別通達       … 特定の取引についての取扱い
+# どれも合わせて数千ページあり、国税庁サイトへの負荷を考えて月1回とする。
+on:
+  schedule:
+    - cron: '0 17 1-7 * 0'      # 毎月第1日曜 JST 02:00
+  workflow_dispatch:
+    inputs:
+      only:
+        description: '一部だけ回す（qa / saiketsu / taxanswer / kobetsu をスペース区切り。空なら全部）'
+        required: false
+        default: ''
+  push:
+    branches: [main]
+    paths:
+      - 'collectors/nta_shitsugi.py'
+      - 'collectors/kfs_saiketsu.py'
+      - 'collectors/nta_taxanswer.py'
+      - 'collectors/nta_kobetsu.py'
+      - 'collectors/_web.py'
+      - 'config/qa.json'
+      - 'config/kobetsu.json'
+      - '.github/workflows/collect-references.yml'
+
+concurrency:
+  group: collect-references
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 収集
+        env:
+          PYTHONIOENCODING: utf-8
+          ONLY: ${{ github.event.inputs.only }}
+        run: |
+          set -u
+          want() { [ -z "${ONLY:-}" ] || echo " ${ONLY} " | grep -q " $1 "; }
+          FAIL=""
+          if want qa;        then python collectors/nta_shitsugi.py  || FAIL="$FAIL 質疑応答事例"; fi
+          if want saiketsu;  then python collectors/kfs_saiketsu.py  || FAIL="$FAIL 裁決事例"; fi
+          if want taxanswer; then python collectors/nta_taxanswer.py || FAIL="$FAIL タックスアンサー"; fi
+          if want kobetsu;   then python collectors/nta_kobetsu.py   || FAIL="$FAIL 個別通達"; fi
+          python collectors/catalog.py
+          echo "FAIL=${FAIL}" >> "$GITHUB_ENV"
+
+      - name: 差分があれば commit して push
+        run: |
+          set -euo pipefail
+          git config user.name  "reference-collector"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "変更はありませんでした。"; exit 0
+          fi
+          git status --porcelain | head -300 >> "$GITHUB_STEP_SUMMARY"
+          git add -A
+          git commit -m "参考資料を更新: $(date -u -d '+9 hours' +%Y-%m-%d)" \
+            -m "出典: 国税庁（質疑応答事例・タックスアンサー・個別通達）、国税不服審判所（公表裁決事例要旨）"
+          git push
+
+      - name: 失敗があれば警告
+        if: env.FAIL != ''
+        run: echo "::warning::収集に失敗したもの:${FAIL}"

@@ -1,0 +1,15 @@
+{
+  "_説明": "収集する質疑応答事例の税目。index は国税庁サイトの目次ページ。",
+  "_出典": "国税庁 質疑応答事例 https://www.nta.go.jp/law/shitsugi/01.htm",
+  "税目": [
+    {"code": "hojin",   "名称": "法人税",       "index": "/law/shitsugi/hojin/01.htm",   "有効": true},
+    {"code": "shohi",   "名称": "消費税",       "index": "/law/shitsugi/shohi/01.htm",   "有効": true},
+    {"code": "gensen",  "名称": "源泉所得税",   "index": "/law/shitsugi/gensen/01.htm",  "有効": true},
+    {"code": "shotoku", "名称": "所得税",       "index": "/law/shitsugi/shotoku/01.htm", "有効": true},
+    {"code": "joto",    "名称": "譲渡所得",     "index": "/law/shitsugi/joto/01.htm",    "有効": true},
+    {"code": "sozoku",  "名称": "相続税・贈与税", "index": "/law/shitsugi/sozoku/01.htm", "有効": true},
+    {"code": "hyoka",   "名称": "財産の評価",   "index": "/law/shitsugi/hyoka/01.htm",   "有効": true},
+    {"code": "inshi",   "名称": "印紙税",       "index": "/law/shitsugi/inshi/01.htm",   "有効": true},
+    {"code": "hotei",   "名称": "法定調書",     "index": "/law/shitsugi/hotei/01.htm",   "有効": true}
+  ]
+}

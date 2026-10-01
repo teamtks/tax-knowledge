@@ -1,0 +1,20 @@
+{
+  "_説明": "収集する個別通達の目次ページ。国税庁「法令解釈通達」メニューの個別通達の分類。",
+  "_出典": "https://www.nta.go.jp/law/tsutatsu/menu.htm",
+  "目次": [
+    {"分野": "hojin",    "名称": "法人税関係",       "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/houzin.htm"},
+    {"分野": "hojin-so", "名称": "法人税（措置法）", "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/sotihou.htm"},
+    {"分野": "shohi",    "名称": "消費税等関係",     "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/syouhi.htm"},
+    {"分野": "sozoku",   "名称": "相続税関係",       "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/souzoku.htm"},
+    {"分野": "sozoku-so","名称": "相続税（措置法）", "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/sochiho/sotihou.htm"},
+    {"分野": "hyoka",    "名称": "財産評価関係",     "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/zaisan.htm"},
+    {"分野": "shinkoku", "名称": "申告所得税関係",   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/sinkoku.htm"},
+    {"分野": "gensen",   "名称": "源泉所得税関係",   "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/gensen.htm"},
+    {"分野": "joto",     "名称": "譲渡・山林所得関係", "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/sanrin.htm"},
+    {"分野": "shotoku-so","名称": "所得税（措置法）", "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/sotihou.htm"},
+    {"分野": "chosyu",   "名称": "徴収関係",         "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/chosyu.htm"},
+    {"分野": "chosa",    "名称": "税務調査手続関係", "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/zeimuchosa/zeimuchosa.htm"},
+    {"分野": "denshi",   "名称": "電子帳簿保存法関係", "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/denshichoubo/index.htm"},
+    {"分野": "sonota",   "名称": "その他",           "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/sonota.htm"}
+  ]
+}

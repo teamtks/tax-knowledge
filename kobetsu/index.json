@@ -1,0 +1,3616 @@
+{
+  "_説明": "国税庁 個別通達の一覧。",
+  "_出典": "https://www.nta.go.jp/law/tsutatsu/menu.htm",
+  "通達": [
+    {
+      "題": "日本郵政公社法及び民間事業者による信書の送達に関する法律等の施行に伴う関係法令解釈通達の整理について（法令解釈通達）（平成15年6月26日）",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/030626/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-030626-01.md"
+      ]
+    },
+    {
+      "題": "国税電子申告・納税システムに関する届出書等の様式の制定について（法令解釈通達）",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/031017/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-031017-01.md"
+      ]
+    },
+    {
+      "題": "国税庁所定分析法（訓令）",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/070622/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-070622-01.md"
+      ]
+    },
+    {
+      "題": "「法人番号の公表同意書」等の制定について（法令解釈通達）",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/151005/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-151005-01.md"
+      ]
+    },
+    {
+      "題": "自動車の共同抵当権の移転登録等を受ける場合の登録免許税の取扱いについて",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/671026/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-671026-01.md"
+      ]
+    },
+    {
+      "題": "共同担保の抵当権等の移転の登記等をする場合の登録免許税の取扱いについて",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/680824/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-680824-01.md"
+      ]
+    },
+    {
+      "題": "「耐用年数の適用等に関する取扱通達」の制定について",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/700525/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-700525-01.md",
+        "kobetsu/sonota/sonota-700525-zenbun-01.md",
+        "kobetsu/sonota/sonota-700525-fusoku-01.md",
+        "kobetsu/sonota/sonota-700525-fuhyou-01.md",
+        "kobetsu/sonota/sonota-700525-fuhyou-02.md",
+        "kobetsu/sonota/sonota-700525-fuhyou-03.md",
+        "kobetsu/sonota/sonota-700525-fuhyou-04.md",
+        "kobetsu/sonota/sonota-700525-fuhyou-06.md",
+        "kobetsu/sonota/sonota-700525-fuhyou-09.md",
+        "kobetsu/sonota/sonota-700525-fuhyou-10.md"
+      ]
+    },
+    {
+      "題": "地価税法取扱通達の制定について",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/911218/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-911218-01.md"
+      ]
+    },
+    {
+      "題": "信用組合が全国信組不動産(株)を利用して取得した事業用土地等に係る地価税の納税義務者について",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/921111/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-921111-01.md"
+      ]
+    },
+    {
+      "題": "阪神・淡路大震災の被災者等に係る国税関係法律の臨時特例に関する法律の一部改正に伴う地価税の取扱いについて",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/950511/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-950511-01.md"
+      ]
+    },
+    {
+      "題": "阪神・淡路大震災被災者等に係る国税関係法律の臨時特例に関する法律第32条の規定に基づく地価税の免除措置に係る関係様式の制定について",
+      "分野": "その他",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/960404/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-960404-01.md"
+      ]
+    },
+    {
+      "題": "「国税通則法第63条第5項の規定による延滞税の免除の取扱いについて」",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/001030/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-001030-01.md",
+        "kobetsu/chosyu/chosyu-001030-02.md"
+      ]
+    },
+    {
+      "題": "人為による異常な災害又は事故による延滞税の免除について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/010622/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-010622-01.md"
+      ]
+    },
+    {
+      "題": "納税証明書に係る交付請求書及び証明書様式の制定について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/020523/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-020523-01.md"
+      ]
+    },
+    {
+      "題": "法人税法第81条の28の規定による連帯納付責任について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/030702/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-030702-01.md"
+      ]
+    },
+    {
+      "題": "「納税の猶予等の取扱要領の制定について」（法令解釈通達）の廃止について（法令解釈通達）",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/150302/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-150302-01.md"
+      ]
+    },
+    {
+      "題": "「国税通則法第9条の2の規定による連帯納付責任について」（法令解釈通達）の廃止について（法令解釈通達）",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/170324/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-170324-01.md"
+      ]
+    },
+    {
+      "題": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律による納税の猶予の特例の取扱いについて（法令解釈通達）",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/200428/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-200428-01.md"
+      ]
+    },
+    {
+      "題": "架空名義でされた所有権移転登記のまっ消手続について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/570207/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-570207-01.md"
+      ]
+    },
+    {
+      "題": "滞納処分と強制執行等との手続の調整に関する法律および同規則上の疑義について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/580604/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-580604-01.md"
+      ]
+    },
+    {
+      "題": "保険者に対する財産の差押の通知等に関する取扱について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/600927/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-600927-01.md"
+      ]
+    },
+    {
+      "題": "弁済供託金の取もどし請求権に対する滞納処分等について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/610211/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-610211-01.md",
+        "kobetsu/chosyu/chosyu-610211-02.md"
+      ]
+    },
+    {
+      "題": "有価証券にかかる譲渡担保の取扱について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/610731/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-610731-01.md"
+      ]
+    },
+    {
+      "題": "税務署長から国税局長に徴収の引継ぎがされた場合における異議申立先等について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/651202/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-651202-01.md"
+      ]
+    },
+    {
+      "題": "株式会社が株券を発行しない場合における国のとりうべき手段について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/651203/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-651203-01.md"
+      ]
+    },
+    {
+      "題": "遺産分割の調停成立後、分割登記前にした登記名義人の滞納処分のための差押えの効力等について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/651210/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-651210-01.md"
+      ]
+    },
+    {
+      "題": "商法等の一部改正に伴う徴収事務の取扱いについて",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/670320/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-670320-01.md"
+      ]
+    },
+    {
+      "題": "物上保証人等の保証を国税の担保として徴する場合の取扱いについて",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/670502/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-670502-01.md"
+      ]
+    },
+    {
+      "題": "信用保証協会が有する将来の求償権担保の抵当権と国税徴収法第18条第1項の適用に関する取扱いについて",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/671017/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-671017-01.md"
+      ]
+    },
+    {
+      "題": "滞納処分による換価に伴い消滅する権利にかかるまっ消登記嘱託の受否について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/680808/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-680808-01.md"
+      ]
+    },
+    {
+      "題": "相続税を課した未分割遺産が、その後協議分割された場合、減額更正した相続税の附帯税の処理について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/690331/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-690331-01.md"
+      ]
+    },
+    {
+      "題": "滞納処分における供託手続等について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/691211/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-691211-01.md"
+      ]
+    },
+    {
+      "題": "延滞税の計算期間の特例規定の取扱いについて",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/760610/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-760610-01.md"
+      ]
+    },
+    {
+      "題": "船舶の所有者等の責任の制限に関する法律又は船舶油濁損害賠償保障法に基づく責任制限手続開始の申立てがあった場合等における滞納処分について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/761120/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-761120-01.md"
+      ]
+    },
+    {
+      "題": "仮登記担保契約に関する法律の制定に伴う滞納処分の取扱いについて",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/790702/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-790702-01.md"
+      ]
+    },
+    {
+      "題": "電話加入権等に対する滞納処分手続について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/791030/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-791030-01.md",
+        "kobetsu/chosyu/chosyu-791030-02.md"
+      ]
+    },
+    {
+      "題": "滞納処分により差押えをした債権につき債権者不確知を理由として供託された場合に国が採るべき徴収手段について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/801028/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-801028-01.md"
+      ]
+    },
+    {
+      "題": "民事執行法の施行に伴う滞納処分の取扱いについて",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/801127/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-801127-01.md"
+      ]
+    },
+    {
+      "題": "差押禁止財産の範囲及び差押えの登記又は登録を嘱託する場合の関係機関について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/830713/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-830713-01.md"
+      ]
+    },
+    {
+      "題": "相続税法第34条に規定する連帯納付の義務に係る通知等について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/880613/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-880613-01.md"
+      ]
+    },
+    {
+      "題": "有料職業紹介事業保証金供託金の取戻請求に当たり添付すべき証明書の交付を受けることの可否について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/940823/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-940823-01.md"
+      ]
+    },
+    {
+      "題": "執行裁判所等に対して送付する交付要求書等の延滞税欄の記載要領について",
+      "分野": "徴収関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/chosyu/940922/01.htm",
+      "paths": [
+        "kobetsu/chosyu/chosyu-940922-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法第40条第1項後段の規定の適用を受けようとする場合における更生保護法人標準定款について",
+      "分野": "所得税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/020603/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-sochiho-020603-01.md",
+        "kobetsu/shotoku/shotoku-sochiho-020603-02.md"
+      ]
+    },
+    {
+      "題": "幼稚園を設置する学校法人に対する財産の贈与又は遺贈に係る譲渡所得の非課税取扱いについて",
+      "分野": "所得税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/041208/01.htm",
+      "paths": [
+        "kobetsu/shotoku/error-404.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法第40条第1項後段の規定の適用を受けようとする場合における社会福祉法人定款例について",
+      "分野": "所得税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/170216/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-sochiho-170216-01.md",
+        "kobetsu/shotoku/shotoku-sochiho-170216-02.md"
+      ]
+    },
+    {
+      "題": "都道府県知事が所轄する学校法人に対する財産の贈与又は遺贈に係る譲渡所得の非課税取扱いについて",
+      "分野": "所得税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/240209/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-sochiho-240209-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法第二十六条に規定する社会保険診療報酬の範囲について",
+      "分野": "所得税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/581201/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-sochiho-581201-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法第40条第1項後段の規定による譲渡所得等の非課税の取扱いについて",
+      "分野": "所得税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/800423/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-sochiho-800423-01.md"
+      ]
+    },
+    {
+      "題": "退職給付会計に係る税務上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/000330/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-000330-01.md"
+      ]
+    },
+    {
+      "題": "介護サービス事業に係る法人税法上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/000608/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-000608-01.md"
+      ]
+    },
+    {
+      "題": "海外渡航費の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/001011/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-001011-01.md"
+      ]
+    },
+    {
+      "題": "特定金銭信託等に係る法人税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/010425/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-010425-01.md",
+        "kobetsu/hojin/hojin-010425-02.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一（一）、一（二）、一（三）、十七、十七の二、十七の四、十八、十九（一）及び十九（二）の記載項目の追加について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/010518/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-010518-01.md"
+      ]
+    },
+    {
+      "題": "法人課税関係の申請、届出等の様式の制定について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/010705/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-010705-01.md"
+      ]
+    },
+    {
+      "題": "法人契約の「がん保険（終身保障タイプ）・医療保険（終身保障タイプ）」の保険料の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/010810/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-010810-01.md",
+        "kobetsu/hojin/hojin-010810-02.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一（一）、一（二）、一（三）、十七、十七の二、十七の四、十八、十九（一）及び十九（二）の記載項目の追加について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/020509/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-020509-01.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一の二（一）、一の二（二）及び一の二（三）の記載項目の追加について（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/030320/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-030320-01.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一（一）、一（二）、一（三）、十八、十八の二、十九（一）、十九（三）、二十、二十一（一）及び二十一（二）の記載項目の追加等について（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/030521/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-030521-01.md"
+      ]
+    },
+    {
+      "題": "損害保険会社の所得計算等に関する法人税の取扱いについて（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/031219/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-031219-01.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一（一）及び一（二）の記載項目の追加について（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/060426/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-060426-01.md"
+      ]
+    },
+    {
+      "題": "「土地信託に関する所得税、法人税並びに相続税及び贈与税の取扱いについて」及び「信託受益権が分割される土地信託に関する所得税、法人税、消費税並びに相続税及び贈与税の取扱いについて」の廃止について（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/070622/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-070622-01.md"
+      ]
+    },
+    {
+      "題": "「適格退職年金契約の自主審査要領」に適合する適格退職年金契約の税務上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/071029/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-071029-01.md",
+        "kobetsu/hojin/hojin-071029-02.md",
+        "kobetsu/hojin/hojin-071029-03.md"
+      ]
+    },
+    {
+      "題": "東日本大震災に関する諸費用の法人税の取扱いについて（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/110418/index.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-110418-index.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一（一）、一（二）、一（三）、十九、一の二（一）、一の二（二）及び一の二（三）の記載項目の追加について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/110420/index.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-110420-index.md"
+      ]
+    },
+    {
+      "題": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律関係通達（法人税編）の制定について（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/110427/index.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-110427-index.md"
+      ]
+    },
+    {
+      "題": "復興特別法人税申告書別表一の記載項目の追加について（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/120328/index.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-120328-index.md"
+      ]
+    },
+    {
+      "題": "復興特別法人税の取扱いについて（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/120530/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-120530-01.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一（一）等の記載項目の追加等について（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/140623/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-140623-01.md"
+      ]
+    },
+    {
+      "題": "平成28年熊本地震に関する諸費用の法人税の取扱いについて（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/160614/index.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-160614-index.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一等の記載項目の追加等について（法令解釈通達）",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/260428/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-260428-01.md"
+      ]
+    },
+    {
+      "題": "鉄鋼圧延用ロールについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/511228/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-511228-01.md"
+      ]
+    },
+    {
+      "題": "石炭鉱業における坑道の減価償却について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/520118/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-520118-01.md"
+      ]
+    },
+    {
+      "題": "商品仲買人の委託手数料に対する所得税及び法人税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/530827/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-530827-01.md"
+      ]
+    },
+    {
+      "題": "電気事業用固定資産の取替法実施について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/531223/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-531223-01.md"
+      ]
+    },
+    {
+      "題": "職業野球団に対して支出した広告宣伝費等の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/540810/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-540810-01.md"
+      ]
+    },
+    {
+      "題": "認定利息の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/540915/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-540915-01.md"
+      ]
+    },
+    {
+      "題": "金融機関等が中小企業信用保険金を収入した場合等の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/541015/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-541015-01.md"
+      ]
+    },
+    {
+      "題": "銀行が輸出金融保険金の支払を受けた場合等の法人税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/550628/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-550628-01.md"
+      ]
+    },
+    {
+      "題": "専門店会に対する法人税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/560705/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-560705-01.md"
+      ]
+    },
+    {
+      "題": "金融機関が住宅融資保険金を収入した場合等の法人税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/560814/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-560814-01.md"
+      ]
+    },
+    {
+      "題": "火災共済事業を営む協同組合が積み立てる責任準備金（特別危険準備金を含む。）等の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/570109/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-570109-01.md"
+      ]
+    },
+    {
+      "題": "石炭鉱業の鉱害賠償費に対する法人税及び所得税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/570625/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-570625-01.md"
+      ]
+    },
+    {
+      "題": "酒類製造業者が収入した原料用アルコールに対するリベート等の法人税及び所得税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/570717/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-570717-01.md"
+      ]
+    },
+    {
+      "題": "商品仲買人が農産物商品取引所に対して預託する委託者保護積立金に対する取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/580804/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-580804-01.md"
+      ]
+    },
+    {
+      "題": "証券業を営む法人の負債利子の控除について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/581226/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-581226-01.md"
+      ]
+    },
+    {
+      "題": "森林開発公団等の林道開発に伴い支出した賦課金等の法人税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/590620/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-590620-01.md"
+      ]
+    },
+    {
+      "題": "共済事業を行う農業協同組合及び同連合会が風水害による被共済契約者に対して支出する特別災害見舞金等の法人税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/591224/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-591224-01.md"
+      ]
+    },
+    {
+      "題": "配電設備昇圧工事に伴う法人税および所得税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/600120/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-600120-01.md"
+      ]
+    },
+    {
+      "題": "証券投資信託委託会社の収入する委託者報酬等の収益計上時期等の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/601212/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-601212-01.md"
+      ]
+    },
+    {
+      "題": "生命保険会社の所得計算等に関する取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/620816/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-620816-01.md"
+      ]
+    },
+    {
+      "題": "下流増負担金の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/630206/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-630206-01.md"
+      ]
+    },
+    {
+      "題": "金融機関の未収利息の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/660905/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-660905-01.md"
+      ]
+    },
+    {
+      "題": "米穀卸売販売業者が財団法人全国米穀配給協会に拠出する近代化経費の法人税および所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/670401/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-670401-01.md"
+      ]
+    },
+    {
+      "題": "日本内航海運組合総連合会が共同係船を実施することに伴う法人税および所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/670425/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-670425-01.md"
+      ]
+    },
+    {
+      "題": "農地被買収者等である法人が交付を受ける農地被買収者国庫債券の法人税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/670612/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-670612-01.md"
+      ]
+    },
+    {
+      "題": "港湾運送事業者が拠出する港湾公共福利施設分担金の法人税および所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/670623/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-670623-01.md"
+      ]
+    },
+    {
+      "題": "農業協同組合等の未収利息の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/680405/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-680405-01.md"
+      ]
+    },
+    {
+      "題": "液化石油ガス分析機器の耐用年数について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/680416/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-680416-01.md"
+      ]
+    },
+    {
+      "題": "開拓農業協同組合等が貸付金利息にかかる債務を減免した場合における法人税の取扱について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/680422/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-680422-01.md"
+      ]
+    },
+    {
+      "題": "たな卸資産にかかる特別な評価の方法の承認申請書の制定について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/680610/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-680610-01.md"
+      ]
+    },
+    {
+      "題": "労働者住宅確保奨励金の法人税および所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/680701/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-680701-01.md"
+      ]
+    },
+    {
+      "題": "生産森林組合の従事分量配当について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/680719/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-680719-01.md"
+      ]
+    },
+    {
+      "題": "製粉業者および精麦業者が社団法人全国米麦改良協会に対して拠出する契約生産奨励金の法人税および所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/681129/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-681129-01.md"
+      ]
+    },
+    {
+      "題": "テレビ用コマーシャルフィルムの耐用年数について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/681223/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-681223-01.md"
+      ]
+    },
+    {
+      "題": "内航船舶の解撤等により収入する船腹調整交付金等の法人税および所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/681227/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-681227-01.md"
+      ]
+    },
+    {
+      "題": "交通事故傷害保険の保険料等の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/690131/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-690131-01.md"
+      ]
+    },
+    {
+      "題": "事業分量配当金の法人税法上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/690526/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-690526-01.md"
+      ]
+    },
+    {
+      "題": "精麦業者が全国精麦工業協同組合連合会に対して拠出する近代化資金および調整金の法人税および所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/690721/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-690721-01.md"
+      ]
+    },
+    {
+      "題": "保険会社の未収利息の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/691008/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-691008-01.md"
+      ]
+    },
+    {
+      "題": "タクシー近代化センターに納付する事業者負担金の損金算入について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/700320/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-700320-01.md"
+      ]
+    },
+    {
+      "題": "「前年の1人当たり賞与支給額」の計算における支給対象期間経過後入社者に対する取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/700810/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-700810-01.md"
+      ]
+    },
+    {
+      "題": "残存する清酒製造業者が日本酒造組合中央会に対して納付する納付金等の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/710106/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-710106-01.md"
+      ]
+    },
+    {
+      "題": "金融機関が預金保険機構に納付する預金保険の保険料について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/711124/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-711124-01.md"
+      ]
+    },
+    {
+      "題": "南洋材輸送船停船の実施に伴う負担金等の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/720309/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-720309-01.md"
+      ]
+    },
+    {
+      "題": "畜産団地造成事業により設置した資産に関する所得税および法人税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/721221/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-721221-01.md"
+      ]
+    },
+    {
+      "題": "トラック交通共済協同組合が行なう自動車交通共済事業にかかる掛金等の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/730205/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-730205-01.md"
+      ]
+    },
+    {
+      "題": "商品取引員が商品取引受託債務補償組合に納付する特別会費の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/730212/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-730212-01.md"
+      ]
+    },
+    {
+      "題": "都道府県開拓農業協同組合連合会の再編整理にともなう法人税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/730317/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-730317-01.md"
+      ]
+    },
+    {
+      "題": "外貨建償還株式の税法上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/730405/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-730405-01.md"
+      ]
+    },
+    {
+      "題": "家畜導入事業にかかる法人税および所得税に関する取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/730410/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-730410-01.md"
+      ]
+    },
+    {
+      "題": "中小企業者等の機械の特別償却の適用を受けるガス導管の取得価額の判定単位について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/730510/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-730510-01.md"
+      ]
+    },
+    {
+      "題": "港湾労働法にかかる港湾運送料金および倉庫料金の付加料金の税務上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/731016/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-731016-01.md"
+      ]
+    },
+    {
+      "題": "割賦販売代金保険契約にかかる保険料の費用配分について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/731024/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-731024-01.md"
+      ]
+    },
+    {
+      "題": "農業協同組合連合会の権利義務が包括承継された場合の法人税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/731226/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-731226-01.md"
+      ]
+    },
+    {
+      "題": "農業協同組合、漁業協同組合および水産加工業協同組合が農水産業協同組合貯金保険機構に納付する貯金保険の保険料について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/731227/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-731227-01.md"
+      ]
+    },
+    {
+      "題": "路線バス事業者が団地開発者からバス車両又はその購入費の交付を受けた場合の法人税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/740110/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-740110-01.md"
+      ]
+    },
+    {
+      "題": "農業協同組合が支払う個人ローン信用保険の前払保険料の計算方法について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/740225/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-740225-01.md"
+      ]
+    },
+    {
+      "題": "水銀等による水産動植物の汚染に係る被害漁業者等に対する特別金融措置に関し、被害漁業者等が負担する利子を肩代りするため事業者が拠出する拠出金の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/740311/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-740311-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法第45条の2（中小企業者等の機械の特別償却）の規定の適用に係る「建設揚重業」の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/740919/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-740919-01.md"
+      ]
+    },
+    {
+      "題": "公害健康被害補償法の規定による汚染負荷量賦課金等の損金算入時期について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/741021/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-741021-01.md"
+      ]
+    },
+    {
+      "題": "医療法人に対する中小企業者等の機械の特別償却の適用について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/750510/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-750510-01.md"
+      ]
+    },
+    {
+      "題": "生命傷害共済事業等を行う事業協同組合等の責任準備金及び支払準備金の損金算入について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/760413/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-760413-01.md"
+      ]
+    },
+    {
+      "題": "圧縮記帳に関する会計処理及び表示について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/760515/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-760515-01.md"
+      ]
+    },
+    {
+      "題": "土地譲渡益重課制度における経費の実額配賦法について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/760702/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-760702-01.md"
+      ]
+    },
+    {
+      "題": "特別償却の対象となる船舶における関連諸装置等の内容について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/760812/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-760812-01.md"
+      ]
+    },
+    {
+      "題": "船舶の特別な償却方法による減価償却について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/761105/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-761105-01.md",
+        "kobetsu/hojin/hojin-761105-02.md",
+        "kobetsu/hojin/hojin-761105-03.md"
+      ]
+    },
+    {
+      "題": "肉用牛産肉性向上推進事業及び優良種豚生産促進事業に係る所得税及び法人税に関する取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/761207/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-761207-01.md"
+      ]
+    },
+    {
+      "題": "運輸事業振興助成交付金制度に基づいてバス事業者が公益法人から助成金の交付を受けた場合の法人税等の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/770624/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-770624-01.md"
+      ]
+    },
+    {
+      "題": "繊維工業構造改善臨時措置法に規定する特定組合の構成員が買取義務付賃貸借契約により賃借する設備の取得の時期について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/770730/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-770730-01.md"
+      ]
+    },
+    {
+      "題": "製粉業者が飼料用麦生産奨励協議会に拠出する飼料用麦流通対策費の法人税及び所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/770818/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-770818-01.md"
+      ]
+    },
+    {
+      "題": "休廃止鉱山に係る鉱害対策工事に要する費用の法人税法及び所得税法上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/780128/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-780128-01.md"
+      ]
+    },
+    {
+      "題": "保険医療機関の開設者が個人から医療法人に変更された場合における個人名義により支払を受けた社会保険診療報酬に係る源泉所得税等の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/780314/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-780314-01.md"
+      ]
+    },
+    {
+      "題": "いわゆる銀行系のクレジット・カード業者における貸倒引当金の繰入率について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/781108/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-781108-01.md"
+      ]
+    },
+    {
+      "題": "港湾法による開発保全航路の開発及び保全に伴う補償金等の課税の特例について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/781129/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-781129-01.md"
+      ]
+    },
+    {
+      "題": "展示用建物の耐用年数の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790130/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790130-01.md"
+      ]
+    },
+    {
+      "題": "排水の再生利用に供する汚水処理用減価償却資産について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790215/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790215-01.md"
+      ]
+    },
+    {
+      "題": "住宅金融専門会社の未収利息の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790315/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790315-01.md"
+      ]
+    },
+    {
+      "題": "石油備蓄の用に供している船舶の減価償却について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790328/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790328-01.md"
+      ]
+    },
+    {
+      "題": "清酒製造業の安定に関する特別措置法に基づく納付金の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790417/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790417-01.md"
+      ]
+    },
+    {
+      "題": "共有持分を有する法人が共有持分の追加取得をした場合の耐用年数の適用について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790507/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790507-01.md"
+      ]
+    },
+    {
+      "題": "法人契約の新成人病保険の保険料の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790608/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790608-01.md"
+      ]
+    },
+    {
+      "題": "東京都が行う歩道改修工事に係る施工分担に伴い支出する特別会費の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790629/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790629-01.md"
+      ]
+    },
+    {
+      "題": "金融機関の保有する譲渡性預金の経理について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/790704/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-790704-01.md",
+        "kobetsu/hojin/hojin-790704-02.md"
+      ]
+    },
+    {
+      "題": "厚生大臣の指定する公益法人が行うし尿浄化槽の検査事業に係る法人税法上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/800128/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-800128-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法第12条の3第2項及び第45条の2第3項の規定による特別償却の対象となる医療用機械等の範囲について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/800324/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-800324-01.md",
+        "kobetsu/hojin/hojin-800324-02.md"
+      ]
+    },
+    {
+      "題": "医薬品の製造業者等が医薬品副作用被害救済基金法の規定に基づき拠出する拠出金の法人税法及び所得税法上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/800415/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-800415-01.md"
+      ]
+    },
+    {
+      "題": "社団法人全日本コーヒー協会の会員がコーヒーの消費振興を図るために支出する消費振興資金の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/801013/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-801013-01.md"
+      ]
+    },
+    {
+      "題": "漁業補償金を増殖資金として留保している漁業協同組合等に対する指導等について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/801225/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-801225-01.md"
+      ]
+    },
+    {
+      "題": "減価償却資産の耐用年数等に関する省令別表第二に掲げる「漁ろう用設備」の範囲について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/821006/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-821006-01.md",
+        "kobetsu/hojin/hojin-821006-02.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法上の準備金に関する会計処理及び表示について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/821008/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-821008-01.md"
+      ]
+    },
+    {
+      "題": "○○販売店遺児育英制度に基づき給付される遺児育英年金等に係る税務上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/821208/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-821208-01.md"
+      ]
+    },
+    {
+      "題": "幼稚園が行う各種事業の収益事業の判定について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/830603/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-830603-01.md"
+      ]
+    },
+    {
+      "題": "家畜導入事業資金供給事業及び肉用牛経営安定対策事業資金供給事業に係る法人税及び所得税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/840213/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-840213-01.md"
+      ]
+    },
+    {
+      "題": "抵当証券に係る税務上の取扱い",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/840626/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-840626-01.md"
+      ]
+    },
+    {
+      "題": "円建銀行引受手形市場及び手形割引市場で売買される手形に係る貸倒引当金の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/850903/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-850903-01.md",
+        "kobetsu/hojin/hojin-850903-02.md",
+        "kobetsu/hojin/hojin-850903-03.md"
+      ]
+    },
+    {
+      "題": "法人が支払う長期平準定期保険等の保険料の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/870616/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-870616-01.md"
+      ]
+    },
+    {
+      "題": "鉄道事業及び軌道業を営む者の有する固定資産の分類と個々の資産の耐用年数について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/881006/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-881006-01.md"
+      ]
+    },
+    {
+      "題": "消費税法等の施行に伴う法人税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/890301/index.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-890301-index.md",
+        "kobetsu/hojin/error-404.md"
+      ]
+    },
+    {
+      "題": "法人税の借地権課税における相当の地代の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/890330/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-890330-01.md"
+      ]
+    },
+    {
+      "題": "法人が契約する個人年金保険に係る法人税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/900530/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-900530-01.md"
+      ]
+    },
+    {
+      "題": "法人特別税の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/920520/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-920520-01.md",
+        "kobetsu/hojin/hojin-920520-02.md",
+        "kobetsu/hojin/hojin-920520-03.md"
+      ]
+    },
+    {
+      "題": "中小企業等投資事業有限責任組合契約に係る税務上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/981021/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-981021-01.md"
+      ]
+    },
+    {
+      "題": "適正評価手続に基づいて算定される債権及び不良債権担保不動産の価額の税務上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/981204/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-981204-01.md",
+        "kobetsu/hojin/hojin-981204-02.md",
+        "kobetsu/hojin/hojin-981204-03.md",
+        "kobetsu/hojin/hojin-981204-04.md",
+        "kobetsu/hojin/hojin-981204-05.md",
+        "kobetsu/hojin/hojin-981204-06.md",
+        "kobetsu/hojin/hojin-981204-07.md",
+        "kobetsu/hojin/hojin-981204-08.md",
+        "kobetsu/hojin/hojin-981204-09.md"
+      ]
+    },
+    {
+      "題": "法人税申告書別表一（一）及び（二）の記載項目の追加について",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/990430/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-990430-01.md"
+      ]
+    },
+    {
+      "題": "レバレッジド・リース取引に係る税務上の取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/990916/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-990916-01.md"
+      ]
+    },
+    {
+      "題": "適格退職年金契約の承認等に関する取扱いについて",
+      "分野": "法人税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/991220/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-991220-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法関係通達（連結納税編）の制定について（法令解釈通達）",
+      "分野": "法人税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/030228/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-sochiho-030228-01.md",
+        "kobetsu/hojin/hojin-sochiho-030228-zenbun-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法による特別償却の償却限度額の計算に関する付表の様式について（法令解釈通達）",
+      "分野": "法人税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/060831/01.htm",
+      "paths": [
+        "kobetsu/hojin/error-404.md"
+      ]
+    },
+    {
+      "題": "一部改正通達",
+      "分野": "法人税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/060831/04.htm",
+      "paths": [
+        "kobetsu/hojin/error-404.md"
+      ]
+    },
+    {
+      "題": "仮換地等が土地収用法等の規定に基づいて使用され補償金等を取得する場合の収用等の場合の課税の特例の適用について",
+      "分野": "法人税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/730119/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-sochiho-730119-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法関係通達（法人税編）の制定について",
+      "分野": "法人税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01.htm",
+      "paths": [
+        "kobetsu/hojin/hojin-sochiho-750214-01.md",
+        "kobetsu/hojin/hojin-sochiho-750214-zenbun-01.md",
+        "kobetsu/hojin/hojin-sochiho-750214-bessi-01.md"
+      ]
+    },
+    {
+      "題": "事業者が消費者に対して価格を表示する場合の取扱い及び課税標準額に対する消費税額の計算に関する経過措置の取扱いについて（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/040219/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-040219-01.md"
+      ]
+    },
+    {
+      "題": "新潟県中越地震により被災した酒類製造場等に係る酒類製造免許等の取扱いの特例について（指示）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/041202/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-041202-01.md"
+      ]
+    },
+    {
+      "題": "酒税法及び酒類行政関係法令等解釈通達（様式編）の制定について（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/050825/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-050825-index.md"
+      ]
+    },
+    {
+      "題": "「土地信託に関する所得税、法人税並びに相続税及び贈与税の取扱いについて」及び「信託受益権が分割される土地信託に関する所得税、法人税、消費税並びに相続税及び贈与税の取扱いについて」の廃止について（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/070622/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-070622-01.md"
+      ]
+    },
+    {
+      "題": "新潟県中越沖地震による被災酒類に係る酒税相当額の還付手続等の取扱いの特例について（指示）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/070914/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-070914-01.md"
+      ]
+    },
+    {
+      "題": "新潟県中越沖地震により被災した酒類製造場等に係る酒類製造免許等の取扱いの特例について（指示）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/070914/02.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-070914-02.md"
+      ]
+    },
+    {
+      "題": "揮発油価格高騰時における揮発油税及び地方揮発油税の特例税率の適用停止に伴う手持品控除の取扱い等について（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/100511/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-100511-index.md",
+        "kobetsu/kansetsu/kansetsu-100511-01.md",
+        "kobetsu/kansetsu/kansetsu-100511-02.md",
+        "kobetsu/kansetsu/kansetsu-100511-03.md"
+      ]
+    },
+    {
+      "題": "東北地方太平洋沖地震により被災した酒類製造場等に係る酒類製造免許等の取扱いの特例について（指示）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/110325/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-110325-index.md"
+      ]
+    },
+    {
+      "題": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の施行に伴う消費税の取扱いについて（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/110427/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-110427-index.md"
+      ]
+    },
+    {
+      "題": "平成26年4月1日以後に行われる資産の譲渡等に適用される消費税率等に関する経過措置の取扱いについて（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/130325/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-130325-index.md"
+      ]
+    },
+    {
+      "題": "紙巻たばこ三級品に係るたばこ税及びたばこ特別税の特例税率の廃止に伴う手持品課税の取扱いについて（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/150924/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-150924-index.md"
+      ]
+    },
+    {
+      "題": "酒類の地理的表示に関する表示基準の取り扱いについて（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/151030/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-151030-index.md"
+      ]
+    },
+    {
+      "題": "消費税の軽減税率制度に関する取扱通達の制定について（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/160412/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-160412-index.md"
+      ]
+    },
+    {
+      "題": "消費税の軽減税率制度に関する申告書等の様式の制定について（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/160425/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-160425-index.md"
+      ]
+    },
+    {
+      "題": "酒類の公正な取引に関する基準の取扱いについて（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/170331/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-170331-01.md"
+      ]
+    },
+    {
+      "題": "市中輸出物品販売場における免税販売手続の電子化に関する取扱通達の制定について（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/190222/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-190222-index.md"
+      ]
+    },
+    {
+      "題": "消費税の仕入税額控除制度における適格請求書等保存方式に関する取扱通達の制定について（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/20180606/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-20180606-index.md"
+      ]
+    },
+    {
+      "題": "揮発油税及び地方揮発油税の税率の特例の廃止に伴う手持品控除の取扱いについて（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/251205/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-251205-index.md"
+      ]
+    },
+    {
+      "題": "間接諸税関係の申請、届出等の様式の制定について（法令解釈通達）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/260630/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-260630-index.md"
+      ]
+    },
+    {
+      "題": "日米相互防衛援助協定の規定に基づく揮発油税及び地方揮発油税の免除の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/590122/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-590122-01.md"
+      ]
+    },
+    {
+      "題": "駐留軍用揮発油に対する揮発油税及び地方揮発油税の免除等の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/600927/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-600927-01.md"
+      ]
+    },
+    {
+      "題": "災害被害者に対する租税の減免、徴収猶予等に関する法律の取扱通達（間接諸税関係）",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/640203/index.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-640203-index.md"
+      ]
+    },
+    {
+      "題": "揮発油の移出又は引取等の数量の測定に液面計を使用する場合の揮発油税及び地方揮発油税の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/670118/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-670118-01.md"
+      ]
+    },
+    {
+      "題": "揮発油その他の石油類の数量測定に流量計を使用する場合の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/691118/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-691118-01.md"
+      ]
+    },
+    {
+      "題": "課税石油ガス販売代金の領収不能控除等の規定の適用について",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/710727/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-710727-01.md"
+      ]
+    },
+    {
+      "題": "課税石油ガス販売代金の領収不能による石油ガス税の控除等の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/720613/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-720613-01.md"
+      ]
+    },
+    {
+      "題": "液化石油ガスメーターを使用する場合の課税石油ガスの課税標準等の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/760526/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-760526-01.md"
+      ]
+    },
+    {
+      "題": "収入印紙交換制度の導入に伴う印紙税の過誤納確認等の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/810119/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-810119-01.md",
+        "kobetsu/kansetsu/kansetsu-810119-02.md"
+      ]
+    },
+    {
+      "題": "小型航空機等に航空機燃料を積み込む場合の積込みの場所の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/840221/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-840221-01.md"
+      ]
+    },
+    {
+      "題": "消費税法の改正等に伴う印紙税の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/890310/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-890310-01.md"
+      ]
+    },
+    {
+      "題": "阪神・淡路大震災の被災者等に係る国税関係法律の臨時特例に関する法律の一部改正に伴う印紙税の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/950327/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-950327-01.md"
+      ]
+    },
+    {
+      "題": "阪神・淡路大震災の被災者等に係る国税関係法律の臨時特例に関する法律の一部改正に伴う消費税の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/950330/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-950330-01.md"
+      ]
+    },
+    {
+      "題": "消費税関係申告書等の様式の制定について",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/951225/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-951225-01.md"
+      ]
+    },
+    {
+      "題": "酒類保存のため酒類に混和することができる物品の指定告示の制定について",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/970423/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-970423-01.md"
+      ]
+    },
+    {
+      "題": "たばこ特別税の創設に伴う同税の取扱いについて",
+      "分野": "消費税等関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/kansetsu/981028/01.htm",
+      "paths": [
+        "kobetsu/kansetsu/kansetsu-981028-01.md"
+      ]
+    },
+    {
+      "題": "会社役員賠償責任保険の保険料の税務上の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/040120/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-040120-01.md"
+      ]
+    },
+    {
+      "題": "使用者が役員に貸与した住宅等に係る通常の賃貸料の額の計算に当たっての取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/050403/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-050403-01.md"
+      ]
+    },
+    {
+      "題": "インボイス制度開始後の取扱い",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/111209/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-111209-01.md"
+      ]
+    },
+    {
+      "題": "届出事項（非課税口座開設届出書に記載された事項等）を提供する場合におけるレコードの内容及び記録要領等の制定について（法令解釈通達）",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/130628/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-130628-01.md"
+      ]
+    },
+    {
+      "題": "租税条約に関する特例届出書に係る上場株式等の配当等に関する事項等を光ディスク等により提供する場合の標準規格等の制定について（法令解釈通達）",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/131217/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-131217-01.md"
+      ]
+    },
+    {
+      "題": "音楽著作権の使用料に対する所得税法第42条第1項の規定の適用について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/501012/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-501012-01.md"
+      ]
+    },
+    {
+      "題": "外国ニュース映画フィルムの使用料に対する所得税の取扱について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/561221/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-561221-01.md"
+      ]
+    },
+    {
+      "題": "生命保険会社が外交員に支給する退職手当等に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/580214/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-580214-01.md"
+      ]
+    },
+    {
+      "題": "大学の教授等が支給を受ける研究費等に対する所得税の取扱について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/580820/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-580820-01.md"
+      ]
+    },
+    {
+      "題": "まき網漁船乗組員に対する航海日当制の準用について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/590127/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-590127-01.md"
+      ]
+    },
+    {
+      "題": "とう氏等が受ける給与に対する源泉所得税の取扱について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/600502/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-600502-01.md"
+      ]
+    },
+    {
+      "題": "海外へ出漁する漁船船員に対する課税方法について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/600628/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-600628-01.md"
+      ]
+    },
+    {
+      "題": "船舶保証技師が支給を受ける航海日当に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/620808/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-620808-01.md"
+      ]
+    },
+    {
+      "題": "海上自衛隊所属船舶乗組員に支給される航海日当に対する所得税の取扱について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/631217/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-631217-01.md"
+      ]
+    },
+    {
+      "題": "国家公務員の常直勤務手当に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/641224/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-641224-01.md"
+      ]
+    },
+    {
+      "題": "優先配当株式を普通株式とするために支払う補償金の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/651027/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-651027-01.md"
+      ]
+    },
+    {
+      "題": "営業倉庫の荷役作業に従事する日雇労働者に支払う賃金に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/660119/1548/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-660119-1548-01.md"
+      ]
+    },
+    {
+      "題": "日雇港湾労働者に支払う給与に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/660119/1549/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-660119-1549-01.md"
+      ]
+    },
+    {
+      "題": "建設労務者に支払う給与に対する源泉所得税の取扱いに関する要望について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/661227/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-661227-01.md"
+      ]
+    },
+    {
+      "題": "生命保険会社が支部長等に支払う報酬等にかかる源泉所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/711111/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-711111-01.md"
+      ]
+    },
+    {
+      "題": "大工、左官等の建設労働者に支払う給与に対する源泉所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/720205/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-720205-01.md"
+      ]
+    },
+    {
+      "題": "勤務先預金等に係る少額貯蓄非課税制度の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/740928/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-740928-01.md"
+      ]
+    },
+    {
+      "題": "公営競走事業等の施行者に雇用される臨時従業員の賃金等に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/750108/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-750108-01.md"
+      ]
+    },
+    {
+      "題": "国内において勤務する外国人に対し休暇帰国のための旅費として支給する金品に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/750116/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-750116-01.md"
+      ]
+    },
+    {
+      "題": "国立病院等の医師等に支給される宿日直手当に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/780301/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-780301-01.md"
+      ]
+    },
+    {
+      "題": "派遣医の給与所得に対する源泉徴収税額表の適用区分について",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/821025/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-821025-01.md"
+      ]
+    },
+    {
+      "題": "テレビジョン放送又はラジオ放送の出演者に支払う旅費に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/830117/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-830117-01.md"
+      ]
+    },
+    {
+      "題": "深夜勤務に伴う夜食の現物支給に代えて支給する金銭に対する所得税の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/840726/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-840726-01.md"
+      ]
+    },
+    {
+      "題": "永年勤続記念旅行券の支給に伴う課税上の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/850221/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-850221-01.md"
+      ]
+    },
+    {
+      "題": "単身赴任者が職務上の旅行等を行った場合に支給される旅費の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/851108/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-851108-01.md"
+      ]
+    },
+    {
+      "題": "所得税基本通達36－30（課税しない経済的利益・・・・・使用者が負担するレクリエーションの費用）の運用について（法令解釈通達）",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/880525/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-880525-01.md"
+      ]
+    },
+    {
+      "題": "消費税法等の施行に伴う源泉所得税の取扱いについて（法令解釈通達）",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/890130/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-890130-01.md"
+      ]
+    },
+    {
+      "題": "事業主が従業員等の研修に要する費用を負担した場合における課税上の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/gensen/890310/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-gensen-890310-01.md"
+      ]
+    },
+    {
+      "題": "メキシコの電話会社テレフォノス・デ・メヒコ社株式に係るADR（米国預託証書）の課税上の取扱いについて",
+      "分野": "源泉所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/910603/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-910603-01.md"
+      ]
+    },
+    {
+      "題": "介護保険制度下での居宅サービスの対価に係る医療費控除の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/000608/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-000608-01.md"
+      ]
+    },
+    {
+      "題": "「個人課税事務提要（様式編Ⅰ）」の制定について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/001115/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-001115-01.md"
+      ]
+    },
+    {
+      "題": "おむつに係る費用の医療費控除の取扱い（「おむつ使用証明書」の様式の変更等）について）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/010703/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-010703-01.md"
+      ]
+    },
+    {
+      "題": "おむつに係る費用の医療費控除の取扱い（「おむつ使用証明書」に代えた簡易な証明手続等）について（法令解釈通達）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/020625/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-020625-01.md"
+      ]
+    },
+    {
+      "題": "非血縁者間骨髄移植のあっせんに係る財団法人骨髄移植推進財団に支払われる患者負担金の医療費控除の取扱いについて（法令解釈通達）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/031226/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-031226-01.md"
+      ]
+    },
+    {
+      "題": "農業を営む者の取引に関する記載事項等の特例について（法令解釈通達）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/060112/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-060112-01.md"
+      ]
+    },
+    {
+      "題": "「土地信託に関する所得税、法人税並びに相続税及び贈与税の取扱いについて」及び「信託受益権が分割される土地信託に関する所得税、法人税、消費税並びに相続税及び贈与税の取扱いについて」の廃止について（法令解釈通達）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/070622/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-070622-01.md"
+      ]
+    },
+    {
+      "題": "大工、左官、とび職等の受ける報酬に係る所得税の取扱いについて（法令解釈通達）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/091217/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-091217-01.md"
+      ]
+    },
+    {
+      "題": "相続等に係る生命保険契約等に基づく年金に係る雑所得の金額の計算書（様式）の制定について（法令解釈通達）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/101020/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-101020-01.md"
+      ]
+    },
+    {
+      "題": "東日本大震災に関する諸費用の所得税の取扱いについて（法令解釈通達）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/110606/index.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-110606-index.md"
+      ]
+    },
+    {
+      "題": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律関係通達（所得税編）の制定について（法令解釈通達）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/111222/index.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-111222-index.md"
+      ]
+    },
+    {
+      "題": "平成28年熊本地震に関する諸費用の所得税の取扱いについて(法令解釈通達)",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/160729/index.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-160729-index.md"
+      ]
+    },
+    {
+      "題": "農業災害補償法に基く農業共済金の課税時期について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/500401/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-500401-01.md"
+      ]
+    },
+    {
+      "題": "農業協同組合の赤字を組合員が負担した場合における負担金に対する課税上の取扱について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/510220/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-510220-01.md"
+      ]
+    },
+    {
+      "題": "災害被害者に対する租税の減免、徴収猶予等に関する法律（所得税関係）の取扱方について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/520725/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-520725-01.md"
+      ]
+    },
+    {
+      "題": "法人名義を仮装して社員等が個人で事業を営んでいるかどうかの判定について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/540420/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-540420-01.md"
+      ]
+    },
+    {
+      "題": "青色申告書の更正の取扱について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/541004/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-541004-01.md"
+      ]
+    },
+    {
+      "題": "乗船中の船員が支給を受ける航海日当に対する所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/541015/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-541015-01.md"
+      ]
+    },
+    {
+      "題": "漁船乗組員が支給を受ける航海日当に対する所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/550319/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-550319-01.md"
+      ]
+    },
+    {
+      "題": "「生計を一にしている親族間における農業の経営者の判定について」通達の運営について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/580217/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-580217-01.md"
+      ]
+    },
+    {
+      "題": "鉱業法に基づく鉱害賠償金に対する課税について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/590202/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-590202-01.md"
+      ]
+    },
+    {
+      "題": "力士等に対する課税について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/590311/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-590311-01.md"
+      ]
+    },
+    {
+      "題": "財団法人全国競輪選手共済会が行う共済事業の給付金に対する所得税の課税について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/640507/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-640507-01.md"
+      ]
+    },
+    {
+      "題": "医師等が医薬品等の仕入れに関し支払を受ける仕入割りもどしに対する所得税および法人税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/670405/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-670405-01.md"
+      ]
+    },
+    {
+      "題": "「税務および経理に関する業務」の譲渡に伴う所得の種類の判定について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/670727/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-670727-01.md"
+      ]
+    },
+    {
+      "題": "土地改良事業のために支出する受益者負担金に対する所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/680130/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-680130-01.md"
+      ]
+    },
+    {
+      "題": "工場等集団化計画および店舗等集団化計画にかかる税法上の取扱いについて（昭和43年4月20日）",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/680420/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-680420-01.md"
+      ]
+    },
+    {
+      "題": "私立幼稚園の所得税法上の税務処理について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/681227/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-681227-01.md"
+      ]
+    },
+    {
+      "題": "所得税についての耐用年数の適用等に関する取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/700604/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-700604-01.md"
+      ]
+    },
+    {
+      "題": "農業協同組合受託農業経営事業等から生ずる収益に対する所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/720121/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-720121-01.md"
+      ]
+    },
+    {
+      "題": "集団定期保険料等の所得税法上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/720214/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-720214-01.md"
+      ]
+    },
+    {
+      "題": "クレジットカードの盗難に伴う損失に対する所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/721012/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-721012-01.md"
+      ]
+    },
+    {
+      "題": "5年分以上の小作料を一括して収受した場合の平均課税の適用について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/730222/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-730222-01.md"
+      ]
+    },
+    {
+      "題": "不動産等の賃貸料にかかる不動産所得の収入金額の計上時期について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/731106/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-731106-01.md"
+      ]
+    },
+    {
+      "題": "中小企業投資育成株式会社が第三者割当てに基づき引き受ける新株の価額および保有する株式を処分する場合の価額にかかる課税上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/731120/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-731120-01.md"
+      ]
+    },
+    {
+      "題": "果樹共済に係る共済金及び共済掛金の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/731207/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-731207-01.md"
+      ]
+    },
+    {
+      "題": "定期保険の保険料にかかる所得税および法人税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/731222/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-731222-01.md"
+      ]
+    },
+    {
+      "題": "団体定期保険の被保険者に退職者を含める場合の保険料の税務上の取り扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/740420/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-740420-01.md"
+      ]
+    },
+    {
+      "題": "土地区画整理組合が保留地の処分に係る余剰金を組合員に分配した場合の所得税及び法人税の課税について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/750217/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-750217-01.md"
+      ]
+    },
+    {
+      "題": "労災法の保険施設として支給される特別支給金に対する所得税及び相続税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/750228/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-750228-01.md"
+      ]
+    },
+    {
+      "題": "公共施設の設置に起因する日陰により生じた損害等をてん補する費用に係る所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/770205/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-770205-01.md"
+      ]
+    },
+    {
+      "題": "新幹線工事に伴って発生した渇水被害に対する賠償金に係る所得税の課税上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/770207/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-770207-01.md"
+      ]
+    },
+    {
+      "題": "債権者集会の決定等に基づき未払配当金の受領を辞退した場合の配当所得の課税上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/770822/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-770822-01.md"
+      ]
+    },
+    {
+      "題": "個人立幼稚園の所得税法上の税務処理について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/780301/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-780301-01.md"
+      ]
+    },
+    {
+      "題": "豪雪の場合における雪下ろし費用等に係る雑損控除の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/810129/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-810129-01.md"
+      ]
+    },
+    {
+      "題": "財団法人全国競輪選手共済会が行う共済事業の休養給付金及び遺体輸送給付金の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/810305/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-810305-01.md"
+      ]
+    },
+    {
+      "題": "○○育英資金制度に基づき支給される育英資金の課税上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/810421/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-810421-01.md"
+      ]
+    },
+    {
+      "題": "採卵用鶏の取得費の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/820802/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-820802-01.md"
+      ]
+    },
+    {
+      "題": "乗船中の船員が支給を受ける「家族呼寄費」に対する課税上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/821115/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-821115-01.md"
+      ]
+    },
+    {
+      "題": "季節労働者を離職させる際に後日再雇用することを条件として給付する冬期手当に対する課税上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/840107/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-840107-01.md"
+      ]
+    },
+    {
+      "題": "医師又は歯科医師等が老人保健法に定める医療以外の保健事業に従事することにより支払を受ける報酬の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/840130/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-840130-01.md"
+      ]
+    },
+    {
+      "題": "○○エアロビクスセンターの入会金等に対する課税上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/841214/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-841214-01.md"
+      ]
+    },
+    {
+      "題": "定年退職者医療保険制度に基づき負担する保険料の課税上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/850228/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-850228-01.md"
+      ]
+    },
+    {
+      "題": "年金支払開始の日以後に生じた剰余金をもって一時払の年金保険を買増しすることができることとされている個人年金保険の所得税法上の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/851227/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-851227-01.md"
+      ]
+    },
+    {
+      "題": "ホームステイ実施機関を通じ受入家庭に支給する謝礼金に対する所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/860331/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-860331-01.md"
+      ]
+    },
+    {
+      "題": "所得税法第57条の2（（給与所得者の特定支出の控除の特例））に係る鉄道事業者等の証明書等の発行について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/871224/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-871224-01.md"
+      ]
+    },
+    {
+      "題": "B型肝炎ワクチン接種費用の医療費控除の取り扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/881226/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-881226-01.md"
+      ]
+    },
+    {
+      "題": "消費税法等の施行に伴う所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/890329/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-890329-01.md"
+      ]
+    },
+    {
+      "題": "ストマ用装具に係わる費用の医療費控除の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/890713/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-890713-01.md"
+      ]
+    },
+    {
+      "題": "法人又は個人事業者が支払う介護費用保険の保険料の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/891216/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-891216-01.md"
+      ]
+    },
+    {
+      "題": "温泉利用型健康増進施設の利用料金の医療費控除の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/900327/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-900327-01.md"
+      ]
+    },
+    {
+      "題": "指定運動療法施設の利用料金に係わる医療費控除の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/920622/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-920622-01.md"
+      ]
+    },
+    {
+      "題": "阪神・淡路大震災に関する諸費用等の所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/950406/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-950406-01.md"
+      ]
+    },
+    {
+      "題": "阪神・淡路大震災の被災者等に係る国税関係法律の臨時特例に関する法律に係る所得税の取扱いについて",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/950809/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-950809-01.md"
+      ]
+    },
+    {
+      "題": "損害保険代理店の役員・使用人が証券取引法第65条の2第11項に規定する特定証券業務を行った場合に支払われる対価の税務上の取扱い",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/981202/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-981202-01.md",
+        "kobetsu/shotoku/shotoku-shinkoku-981202-02.md"
+      ]
+    },
+    {
+      "題": "住宅ローン債権流動化に伴う住宅借入金等特別控除等の適用上の残高等証明書の発行者について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/990927/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-990927-01.md",
+        "kobetsu/shotoku/shotoku-shinkoku-990927-02.md",
+        "kobetsu/shotoku/shotoku-shinkoku-990927-03.md"
+      ]
+    },
+    {
+      "題": "人身傷害補償保険金に係る所得税、相続税及び贈与税の取扱い等について",
+      "分野": "申告所得税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/991018/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-991018-01.md",
+        "kobetsu/shotoku/shotoku-shinkoku-991018-02.md",
+        "kobetsu/shotoku/shotoku-shinkoku-991018-03.md"
+      ]
+    },
+    {
+      "題": "贈与税の納税猶予の特例の適用を受けている受贈者が旧特定農業生産法人に対し農地等につき使用貸借による権利の設定をした場合の取扱いについて（法令解釈通達）",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/050609/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-050609-01.md"
+      ]
+    },
+    {
+      "題": "「土地信託に関する所得税、法人税並びに相続税及び贈与税の取扱いについて」及び「信託受益権が分割される土地信託に関する所得税、法人税、消費税並びに相続税及び贈与税の取扱いについて」の廃止について（法令解釈通達）",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/070622/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-070622-01.md"
+      ]
+    },
+    {
+      "題": "（平成20年11月30日以前の取扱い）\n被相続人の意思に基づき公益法人を設立する場合等の相続税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/081130/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-081130-01.md"
+      ]
+    },
+    {
+      "題": "共かせぎ夫婦の間における住宅資金等の贈与の取扱について",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/590616/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-590616-01.md"
+      ]
+    },
+    {
+      "題": "父子間における農業経営者の判定ならびにこれにともなう所得税および贈与税の取扱について",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/600217/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-600217-01.md"
+      ]
+    },
+    {
+      "題": "（平成20年12月1日以後の取扱い）\n被相続人の意思に基づき公益法人を設立する場合等の相続税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/601001/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-601001-01.md"
+      ]
+    },
+    {
+      "題": "改正相続税法等の施行に伴う相続税の取扱について",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/630219/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-630219-01.md"
+      ]
+    },
+    {
+      "題": "名義変更等が行われた後にその取消し等があった場合の贈与税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/640523/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-640523-01.md"
+      ]
+    },
+    {
+      "題": "（平成20年11月30日以前に行われた贈与等の取扱い）贈与税の非課税財産（公益を目的とする事業の用に供する財産に関する部分）及び公益法人に対して財産の贈与等があった場合の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/640609/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-640609-01.md"
+      ]
+    },
+    {
+      "題": "「名義変更等が行われた後にその取消し等があった場合の贈与税の取扱いについて」通達の運用について",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/640704/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-640704-01.md"
+      ]
+    },
+    {
+      "題": "青色事業専従者が事業から給与の支給を受けた場合の贈与税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/651008/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-651008-01.md"
+      ]
+    },
+    {
+      "題": "樹園地の贈与を受けた場合における果樹に関する贈与税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/720314/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-720314-01.md"
+      ]
+    },
+    {
+      "題": "贈与による農地の取得の時期について",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/730314/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-730314-01.md"
+      ]
+    },
+    {
+      "題": "使用貸借に係る土地についての相続税及び贈与税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/731101/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-731101-01.md"
+      ]
+    },
+    {
+      "題": "教育用財産に対する相続税の非課税制度における幼稚園等事業経営者に係る家事充当金限度額の認定基準等について",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/760607/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-760607-01.md"
+      ]
+    },
+    {
+      "題": "農地等について使用貸借による権利の設定等をした場合における贈与税又は相続税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/770512/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-770512-01.md"
+      ]
+    },
+    {
+      "題": "農地等について使用収益権の設定による農業の経営移譲を受けた場合における果樹に関する贈与税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/780107/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-780107-01.md"
+      ]
+    },
+    {
+      "題": "契約転換制度の所得税法及び相続税法上の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/780210/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-780210-01.md"
+      ]
+    },
+    {
+      "題": "贈与税の納税猶予に係る農地に地下地上権が設定された場合の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/790310/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-790310-01.md"
+      ]
+    },
+    {
+      "題": "相当の地代を支払っている場合等の借地権等についての相続税及び贈与税の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/850605/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-850605-01.md"
+      ]
+    },
+    {
+      "題": "相続税の延納の条件の変更等の取扱いについて",
+      "分野": "相続税関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/930528/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-930528-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法の一部を改正する法律の施行に伴う相続税の延納の取扱いについて（法令解釈通達）",
+      "分野": "相続税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/sochiho/020403/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-sochiho-020403-01.md"
+      ]
+    },
+    {
+      "題": "租税特別措置法（相続税法の特例関係）の取扱いについて",
+      "分野": "相続税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/sochiho/080708/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-sochiho-080708-01.md",
+        "kobetsu/sozoku/sozoku-sochiho-080708-02.md"
+      ]
+    },
+    {
+      "題": "農地等の特定転用に係る相続税の納税猶予等の適用に関する取扱いについて",
+      "分野": "相続税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/sochiho/911218/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-sochiho-911218-01.md",
+        "kobetsu/sozoku/sozoku-sochiho-911218-02.md"
+      ]
+    },
+    {
+      "題": "相続税の延納の許可を受けた個人の延納税額についての物納等の特例の取扱いについて",
+      "分野": "相続税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/sochiho/940401/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-sochiho-940401-01.md"
+      ]
+    },
+    {
+      "題": "旧特定農業生産法人に対し農地等につき使用貸借による権利の設定をした場合における贈与税の納税猶予等に関する取扱いについて",
+      "分野": "相続税（措置法）",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/sochiho/950511/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-sochiho-950511-01.md",
+        "kobetsu/sozoku/sozoku-sochiho-950511-02.md"
+      ]
+    },
+    {
+      "題": "国税通則法第7章の2（国税の調査）等関係通達の制定について（法令解釈通達）",
+      "分野": "税務調査手続関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/zeimuchosa/120912/index.htm",
+      "paths": [
+        "kobetsu/zeimuchosa/zeimuchosa-120912-index.md"
+      ]
+    },
+    {
+      "題": "個人が上場・店頭売買株式を売却するとともに直ちに再取得する場合の当該売却に係る源泉分離課税の適用について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/000317/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-000317-01.md"
+      ]
+    },
+    {
+      "題": "土地改良区内の農地の転用目的での譲渡に際して土地改良区に支払われた農地転用決済金等がある場合における譲渡費用の取扱いについて",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/070622/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-070622-01.md"
+      ]
+    },
+    {
+      "題": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律の制定等に伴う所得税（譲渡所得関係）の取扱いについて",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/120202/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-120202-01.md"
+      ]
+    },
+    {
+      "題": "市街化区域内の農地等を収用等により譲渡した場合の租税特別措置法第33条の4第3項第1号および第65条の2第3項第1号の規定の適用について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/700701/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-700701-01.md"
+      ]
+    },
+    {
+      "題": "公共事業用資産の買取り等の申出証明書等の様式について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/720622/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-720622-01.md",
+        "kobetsu/shotoku/shotoku-joto-sanrin-720622-02.md",
+        "kobetsu/shotoku/shotoku-joto-sanrin-720622-03.md",
+        "kobetsu/shotoku/shotoku-joto-sanrin-720622-04.md"
+      ]
+    },
+    {
+      "題": "仮換地等が土地収用法等の規定に基づいて使用され補償金等を取得する場合の収用等の場合の課税の特例の適用について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/730119/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-730119-01.md"
+      ]
+    },
+    {
+      "題": "住宅地区改良事業に準ずる事業にかかる譲渡所得等の特別控除について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/730615/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-730615-01.md"
+      ]
+    },
+    {
+      "題": "長期譲渡所得の概算取得費控除の適用上の疑義について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/760903/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-760903-01.md"
+      ]
+    },
+    {
+      "題": "他人のために農業協同組合等から借入れた債務を弁済するために資産を譲渡した場合における所得税法第64条第2項の規定の適用について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/791027/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-791027-01.md"
+      ]
+    },
+    {
+      "題": "代替地提供者に係る譲渡所得の特別控除の適用範囲について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/800321/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-800321-01.md"
+      ]
+    },
+    {
+      "題": "所有権について争いのある物件を土地収用法の規定に基づき収用した場合の租税特別措置法の適用等について",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/810625/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-810625-01.md"
+      ]
+    },
+    {
+      "題": "阪神・淡路大震災の被災者等に係る国税関係法律の臨時特例に関する法律の一部改正に伴う所得税（譲渡所得関係）の取扱いについて",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/950425/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-950425-01.md"
+      ]
+    },
+    {
+      "題": "個人施行者が施行する土地区画整理事業において保留地を定めた場合における当該保留地の処分に係る所得税の取扱いについて",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/970401/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-970401-01.md"
+      ]
+    },
+    {
+      "題": "信託受益権が分割される土地信託に関する所得税、法人税、消費税並びに相続税及び贈与税の取扱いについて",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/joto-sanrin/980313/01.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-joto-sanrin-980313-01.md"
+      ]
+    },
+    {
+      "題": "土地信託に関する所得税、法人税並びに相続税及び贈与税の取扱いについて",
+      "分野": "譲渡・山林所得関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/shinkoku/860709/00.htm",
+      "paths": [
+        "kobetsu/shotoku/shotoku-shinkoku-860709-00.md",
+        "kobetsu/shotoku/shotoku-shinkoku-860709-01.md",
+        "kobetsu/shotoku/shotoku-shinkoku-860709-02.md",
+        "kobetsu/shotoku/shotoku-shinkoku-860709-03.md",
+        "kobetsu/shotoku/shotoku-shinkoku-860709-04.md"
+      ]
+    },
+    {
+      "題": "（平成24年3月31日以前に認定を受けた森林施業計画に係るもの）公益的機能別施業森林区域内の山林及び立木の評価について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/020604/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-020604-01.md"
+      ]
+    },
+    {
+      "題": "平成15年分の類似業種比準価額計算上の業種目及び業種目別株価等について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/030616/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-030616-01.md",
+        "kobetsu/hyoka/hyoka-030616-02.md",
+        "kobetsu/hyoka/hyoka-030616-03.md",
+        "kobetsu/hyoka/hyoka-030616-04.md",
+        "kobetsu/hyoka/hyoka-030616-05.md",
+        "kobetsu/hyoka/hyoka-030616-06.md"
+      ]
+    },
+    {
+      "題": "平成16年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/040604/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-040604-01.md"
+      ]
+    },
+    {
+      "題": "平成16年分の類似業種比準価額計算上の業種目及び業種目別株価等について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/040610/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-040610-01.md",
+        "kobetsu/hyoka/hyoka-040610-02.md",
+        "kobetsu/hyoka/hyoka-040610-03.md",
+        "kobetsu/hyoka/hyoka-040610-04.md",
+        "kobetsu/hyoka/hyoka-040610-05.md",
+        "kobetsu/hyoka/hyoka-040610-06.md"
+      ]
+    },
+    {
+      "題": "平成17年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/050517/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-050517-01.md"
+      ]
+    },
+    {
+      "題": "平成17年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/050609/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-050609-01.md",
+        "kobetsu/hyoka/hyoka-050609-02.md",
+        "kobetsu/hyoka/hyoka-050609-03.md",
+        "kobetsu/hyoka/hyoka-050609-04.md",
+        "kobetsu/hyoka/hyoka-050609-05.md",
+        "kobetsu/hyoka/hyoka-050609-06.md"
+      ]
+    },
+    {
+      "題": "平成18年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/060518/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-060518-01.md"
+      ]
+    },
+    {
+      "題": "平成18年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/060609/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-060609-index.md",
+        "kobetsu/hyoka/hyoka-060609-02.md",
+        "kobetsu/hyoka/hyoka-060609-03.md",
+        "kobetsu/hyoka/hyoka-060609-04.md",
+        "kobetsu/hyoka/hyoka-060609-05.md",
+        "kobetsu/hyoka/hyoka-060609-06.md"
+      ]
+    },
+    {
+      "題": "平成19年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/070517/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-070517-01.md"
+      ]
+    },
+    {
+      "題": "平成19年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/070605/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-070605-01.md",
+        "kobetsu/hyoka/hyoka-070605-02.md",
+        "kobetsu/hyoka/hyoka-070605-03.md",
+        "kobetsu/hyoka/hyoka-070605-04.md",
+        "kobetsu/hyoka/hyoka-070605-05.md",
+        "kobetsu/hyoka/hyoka-070605-06.md"
+      ]
+    },
+    {
+      "題": "平成20年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/080513/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-080513-01.md"
+      ]
+    },
+    {
+      "題": "平成20年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/080606/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-080606-01.md",
+        "kobetsu/hyoka/hyoka-080606-02.md",
+        "kobetsu/hyoka/hyoka-080606-03.md",
+        "kobetsu/hyoka/hyoka-080606-04.md",
+        "kobetsu/hyoka/hyoka-080606-05.md",
+        "kobetsu/hyoka/hyoka-080606-06.md"
+      ]
+    },
+    {
+      "題": "平成21年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/090513/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-090513-01.md"
+      ]
+    },
+    {
+      "題": "平成21年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/090608/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-090608-index.md",
+        "kobetsu/hyoka/hyoka-090608-01.md",
+        "kobetsu/hyoka/hyoka-090608-02.md",
+        "kobetsu/hyoka/hyoka-090608-03.md",
+        "kobetsu/hyoka/hyoka-090608-04.md",
+        "kobetsu/hyoka/hyoka-090608-05.md"
+      ]
+    },
+    {
+      "題": "平成22年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/100514/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-100514-01.md"
+      ]
+    },
+    {
+      "題": "平成22年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/100609/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-100609-index.md",
+        "kobetsu/hyoka/hyoka-100609-01.md",
+        "kobetsu/hyoka/hyoka-100609-02.md",
+        "kobetsu/hyoka/hyoka-100609-03.md",
+        "kobetsu/hyoka/hyoka-100609-04.md",
+        "kobetsu/hyoka/hyoka-100609-05.md"
+      ]
+    },
+    {
+      "題": "平成23年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/110520/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-110520-01.md"
+      ]
+    },
+    {
+      "題": "平成23年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/110606/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-110606-index.md",
+        "kobetsu/hyoka/hyoka-110606-01.md",
+        "kobetsu/hyoka/hyoka-110606-02.md",
+        "kobetsu/hyoka/hyoka-110606-03.md",
+        "kobetsu/hyoka/hyoka-110606-04.md",
+        "kobetsu/hyoka/hyoka-110606-05.md"
+      ]
+    },
+    {
+      "題": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律に規定する特定土地等及び特定株式等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/111013/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-111013-index.md"
+      ]
+    },
+    {
+      "題": "平成24年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/120522/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-120522-01.md"
+      ]
+    },
+    {
+      "題": "平成24年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/120612/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-120612-index.md",
+        "kobetsu/hyoka/hyoka-120612-01.md",
+        "kobetsu/hyoka/hyoka-120612-02.md",
+        "kobetsu/hyoka/hyoka-120612-03.md",
+        "kobetsu/hyoka/hyoka-120612-04.md",
+        "kobetsu/hyoka/hyoka-120612-05.md"
+      ]
+    },
+    {
+      "題": "平成24年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/120621/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-120621-index.md"
+      ]
+    },
+    {
+      "題": "平成25年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/130516/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-130516-01.md"
+      ]
+    },
+    {
+      "題": "平成25年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/130603/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-130603-index.md",
+        "kobetsu/hyoka/hyoka-130603-01.md",
+        "kobetsu/hyoka/hyoka-130603-02.md",
+        "kobetsu/hyoka/hyoka-130603-03.md",
+        "kobetsu/hyoka/hyoka-130603-04.md",
+        "kobetsu/hyoka/hyoka-130603-05.md"
+      ]
+    },
+    {
+      "題": "平成25年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/130617/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-130617-index.md"
+      ]
+    },
+    {
+      "題": "平成26年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/140515/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-140515-01.md"
+      ]
+    },
+    {
+      "題": "平成26年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/140602/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-140602-index.md",
+        "kobetsu/hyoka/hyoka-140602-01.md",
+        "kobetsu/hyoka/hyoka-140602-02.md",
+        "kobetsu/hyoka/hyoka-140602-03.md",
+        "kobetsu/hyoka/hyoka-140602-04.md",
+        "kobetsu/hyoka/hyoka-140602-05.md"
+      ]
+    },
+    {
+      "題": "平成26年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/140612/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-140612-index.md"
+      ]
+    },
+    {
+      "題": "平成27年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/150512/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-150512-01.md"
+      ]
+    },
+    {
+      "題": "平成27年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/150600/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-150600-index.md"
+      ]
+    },
+    {
+      "題": "平成27年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/160112/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-160112-index.md",
+        "kobetsu/hyoka/hyoka-160112-01.md",
+        "kobetsu/hyoka/hyoka-160112-02.md",
+        "kobetsu/hyoka/hyoka-160112-03.md",
+        "kobetsu/hyoka/hyoka-160112-04.md",
+        "kobetsu/hyoka/hyoka-160112-05.md"
+      ]
+    },
+    {
+      "題": "平成28年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/160602/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-160602-index.md",
+        "kobetsu/hyoka/hyoka-160602-01.md",
+        "kobetsu/hyoka/hyoka-160602-02.md",
+        "kobetsu/hyoka/hyoka-160602-03.md",
+        "kobetsu/hyoka/hyoka-160602-04.md",
+        "kobetsu/hyoka/hyoka-160602-05.md"
+      ]
+    },
+    {
+      "題": "平成28年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/160609/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-160609-01.md"
+      ]
+    },
+    {
+      "題": "平成28年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/160701/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-160701-index.md"
+      ]
+    },
+    {
+      "題": "平成29年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/170524/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-170524-01.md"
+      ]
+    },
+    {
+      "題": "平成29年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/170612/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-170612-index.md"
+      ]
+    },
+    {
+      "題": "平成29年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/170613/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-170613-index.md"
+      ]
+    },
+    {
+      "題": "平成30年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/180525/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-180525-01.md"
+      ]
+    },
+    {
+      "題": "平成30年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/180702/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-180702-index.md"
+      ]
+    },
+    {
+      "題": "令和元年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/190520/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-190520-01.md"
+      ]
+    },
+    {
+      "題": "令和元年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/190701/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-190701-index.md"
+      ]
+    },
+    {
+      "題": "令和2年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/200519/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-200519-01.md"
+      ]
+    },
+    {
+      "題": "令和2年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/200701/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-200701-index.md"
+      ]
+    },
+    {
+      "題": "令和3年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/210519/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-210519-01.md"
+      ]
+    },
+    {
+      "題": "令和3年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/210531/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-210531-index.md"
+      ]
+    },
+    {
+      "題": "令和4年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/220524/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-220524-01.md"
+      ]
+    },
+    {
+      "題": "令和4年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/220524/02.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-220524-02.md"
+      ]
+    },
+    {
+      "題": "令和５年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/230602/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-230602-01.md"
+      ]
+    },
+    {
+      "題": "令和５年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/230703/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-230703-01.md"
+      ]
+    },
+    {
+      "題": "居住用の区分所有財産の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/231004/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-231004-index.md"
+      ]
+    },
+    {
+      "題": "令和6年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/240600/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-240600-01.md"
+      ]
+    },
+    {
+      "題": "令和６年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/240701/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-240701-01.md"
+      ]
+    },
+    {
+      "題": "令和７年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/250500/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-250500-01.md"
+      ]
+    },
+    {
+      "題": "令和８年分の基準年利率について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/260500/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-260500-01.md"
+      ]
+    },
+    {
+      "題": "令和８年中に相続等により取得した原子力発電所周辺の避難指示区域内に存する土地等の評価について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/2606/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-2606-01.md"
+      ]
+    },
+    {
+      "題": "相当の地代を収受している貸宅地の評価について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/681028/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-681028-01.md"
+      ]
+    },
+    {
+      "題": "農用地利用増進法等の規定により設定された賃貸借により貸付けられた農用地等の評価について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/810609/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-810609-01.md"
+      ]
+    },
+    {
+      "題": "相続税及び贈与税における取引相場のない株式等の評価明細書の様式及び記載方法等について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/901227/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-901227-01.md"
+      ]
+    },
+    {
+      "題": "都市公園の用地として貸し付けられている土地の評価について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/920422/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-920422-01.md"
+      ]
+    },
+    {
+      "題": "財産評価基本通達15（（奥行価格補正））の定めによる奥行価格補正率等の適用について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/920827/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-920827-01.md",
+        "kobetsu/hyoka/hyoka-920827-02.md",
+        "kobetsu/hyoka/hyoka-920827-03.md"
+      ]
+    },
+    {
+      "題": "三大都市圏の特定市の市街化区域内農地のうち平成4年中に都市計画法上の生産緑地地区の指定等を受けた農地等の評価について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/921201/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-921201-01.md"
+      ]
+    },
+    {
+      "題": "特定市民農園の用地として貸し付けられている土地の評価について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/941219/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-941219-01.md"
+      ]
+    },
+    {
+      "題": "一般定期借地権の目的となっている宅地の評価に関する取扱いについて",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/980825/01.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-980825-01.md"
+      ]
+    },
+    {
+      "題": "",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/h31/1901/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-h31-1901-index.md"
+      ]
+    },
+    {
+      "題": "令和元年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r01/1906/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-r01-1906-index.md"
+      ]
+    },
+    {
+      "題": "令和2年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r02/2006/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-r02-2006-index.md"
+      ]
+    },
+    {
+      "題": "令和3年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r03/2106/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-r03-2106-index.md"
+      ]
+    },
+    {
+      "題": "令和４年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r04/2206/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-r04-2206-index.md"
+      ]
+    },
+    {
+      "題": "令和５年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r05/2306/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-r05-2306-index.md"
+      ]
+    },
+    {
+      "題": "令和6年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r06/2406/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-r06-2406-index.md"
+      ]
+    },
+    {
+      "題": "令和7年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r07/2506/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-r07-2506-index.md"
+      ]
+    },
+    {
+      "題": "令和8年分の類似業種比準価額計算上の業種目及び業種目別株価等について（法令解釈通達）",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hyoka/r08/2606/index.htm",
+      "paths": [
+        "kobetsu/hyoka/hyoka-r08-2606-index.md"
+      ]
+    },
+    {
+      "題": "負担付贈与又は対価を伴う取引により取得した土地等及び家屋等に係る評価並びに相続税法第7条及び第9条の規定の適用について",
+      "分野": "財産評価関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sozoku/890329/01.htm",
+      "paths": [
+        "kobetsu/sozoku/sozoku-890329-01.md"
+      ]
+    },
+    {
+      "題": "電子帳簿保存法取扱通達の制定について",
+      "分野": "電子帳簿保存法関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/070630/index.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-070630-index.md"
+      ]
+    },
+    {
+      "題": "電子帳簿保存法関係届出書等の様式の制定について（法令解釈通達）",
+      "分野": "電子帳簿保存法関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/211100/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-211100-01.md"
+      ]
+    },
+    {
+      "題": "「電子帳簿保存法関係申請書等の様式の制定について」の廃止について（法令解釈通達）",
+      "分野": "電子帳簿保存法関係",
+      "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/sonota/220331/01.htm",
+      "paths": [
+        "kobetsu/sonota/sonota-220331-01.md"
+      ]
+    }
+  ]
+}
