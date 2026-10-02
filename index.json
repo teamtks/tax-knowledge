@@ -3,6 +3,16 @@
   "_出典": "e-Gov法令検索（デジタル庁） https://laws.e-gov.go.jp/",
   "laws": [
     {
+      "law_id": "129AC0000000089",
+      "law_title": "民法",
+      "略称": "民法",
+      "law_num": "明治二十九年法律第八十九号",
+      "law_revision_id": "129AC0000000089_20260624_508AC0000000045",
+      "amendment_enforcement_date": "2026-06-24",
+      "article_count": 1173,
+      "path": "law/129AC0000000089/"
+    },
+    {
       "law_id": "325AC0000000226",
       "law_title": "地方税法",
       "略称": "地法",
@@ -121,6 +131,16 @@
       "amendment_enforcement_date": "2026-10-01",
       "article_count": 295,
       "path": "law/340M50000040012/"
+    },
+    {
+      "law_id": "340M50000040015",
+      "law_title": "減価償却資産の耐用年数等に関する省令",
+      "略称": "減価償却資産の耐用年数等に関する省令",
+      "law_num": "昭和四十年大蔵省令第十五号",
+      "law_revision_id": "340M50000040015_20260522_508M60000040029",
+      "amendment_enforcement_date": "2026-05-22",
+      "article_count": 6,
+      "path": "law/340M50000040015/"
     },
     {
       "law_id": "363AC0000000108",
