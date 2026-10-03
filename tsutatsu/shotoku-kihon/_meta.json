@@ -4,7 +4,7 @@
   "略称": "所基通",
   "root": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01.htm",
   "page_count": 84,
-  "item_count": 608,
+  "item_count": 609,
   "truncated": false,
   "出典": "国税庁 法令解釈通達",
   "利用条件": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは公共データ利用規約（第1.0版）に準拠。",
@@ -3227,6 +3227,13 @@
       "caption": "（出資に関する業務に充てられることが明らかな寄附金）",
       "heading": "法第78条《寄附金控除》関係",
       "file": "items/78-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
+    },
+    {
+      "num": "78-10",
+      "caption": "（出資に関する信託事務に充てられることが明らかな寄附金）",
+      "heading": "法第78条《寄附金控除》関係",
+      "file": "items/78-10.md",
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/16/05.htm"
     },
     {

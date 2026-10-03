@@ -4,7 +4,7 @@
   "略称": "消基通",
   "root": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/01.htm",
   "page_count": 100,
-  "item_count": 653,
+  "item_count": 656,
   "truncated": false,
   "出典": "国税庁 法令解釈通達",
   "利用条件": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは公共データ利用規約（第1.0版）に準拠。",
@@ -1299,7 +1299,7 @@
     },
     {
       "num": "5-7-9",
-      "caption": "（漁業権等の範囲）",
+      "caption": "（営業権の範囲）",
       "heading": "第7節　国内取引の判定",
       "file": "items/5-7-9.md",
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/05/07.htm"
@@ -2146,7 +2146,7 @@
     },
     {
       "num": "7-2-20",
-      "caption": "（海外旅行者が出国に際して携帯する物品の輸出免税）",
+      "caption": "（合衆国軍隊の調達機関を通じて輸出される物品の輸出免税）",
       "heading": "第2節　輸出免税等の範囲",
       "file": "items/7-2-20.md",
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/02.htm"
@@ -2170,6 +2170,27 @@
       "caption": "（輸出証明書等）",
       "heading": "第2節　輸出免税等の範囲",
       "file": "items/7-2-23.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/02.htm"
+    },
+    {
+      "num": "7-2-24",
+      "caption": "（指定書類の保存が必要となる場合）",
+      "heading": "第2節　輸出免税等の範囲",
+      "file": "items/7-2-24.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/02.htm"
+    },
+    {
+      "num": "7-2-25",
+      "caption": "（決済方法を変更した場合の適用関係）",
+      "heading": "第2節　輸出免税等の範囲",
+      "file": "items/7-2-25.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/02.htm"
+    },
+    {
+      "num": "7-2-26",
+      "caption": "（指定書類が発行されない場合）",
+      "heading": "第2節　輸出免税等の範囲",
+      "file": "items/7-2-26.md",
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/shohi/07/02.htm"
     },
     {
