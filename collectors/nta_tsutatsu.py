@@ -67,7 +67,12 @@ def fetch(url):
             with urllib.request.urlopen(req, timeout=60) as r:
                 raw = r.read()
                 final = r.geturl()
+            # 存在しないページは /error/404.htm へ転送されて 200 が返る。資料として保存しない
+            if "/error/" in final:
+                raise LookupError("ページがありません（%s へ転送された）: %s" % (final, url))
             return raw, final
+        except LookupError:
+            raise
         except Exception as e:                        # noqa: BLE001
             last = e
             if attempt < RETRY - 1:

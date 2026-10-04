@@ -363,9 +363,7 @@
       "題": "幼稚園を設置する学校法人に対する財産の贈与又は遺贈に係る譲渡所得の非課税取扱いについて",
       "分野": "所得税（措置法）",
       "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/shotoku/sochiho/041208/01.htm",
-      "paths": [
-        "kobetsu/shotoku/error-404.md"
-      ]
+      "paths": []
     },
     {
       "題": "租税特別措置法第40条第1項後段の規定の適用を受けようとする場合における社会福祉法人定款例について",
@@ -1368,8 +1366,7 @@
       "分野": "法人税関係",
       "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/890301/index.htm",
       "paths": [
-        "kobetsu/hojin/hojin-890301-index.md",
-        "kobetsu/hojin/error-404.md"
+        "kobetsu/hojin/hojin-890301-index.md"
       ]
     },
     {
@@ -1459,17 +1456,13 @@
       "題": "租税特別措置法による特別償却の償却限度額の計算に関する付表の様式について（法令解釈通達）",
       "分野": "法人税（措置法）",
       "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/060831/01.htm",
-      "paths": [
-        "kobetsu/hojin/error-404.md"
-      ]
+      "paths": []
     },
     {
       "題": "一部改正通達",
       "分野": "法人税（措置法）",
       "url": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/060831/04.htm",
-      "paths": [
-        "kobetsu/hojin/error-404.md"
-      ]
+      "paths": []
     },
     {
       "題": "仮換地等が土地収用法等の規定に基づいて使用され補償金等を取得する場合の収用等の場合の課税の特例の適用について",

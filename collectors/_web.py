@@ -63,7 +63,14 @@ def fetch(url: str) -> tuple[bytes, str]:
                 raw = r.read()
                 final = r.geturl()
             _last[0] = time.time()
+            # 国税庁サイトは、存在しないページを /error/404.htm へ転送して 200 を返す。
+            # これを資料として保存しないよう、ここで失敗にする（再試行もしない）。
+            if "/error/" in urllib.parse.urlsplit(final).path:
+                raise LookupError(f"ページがありません（{final} へ転送された）: {url}")
             return raw, final
+        except LookupError:
+            _last[0] = time.time()
+            raise
         except Exception as e:                              # noqa: BLE001
             last = e
             if attempt < RETRY - 1:
