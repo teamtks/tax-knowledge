@@ -19,6 +19,7 @@ from __future__ import annotations
 import glob
 import json
 import os
+import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -57,10 +58,28 @@ def 集める() -> list[dict]:
                         "番号": it["num"], "題": it.get("caption", ""), "補足": it.get("heading", ""),
                         "基準日": "", "path": f"{d}/{it['file']}"})
     j = _load("kobetsu/index.json")
+    索引済, 親 = set(), {}
     for r in (j or {}).get("通達", []):
+        索引済.update(r.get("paths", []))
+        for p in r.get("paths", []):
+            親.setdefault("-".join(os.path.basename(p).split("-")[:2]), r["題"])
         for p in r.get("paths", [])[:1]:
             out.append({"種類": "個別通達", "出典名": r["分野"], "番号": "", "題": r["題"],
                         "補足": "", "基準日": "", "path": p})
+    # fetch.py page で個別に取り込んだページ（目次から1階層下のページなど）は索引に載らない。
+    # 題（親の通達名を前に付ける）と、本文の見出し（「(資本的支出後の耐用年数)」など）で引けるようにする。
+    for f in sorted(glob.glob(os.path.join(ROOT, "kobetsu", "*", "*.md"))):
+        p = os.path.relpath(f, ROOT).replace("\\", "/")
+        if p in 索引済:
+            continue
+        with open(f, encoding="utf-8") as fh:
+            本文 = fh.read()
+        題 = 本文.split("\n", 1)[0].lstrip("# ").strip()
+        上 = 親.get("-".join(os.path.basename(f).split("-")[:2]), "")
+        見出し = re.findall(r"^[（(]([^）)\n]{2,40})[）)]\s*$", 本文, re.M)
+        out.append({"種類": "個別通達", "出典名": p.split("/")[1],
+                    "番号": "", "題": (f"{上} / {題}" if 上 and 上 not in 題 else 題),
+                    "補足": "、".join(見出し)[:600], "基準日": "", "path": p})
     j = _load("qa/index.json")
     for r in (j or {}).get("事例", []):
         out.append({"種類": "質疑応答事例", "出典名": r["税目"], "番号": r["id"], "題": r["題"],
