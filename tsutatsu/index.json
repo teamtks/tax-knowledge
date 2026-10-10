@@ -2,7 +2,7 @@
   "_説明": "収集済みの法令解釈通達の一覧。取得日時は記録しない（git のコミット日時が取得日時）。",
   "_出典": "国税庁 法令解釈通達 https://www.nta.go.jp/law/tsutatsu/menu.htm",
   "_法的根拠": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは公共データ利用規約（第1.0版）に準拠。",
-  "item_total": 4455,
+  "item_total": 4460,
   "tsutatsu": [
     {
       "code": "hojin-kihon",
@@ -29,7 +29,7 @@
       "code": "sochiho-hojin",
       "名称": "租税特別措置法関係通達（法人税編）",
       "略称": "措通(法)",
-      "item_count": 1826,
+      "item_count": 1831,
       "path": "tsutatsu/sochiho-hojin/"
     }
   ]

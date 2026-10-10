@@ -3,8 +3,8 @@
   "名称": "租税特別措置法関係通達（法人税編）",
   "略称": "措通(法)",
   "root": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/sotihou.htm",
-  "page_count": 246,
-  "item_count": 1826,
+  "page_count": 247,
+  "item_count": 1831,
   "truncated": false,
   "出典": "国税庁 法令解釈通達",
   "利用条件": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは公共データ利用規約（第1.0版）に準拠。",
@@ -862,6 +862,41 @@
       "heading": "第42条の12の6《生産工程効率化等設備を取得した場合等の特別償却又は法人税額の特別控除》関係",
       "file": "items/42の12の6-3.md",
       "source": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_12_7.htm"
+    },
+    {
+      "num": "42の12の7-1",
+      "caption": "（生産等設備の範囲）",
+      "heading": "第42条の12の７《特定生産性向上設備等を取得した場合の特別償却又は法人税額の特別控除》関係",
+      "file": "items/42の12の7-1.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_12_8.htm"
+    },
+    {
+      "num": "42の12の7-2",
+      "caption": "（取得価額の判定単位）",
+      "heading": "第42条の12の７《特定生産性向上設備等を取得した場合の特別償却又は法人税額の特別控除》関係",
+      "file": "items/42の12の7-2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_12_8.htm"
+    },
+    {
+      "num": "42の12の7-3",
+      "caption": "（圧縮記帳の適用を受けた場合の特定機械装置等の取得価額要件の判定）",
+      "heading": "第42条の12の７《特定生産性向上設備等を取得した場合の特別償却又は法人税額の特別控除》関係",
+      "file": "items/42の12の7-3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_12_8.htm"
+    },
+    {
+      "num": "42の12の7-4",
+      "caption": "（貸付けの用に供したものに該当しない資産の貸与）",
+      "heading": "第42条の12の７《特定生産性向上設備等を取得した場合の特別償却又は法人税額の特別控除》関係",
+      "file": "items/42の12の7-4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_12_8.htm"
+    },
+    {
+      "num": "42の12の7-5",
+      "caption": "（中小企業者であるかどうかの判定の時期等）",
+      "heading": "第42条の12の７《特定生産性向上設備等を取得した場合の特別償却又は法人税額の特別控除》関係",
+      "file": "items/42の12の7-5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kobetsu/hojin/sochiho/750214/01/01_42_12_8.htm"
     },
     {
       "num": "42の13-1",
