@@ -8,7 +8,10 @@ name: 参考資料を収集（質疑応答・裁決・タックスアンサー�
 # どれも合わせて数千ページあり、国税庁サイトへの負荷を考えて月1回とする。
 on:
   schedule:
-    - cron: '0 17 1-7 * 0'      # 毎月第1日曜 JST 02:00
+    # 毎週土曜 UTC 17:00（＝日曜 JST 02:00）に起き、「収集」の先頭で第1日曜（JST の1〜7日）以外は何もせず終わる。
+    # cron で日と曜日の両方を指定すると「どちらか」に一致すれば動く（'0 17 1-7 * 0' は毎月1〜7日の毎日＋毎週日曜）。
+    # 実際に 2026-10-01〜07 は毎日動いていた。国税庁サイトへの負荷を考え、月1回に戻す。
+    - cron: '0 17 * * 6'
   workflow_dispatch:
     inputs:
       only:
@@ -49,6 +52,11 @@ jobs:
           ONLY: ${{ github.event.inputs.only }}
         run: |
           set -u
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$(TZ=Asia/Tokyo date +%-d)" -gt 7 ]; then
+            echo "第1日曜ではないため収集しません（JST $(TZ=Asia/Tokyo date +%F)）。"
+            echo "FAIL=" >> "$GITHUB_ENV"
+            exit 0
+          fi
           want() { [ -z "${ONLY:-}" ] || echo " ${ONLY} " | grep -q " $1 "; }
           FAIL=""
           if want qa;        then python collectors/nta_shitsugi.py  || FAIL="$FAIL 質疑応答事例"; fi
