@@ -30,8 +30,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      # 判決の PDF は AES で暗号化されている。pypdf は cryptography が無いと読めず、
+      # このワークフローは 2026-10-02〜10-10 の間、毎回ここで止まっていた。
+      # 手元と同じ PyMuPDF を使い、手元とここで本文の抽出結果がずれないようにもする。
       - name: PDF を読む部品
-        run: pip install pypdf
+        run: pip install pymupdf
       - name: 取得
         env:
           PYTHONIOENCODING: utf-8

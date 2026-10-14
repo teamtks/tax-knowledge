@@ -214,17 +214,24 @@ def _pdf_text(raw: bytes) -> str:
 # ------------------------------------------------------------------ wanted
 
 def wanted():
+    # 1件の失敗で全体を止めない（止めると、取れた分も commit されない）。
+    # 失敗は GitHub Actions の警告（::warning::）として残し、見落とさないようにする。
     w = _wanted()
+    失敗 = []
     for x in w.get("page", []):
         try:
             page(x["key"], 記録=False)
         except Exception as e:                              # noqa: BLE001
             print(f"  !! {x['key']}: {e}")
+            失敗.append(f"{x['key']}: {e}")
     for x in w.get("sosho", []):
         try:
             sosho(x["key"])
-        except SystemExit as e:
+        except (SystemExit, Exception) as e:                # noqa: BLE001
             print(f"  !! 順号{x['key']}: {e}")
+            失敗.append(f"判決 順号{x['key']}: {e}")
+    for m in 失敗:
+        print(f"::warning::取り直しに失敗: {m}")
     # 法令は laws.json に登録済みなので、法令の定期収集が更新する
 
 
