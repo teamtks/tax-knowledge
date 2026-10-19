@@ -1,0 +1,528 @@
+{
+  "law_id": "417M60000002053",
+  "law_title": "地域再生法施行規則",
+  "略称": "地域再生法施行規則",
+  "law_num": "平成十七年内閣府令第五十三号",
+  "promulgation_date": "2005-04-01",
+  "law_revision_id": "417M60000002053_20260401_508M60000002030",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_law_num": "令和八年内閣府令第三十号",
+  "amendment_law_title": "地域再生法施行規則の一部を改正する内閣府令",
+  "current_revision_status": "CurrentEnforced",
+  "article_count": 46,
+  "suppl_count": 28,
+  "has_appendix": true,
+  "articles": [
+    {
+      "num": "1",
+      "title": "第一条",
+      "caption": "（地域再生計画の認定の申請）",
+      "elm": "Mp-At_1",
+      "file": "articles/At_1.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "2",
+      "title": "第二条",
+      "caption": "（地域再生計画の記載事項）",
+      "elm": "Mp-At_2",
+      "file": "articles/At_2.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "3",
+      "title": "第三条",
+      "caption": "（法第五条第四項第二号の内閣府令で定める要件）",
+      "elm": "Mp-At_3",
+      "file": "articles/At_3.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "4",
+      "title": "第四条",
+      "caption": "（法第五条第四項第三号の内閣府令で定める事業）",
+      "elm": "Mp-At_4",
+      "file": "articles/At_4.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "5",
+      "title": "第五条",
+      "caption": "（法第五条第四項第三号の内閣府令で定める金融機関）",
+      "elm": "Mp-At_5",
+      "file": "articles/At_5.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "6",
+      "title": "第六条",
+      "caption": "（法第五条第四項第四号イの内閣府令で定める事業）",
+      "elm": "Mp-At_6",
+      "file": "articles/At_6.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "7",
+      "title": "第七条",
+      "caption": "（法第五条第四項第四号ロの内閣府令で定める事業等）",
+      "elm": "Mp-At_7",
+      "file": "articles/At_7.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "8",
+      "title": "第八条",
+      "caption": "（法第五条第四項第五号の内閣府令で定める業務施設等）",
+      "elm": "Mp-At_8",
+      "file": "articles/At_8.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "9",
+      "title": "第九条",
+      "caption": "（公示の方法）",
+      "elm": "Mp-At_9",
+      "file": "articles/At_9.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "10",
+      "title": "第十条",
+      "caption": "（地域再生計画の変更の認定の申請）",
+      "elm": "Mp-At_10",
+      "file": "articles/At_10.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "11",
+      "title": "第十一条",
+      "caption": "（法第七条第一項の内閣府令で定める軽微な変更）",
+      "elm": "Mp-At_11",
+      "file": "articles/At_11.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "12",
+      "title": "第十二条",
+      "caption": "（地域再生協議会を組織した旨の公表）",
+      "elm": "Mp-At_12",
+      "file": "articles/At_12.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "13",
+      "title": "第十三条",
+      "caption": "（寄附を行う法人に対する利益供与の禁止）",
+      "elm": "Mp-At_13",
+      "file": "articles/At_13.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "14",
+      "title": "第十四条",
+      "caption": "（まち・ひと・しごと創生寄附活用事業の実施に係る手続）",
+      "elm": "Mp-At_14",
+      "file": "articles/At_14.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "15",
+      "title": "第十五条",
+      "caption": "（法第十四条第一項の内閣府令で定める要件）",
+      "elm": "Mp-At_15",
+      "file": "articles/At_15.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "16",
+      "title": "第十六条",
+      "caption": "（法第十四条第三項の内閣府令で定める償還方法）",
+      "elm": "Mp-At_16",
+      "file": "articles/At_16.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "17",
+      "title": "第十七条",
+      "caption": "（法第十四条第五項の内閣府令で定める期間）",
+      "elm": "Mp-At_17",
+      "file": "articles/At_17.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "18",
+      "title": "第十八条",
+      "caption": "（地域再生支援利子補給金の支給）",
+      "elm": "Mp-At_18",
+      "file": "articles/At_18.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "19",
+      "title": "第十九条",
+      "caption": "（指定金融機関の指定の申請手続等）",
+      "elm": "Mp-At_19",
+      "file": "articles/At_19.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "20",
+      "title": "第二十条",
+      "caption": "（法第十五条第一項の内閣府令で定める要件）",
+      "elm": "Mp-At_20",
+      "file": "articles/At_20.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "21",
+      "title": "第二十一条",
+      "caption": "（特定地域再生支援利子補給金の支給）",
+      "elm": "Mp-At_21",
+      "file": "articles/At_21.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "22",
+      "title": "第二十二条",
+      "caption": "（指定金融機関の指定の申請手続等）",
+      "elm": "Mp-At_22",
+      "file": "articles/At_22.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "23",
+      "title": "第二十三条",
+      "caption": "（法第十六条の内閣府令で定める要件）",
+      "elm": "Mp-At_23",
+      "file": "articles/At_23.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "24",
+      "title": "第二十四条",
+      "caption": "（認定地方公共団体による会社の要件の確認）",
+      "elm": "Mp-At_24",
+      "file": "articles/At_24.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "25",
+      "title": "第二十五条",
+      "caption": "",
+      "elm": "Mp-At_25",
+      "file": "articles/At_25.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "26",
+      "title": "第二十六条",
+      "caption": "（認定地方公共団体による株式の払込みの確認）",
+      "elm": "Mp-At_26",
+      "file": "articles/At_26.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "27",
+      "title": "第二十七条",
+      "caption": "（法第十七条の二第一項の認定を申請することができる者の要件）",
+      "elm": "Mp-At_27",
+      "file": "articles/At_27.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "28",
+      "title": "第二十八条",
+      "caption": "（地方活力向上地域等特定業務施設整備計画の認定に係る手続等）",
+      "elm": "Mp-At_28",
+      "file": "articles/At_28.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "29",
+      "title": "第二十九条",
+      "caption": "（法第十七条の二第一項第二号の内閣府令で定める要件）",
+      "elm": "Mp-At_29",
+      "file": "articles/At_29.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "30",
+      "title": "第三十条",
+      "caption": "（実施期間）",
+      "elm": "Mp-At_30",
+      "file": "articles/At_30.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "31",
+      "title": "第三十一条",
+      "caption": "（特定業務施設において常時雇用する従業員）",
+      "elm": "Mp-At_31",
+      "file": "articles/At_31.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "32",
+      "title": "第三十二条",
+      "caption": "（特定業務施設において常時雇用する従業員の数）",
+      "elm": "Mp-At_32",
+      "file": "articles/At_32.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "33",
+      "title": "第三十三条",
+      "caption": "（特定業務施設において常時雇用する従業員に関する要件）",
+      "elm": "Mp-At_33",
+      "file": "articles/At_33.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "34",
+      "title": "第三十四条",
+      "caption": "（地方活力向上地域等特定業務施設整備計画の変更に係る認定の申請）",
+      "elm": "Mp-At_34",
+      "file": "articles/At_34.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "35",
+      "title": "第三十五条",
+      "caption": "（認定地方活力向上地域等特定業務施設整備計画の認定の取消し）",
+      "elm": "Mp-At_35",
+      "file": "articles/At_35.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "36",
+      "title": "第三十六条",
+      "caption": "（実施状況の報告）",
+      "elm": "Mp-At_36",
+      "file": "articles/At_36.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "37",
+      "title": "第三十七条",
+      "caption": "（特定業務施設における従業員の要件）",
+      "elm": "Mp-At_37",
+      "file": "articles/At_37.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "38",
+      "title": "第三十八条",
+      "caption": "（地域来訪者等利便増進活動計画の認定に係る手続）",
+      "elm": "Mp-At_38",
+      "file": "articles/At_38.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "39",
+      "title": "第三十九条",
+      "caption": "（資金計画の記載事項）",
+      "elm": "Mp-At_39",
+      "file": "articles/At_39.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "40",
+      "title": "第四十条",
+      "caption": "（地域来訪者等利便増進活動計画の記載事項）",
+      "elm": "Mp-At_40",
+      "file": "articles/At_40.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "41",
+      "title": "第四十一条",
+      "caption": "（地域来訪者等利便増進活動計画の公告）",
+      "elm": "Mp-At_41",
+      "file": "articles/At_41.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "42",
+      "title": "第四十二条",
+      "caption": "（法第十七条の七第十三項の内閣府令で定める軽微な変更）",
+      "elm": "Mp-At_42",
+      "file": "articles/At_42.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "43",
+      "title": "第四十三条",
+      "caption": "（法第十七条の十三第六項の内閣府令で定める軽微な変更）",
+      "elm": "Mp-At_43",
+      "file": "articles/At_43.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "44",
+      "title": "第四十四条",
+      "caption": "（生涯活躍のまち形成事業計画の作成等の提案）",
+      "elm": "Mp-At_44",
+      "file": "articles/At_44.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "45",
+      "title": "第四十五条",
+      "caption": "（地域住宅団地再生事業計画の作成等の提案）",
+      "elm": "Mp-At_45",
+      "file": "articles/At_45.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "46",
+      "title": "第四十六条",
+      "caption": "（職員の派遣の要請手続等）",
+      "elm": "Mp-At_46",
+      "file": "articles/At_46.md",
+      "breadcrumb": ""
+    }
+  ],
+  "suppl": [
+    {
+      "amend_law_num": "",
+      "label": "附　則",
+      "file": "suppl/制定附則.md"
+    },
+    {
+      "amend_law_num": "平成一八年四月二六日内閣府令第五八号",
+      "label": "附　則",
+      "file": "suppl/平成一八年四月二六日内閣府令第五八号.md"
+    },
+    {
+      "amend_law_num": "平成一九年三月三一日内閣府令第三四号",
+      "label": "附　則",
+      "file": "suppl/平成一九年三月三一日内閣府令第三四号.md"
+    },
+    {
+      "amend_law_num": "平成二〇年五月二一日内閣府令第三四号",
+      "label": "附　則",
+      "file": "suppl/平成二〇年五月二一日内閣府令第三四号.md"
+    },
+    {
+      "amend_law_num": "平成二〇年一一月二一日内閣府令第七一号",
+      "label": "附　則",
+      "file": "suppl/平成二〇年一一月二一日内閣府令第七一号.md"
+    },
+    {
+      "amend_law_num": "平成二二年四月一日内閣府令第一四号",
+      "label": "附　則",
+      "file": "suppl/平成二二年四月一日内閣府令第一四号.md"
+    },
+    {
+      "amend_law_num": "平成二三年八月一七日内閣府令第四二号",
+      "label": "附　則",
+      "file": "suppl/平成二三年八月一七日内閣府令第四二号.md"
+    },
+    {
+      "amend_law_num": "平成二三年一一月二九日内閣府令第六七号",
+      "label": "附　則",
+      "file": "suppl/平成二三年一一月二九日内閣府令第六七号.md"
+    },
+    {
+      "amend_law_num": "平成二四年一一月一日内閣府令第七四号",
+      "label": "附　則",
+      "file": "suppl/平成二四年一一月一日内閣府令第七四号.md"
+    },
+    {
+      "amend_law_num": "平成二六年一二月一二日内閣府令第八一号",
+      "label": "附　則",
+      "file": "suppl/平成二六年一二月一二日内閣府令第八一号.md"
+    },
+    {
+      "amend_law_num": "平成二七年八月七日内閣府令第四七号",
+      "label": "附　則",
+      "file": "suppl/平成二七年八月七日内閣府令第四七号.md"
+    },
+    {
+      "amend_law_num": "平成二八年四月二〇日内閣府令第三九号",
+      "label": "附　則",
+      "file": "suppl/平成二八年四月二〇日内閣府令第三九号.md"
+    },
+    {
+      "amend_law_num": "平成二八年六月三〇日内閣府令第四三号",
+      "label": "附　則",
+      "file": "suppl/平成二八年六月三〇日内閣府令第四三号.md"
+    },
+    {
+      "amend_law_num": "平成二九年三月三一日内閣府令第一五号",
+      "label": "附　則",
+      "file": "suppl/平成二九年三月三一日内閣府令第一五号.md"
+    },
+    {
+      "amend_law_num": "平成二九年七月七日内閣府令第三九号",
+      "label": "附　則",
+      "file": "suppl/平成二九年七月七日内閣府令第三九号.md"
+    },
+    {
+      "amend_law_num": "平成三〇年六月一日内閣府令第二七号",
+      "label": "附　則",
+      "file": "suppl/平成三〇年六月一日内閣府令第二七号.md"
+    },
+    {
+      "amend_law_num": "令和元年五月七日内閣府令第一号",
+      "label": "附　則",
+      "file": "suppl/令和元年五月七日内閣府令第一号.md"
+    },
+    {
+      "amend_law_num": "令和元年六月二七日内閣府令第一五号",
+      "label": "附　則",
+      "file": "suppl/令和元年六月二七日内閣府令第一五号.md"
+    },
+    {
+      "amend_law_num": "令和元年九月二六日内閣府令第三二号",
+      "label": "附　則",
+      "file": "suppl/令和元年九月二六日内閣府令第三二号.md"
+    },
+    {
+      "amend_law_num": "令和元年一二月二七日内閣府令第五二号",
+      "label": "附　則",
+      "file": "suppl/令和元年一二月二七日内閣府令第五二号.md"
+    },
+    {
+      "amend_law_num": "令和二年三月三一日内閣府令第三〇号",
+      "label": "附　則",
+      "file": "suppl/令和二年三月三一日内閣府令第三〇号.md"
+    },
+    {
+      "amend_law_num": "令和二年一二月二八日内閣府令第八二号",
+      "label": "附　則",
+      "file": "suppl/令和二年一二月二八日内閣府令第八二号.md"
+    },
+    {
+      "amend_law_num": "令和四年三月三一日内閣府令第二二号",
+      "label": "附　則",
+      "file": "suppl/令和四年三月三一日内閣府令第二二号.md"
+    },
+    {
+      "amend_law_num": "令和六年三月三〇日内閣府令第四三号",
+      "label": "附　則",
+      "file": "suppl/令和六年三月三〇日内閣府令第四三号.md"
+    },
+    {
+      "amend_law_num": "令和六年四月一九日内閣府令第五六号",
+      "label": "附　則",
+      "file": "suppl/令和六年四月一九日内閣府令第五六号.md"
+    },
+    {
+      "amend_law_num": "令和六年九月六日内閣府令第七六号",
+      "label": "附　則",
+      "file": "suppl/令和六年九月六日内閣府令第七六号.md"
+    },
+    {
+      "amend_law_num": "令和七年三月三一日内閣府令第三三号",
+      "label": "附　則",
+      "file": "suppl/令和七年三月三一日内閣府令第三三号.md"
+    },
+    {
+      "amend_law_num": "令和八年三月三一日内閣府令第三〇号",
+      "label": "附　則",
+      "file": "suppl/令和八年三月三一日内閣府令第三〇号.md"
+    }
+  ]
+}
