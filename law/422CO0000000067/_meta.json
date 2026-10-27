@@ -1,0 +1,174 @@
+{
+  "law_id": "422CO0000000067",
+  "law_title": "租税特別措置の適用状況の透明化等に関する法律施行令",
+  "略称": "租税特別措置の適用状況の透明化等に関する法律施行令",
+  "law_num": "平成二十二年政令第六十七号",
+  "promulgation_date": "2010-03-31",
+  "law_revision_id": "422CO0000000067_20260731_508CO0000000101",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_law_num": "令和八年政令第百一号",
+  "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令等の一部を改正する政令",
+  "current_revision_status": "CurrentEnforced",
+  "article_count": 3,
+  "suppl_count": 26,
+  "has_appendix": false,
+  "articles": [
+    {
+      "num": "1",
+      "title": "第一条",
+      "caption": "（租税特別措置に含まれない規定）",
+      "elm": "Mp-At_1",
+      "file": "articles/At_1.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "2",
+      "title": "第二条",
+      "caption": "（適用額明細書の提出義務の対象となる法人税関係特別措置）",
+      "elm": "Mp-At_2",
+      "file": "articles/At_2.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "3",
+      "title": "第三条",
+      "caption": "（権限の委任）",
+      "elm": "Mp-At_3",
+      "file": "articles/At_3.md",
+      "breadcrumb": ""
+    }
+  ],
+  "suppl": [
+    {
+      "amend_law_num": "",
+      "label": "附　則",
+      "file": "suppl/制定附則.md"
+    },
+    {
+      "amend_law_num": "平成二三年六月三〇日政令第一九九号",
+      "label": "附　則",
+      "file": "suppl/平成二三年六月三〇日政令第一九九号.md"
+    },
+    {
+      "amend_law_num": "平成二三年一〇月一四日政令第三一九号",
+      "label": "附　則",
+      "file": "suppl/平成二三年一〇月一四日政令第三一九号.md"
+    },
+    {
+      "amend_law_num": "平成二三年一二月二日政令第三八三号",
+      "label": "附　則",
+      "file": "suppl/平成二三年一二月二日政令第三八三号.md"
+    },
+    {
+      "amend_law_num": "平成二四年三月三一日政令第一〇五号",
+      "label": "附　則",
+      "file": "suppl/平成二四年三月三一日政令第一〇五号.md"
+    },
+    {
+      "amend_law_num": "平成二四年七月二五日政令第二〇二号",
+      "label": "附　則",
+      "file": "suppl/平成二四年七月二五日政令第二〇二号.md"
+    },
+    {
+      "amend_law_num": "平成二四年一〇月三一日政令第二七二号",
+      "label": "附　則",
+      "file": "suppl/平成二四年一〇月三一日政令第二七二号.md"
+    },
+    {
+      "amend_law_num": "平成二五年三月三〇日政令第一一四号",
+      "label": "附　則",
+      "file": "suppl/平成二五年三月三〇日政令第一一四号.md"
+    },
+    {
+      "amend_law_num": "平成二五年五月三一日政令第一六九号",
+      "label": "附　則",
+      "file": "suppl/平成二五年五月三一日政令第一六九号.md"
+    },
+    {
+      "amend_law_num": "平成二六年三月三一日政令第一四五号",
+      "label": "附　則",
+      "file": "suppl/平成二六年三月三一日政令第一四五号.md"
+    },
+    {
+      "amend_law_num": "平成二七年三月三一日政令第一五〇号",
+      "label": "附　則",
+      "file": "suppl/平成二七年三月三一日政令第一五〇号.md"
+    },
+    {
+      "amend_law_num": "平成二八年三月三一日政令第一六三号",
+      "label": "附　則",
+      "file": "suppl/平成二八年三月三一日政令第一六三号.md"
+    },
+    {
+      "amend_law_num": "平成二八年九月三〇日政令第三一九号",
+      "label": "附　則",
+      "file": "suppl/平成二八年九月三〇日政令第三一九号.md"
+    },
+    {
+      "amend_law_num": "平成二九年三月三一日政令第一一五号",
+      "label": "附　則",
+      "file": "suppl/平成二九年三月三一日政令第一一五号.md"
+    },
+    {
+      "amend_law_num": "平成三〇年三月三一日政令第一四七号",
+      "label": "附　則",
+      "file": "suppl/平成三〇年三月三一日政令第一四七号.md"
+    },
+    {
+      "amend_law_num": "平成三一年三月二九日政令第一〇五号",
+      "label": "附　則",
+      "file": "suppl/平成三一年三月二九日政令第一〇五号.md"
+    },
+    {
+      "amend_law_num": "令和二年三月三一日政令第一二六号",
+      "label": "附　則",
+      "file": "suppl/令和二年三月三一日政令第一二六号.md"
+    },
+    {
+      "amend_law_num": "令和二年六月二六日政令第二〇七号",
+      "label": "附　則",
+      "file": "suppl/令和二年六月二六日政令第二〇七号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日政令第一二四号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日政令第一二四号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日政令第一三〇号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日政令第一三〇号.md"
+    },
+    {
+      "amend_law_num": "令和四年三月三一日政令第一五六号",
+      "label": "附　則",
+      "file": "suppl/令和四年三月三一日政令第一五六号.md"
+    },
+    {
+      "amend_law_num": "令和五年三月三一日政令第一五〇号",
+      "label": "附　則",
+      "file": "suppl/令和五年三月三一日政令第一五〇号.md"
+    },
+    {
+      "amend_law_num": "令和六年三月三〇日政令第一五四号",
+      "label": "附　則",
+      "file": "suppl/令和六年三月三〇日政令第一五四号.md"
+    },
+    {
+      "amend_law_num": "令和六年六月二一日政令第二一六号",
+      "label": "附　則",
+      "file": "suppl/令和六年六月二一日政令第二一六号.md"
+    },
+    {
+      "amend_law_num": "令和七年三月三一日政令第一三〇号",
+      "label": "附　則",
+      "file": "suppl/令和七年三月三一日政令第一三〇号.md"
+    },
+    {
+      "amend_law_num": "令和八年三月三一日政令第一〇一号",
+      "label": "附　則",
+      "file": "suppl/令和八年三月三一日政令第一〇一号.md"
+    }
+  ]
+}

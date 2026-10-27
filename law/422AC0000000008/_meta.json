@@ -1,0 +1,161 @@
+{
+  "law_id": "422AC0000000008",
+  "law_title": "租税特別措置の適用状況の透明化等に関する法律",
+  "略称": "租税特別措置の適用状況の透明化等に関する法律",
+  "law_num": "平成二十二年法律第八号",
+  "promulgation_date": "2010-03-31",
+  "law_revision_id": "422AC0000000008_20260401_507AC0000000013",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_law_num": "令和七年法律第十三号",
+  "amendment_law_title": "所得税法等の一部を改正する法律",
+  "current_revision_status": "CurrentEnforced",
+  "article_count": 12,
+  "suppl_count": 9,
+  "has_appendix": false,
+  "articles": [
+    {
+      "num": "1",
+      "title": "第一条",
+      "caption": "（目的）",
+      "elm": "Mp-At_1",
+      "file": "articles/At_1.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "2",
+      "title": "第二条",
+      "caption": "（定義）",
+      "elm": "Mp-At_2",
+      "file": "articles/At_2.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "3",
+      "title": "第三条",
+      "caption": "（適用額明細書の提出義務）",
+      "elm": "Mp-At_3",
+      "file": "articles/At_3.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "4",
+      "title": "第四条",
+      "caption": "（適用実態調査の実施）",
+      "elm": "Mp-At_4",
+      "file": "articles/At_4.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "5",
+      "title": "第五条",
+      "caption": "（適用実態調査の結果に関する報告書の作成及び提出）",
+      "elm": "Mp-At_5",
+      "file": "articles/At_5.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "6",
+      "title": "第六条",
+      "caption": "（適用実態調査情報の提供）",
+      "elm": "Mp-At_6",
+      "file": "articles/At_6.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "7",
+      "title": "第七条",
+      "caption": "（適用実態調査情報の適正な管理）",
+      "elm": "Mp-At_7",
+      "file": "articles/At_7.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "8",
+      "title": "第八条",
+      "caption": "（適用実態調査情報の利用制限）",
+      "elm": "Mp-At_8",
+      "file": "articles/At_8.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "9",
+      "title": "第九条",
+      "caption": "（守秘義務）",
+      "elm": "Mp-At_9",
+      "file": "articles/At_9.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "10",
+      "title": "第十条",
+      "caption": "（権限の委任）",
+      "elm": "Mp-At_10",
+      "file": "articles/At_10.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "11",
+      "title": "第十一条",
+      "caption": "（財務省令への委任）",
+      "elm": "Mp-At_11",
+      "file": "articles/At_11.md",
+      "breadcrumb": ""
+    },
+    {
+      "num": "12",
+      "title": "第十二条",
+      "caption": "（罰則）",
+      "elm": "Mp-At_12",
+      "file": "articles/At_12.md",
+      "breadcrumb": ""
+    }
+  ],
+  "suppl": [
+    {
+      "amend_law_num": "",
+      "label": "附　則",
+      "file": "suppl/制定附則.md"
+    },
+    {
+      "amend_law_num": "平成二六年三月三一日法律第一〇号",
+      "label": "附　則",
+      "file": "suppl/平成二六年三月三一日法律第一〇号.md"
+    },
+    {
+      "amend_law_num": "平成二九年三月三一日法律第四号",
+      "label": "附　則",
+      "file": "suppl/平成二九年三月三一日法律第四号.md"
+    },
+    {
+      "amend_law_num": "平成三〇年三月三一日法律第七号",
+      "label": "附　則",
+      "file": "suppl/平成三〇年三月三一日法律第七号.md"
+    },
+    {
+      "amend_law_num": "平成三〇年四月一八日法律第一六号",
+      "label": "附　則",
+      "file": "suppl/平成三〇年四月一八日法律第一六号.md"
+    },
+    {
+      "amend_law_num": "令和二年三月三一日法律第八号",
+      "label": "附　則",
+      "file": "suppl/令和二年三月三一日法律第八号.md"
+    },
+    {
+      "amend_law_num": "令和三年三月三一日法律第一一号",
+      "label": "附　則",
+      "file": "suppl/令和三年三月三一日法律第一一号.md"
+    },
+    {
+      "amend_law_num": "令和四年六月一七日法律第六八号",
+      "label": "附　則",
+      "file": "suppl/令和四年六月一七日法律第六八号.md"
+    },
+    {
+      "amend_law_num": "令和七年三月三一日法律第一三号",
+      "label": "附　則",
+      "file": "suppl/令和七年三月三一日法律第一三号.md"
+    }
+  ]
+}
