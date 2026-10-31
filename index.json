@@ -17,8 +17,8 @@
       "law_title": "地方税法",
       "略称": "地法",
       "law_num": "昭和二十五年法律第二百二十六号",
-      "law_revision_id": "325AC0000000226_20261016_508AC0000000002",
-      "amendment_enforcement_date": "2026-10-16",
+      "law_revision_id": "325AC0000000226_20261101_508AC0000000002",
+      "amendment_enforcement_date": "2026-11-01",
       "article_count": 1348,
       "path": "law/325AC0000000226/"
     },
@@ -27,8 +27,8 @@
       "law_title": "地方税法施行令",
       "略称": "地令",
       "law_num": "昭和二十五年政令第二百四十五号",
-      "law_revision_id": "325CO0000000245_20260822_508CO0000000251",
-      "amendment_enforcement_date": "2026-08-22",
+      "law_revision_id": "325CO0000000245_20261101_508CO0000000083",
+      "amendment_enforcement_date": "2026-11-01",
       "article_count": 855,
       "path": "law/325CO0000000245/"
     },
@@ -37,8 +37,8 @@
       "law_title": "租税特別措置法",
       "略称": "措法",
       "law_num": "昭和三十二年法律第二十六号",
-      "law_revision_id": "332AC0000000026_20261016_508AC0000000035",
-      "amendment_enforcement_date": "2026-10-16",
+      "law_revision_id": "332AC0000000026_20261101_507AC0000000013",
+      "amendment_enforcement_date": "2026-11-01",
       "article_count": 496,
       "path": "law/332AC0000000026/"
     },
@@ -47,8 +47,8 @@
       "law_title": "租税特別措置法施行令",
       "略称": "措令",
       "law_num": "昭和三十二年政令第四十三号",
-      "law_revision_id": "332CO0000000043_20261016_508CO0000000270",
-      "amendment_enforcement_date": "2026-10-16",
+      "law_revision_id": "332CO0000000043_20261101_507CO0000000127",
+      "amendment_enforcement_date": "2026-11-01",
       "article_count": 526,
       "path": "law/332CO0000000043/"
     },
@@ -57,9 +57,9 @@
       "law_title": "租税特別措置法施行規則",
       "略称": "措規",
       "law_num": "昭和三十二年大蔵省令第十五号",
-      "law_revision_id": "332M50000040015_20260901_508M60000040021",
-      "amendment_enforcement_date": "2026-09-01",
-      "article_count": 406,
+      "law_revision_id": "332M50000040015_20261101_507M60000040026",
+      "amendment_enforcement_date": "2026-11-01",
+      "article_count": 405,
       "path": "law/332M50000040015/"
     },
     {
@@ -67,8 +67,8 @@
       "law_title": "国税通則法",
       "略称": "通則法",
       "law_num": "昭和三十七年法律第六十六号",
-      "law_revision_id": "337AC0000000066_20260624_508AC0000000046",
-      "amendment_enforcement_date": "2026-06-24",
+      "law_revision_id": "337AC0000000066_20261101_507AC0000000013",
+      "amendment_enforcement_date": "2026-11-01",
       "article_count": 194,
       "path": "law/337AC0000000066/"
     },
@@ -157,8 +157,8 @@
       "law_title": "消費税法",
       "略称": "消法",
       "law_num": "昭和六十三年法律第百八号",
-      "law_revision_id": "363AC0000000108_20261001_507AC0000000070",
-      "amendment_enforcement_date": "2026-10-01",
+      "law_revision_id": "363AC0000000108_20261101_507AC0000000013",
+      "amendment_enforcement_date": "2026-11-01",
       "article_count": 85,
       "path": "law/363AC0000000108/"
     },
@@ -167,8 +167,8 @@
       "law_title": "消費税法施行令",
       "略称": "消令",
       "law_num": "昭和六十三年政令第三百六十号",
-      "law_revision_id": "363CO0000000360_20261001_508CO0000000108",
-      "amendment_enforcement_date": "2026-10-01",
+      "law_revision_id": "363CO0000000360_20261101_507CO0000000125",
+      "amendment_enforcement_date": "2026-11-01",
       "article_count": 127,
       "path": "law/363CO0000000360/"
     },
@@ -177,9 +177,9 @@
       "law_title": "消費税法施行規則",
       "略称": "消規",
       "law_num": "昭和六十三年大蔵省令第五十三号",
-      "law_revision_id": "363M50000040053_20261001_508M60000040019",
-      "amendment_enforcement_date": "2026-10-01",
-      "article_count": 71,
+      "law_revision_id": "363M50000040053_20261101_507M60000040022",
+      "amendment_enforcement_date": "2026-11-01",
+      "article_count": 63,
       "path": "law/363M50000040053/"
     },
     {

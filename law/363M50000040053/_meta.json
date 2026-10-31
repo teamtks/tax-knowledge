@@ -4,13 +4,13 @@
   "略称": "消規",
   "law_num": "昭和六十三年大蔵省令第五十三号",
   "promulgation_date": "1988-12-30",
-  "law_revision_id": "363M50000040053_20261001_508M60000040019",
-  "amendment_enforcement_date": "2026-10-01",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_law_num": "令和八年財務省令第十九号",
-  "amendment_law_title": "消費税法施行規則等の一部を改正する省令",
+  "law_revision_id": "363M50000040053_20261101_507M60000040022",
+  "amendment_enforcement_date": "2026-11-01",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_law_num": "令和七年財務省令第二十二号",
+  "amendment_law_title": "消費税法施行規則の一部を改正する省令",
   "current_revision_status": "CurrentEnforced",
-  "article_count": 71,
+  "article_count": 63,
   "suppl_count": 62,
   "has_appendix": false,
   "articles": [
@@ -73,7 +73,7 @@
     {
       "num": "6",
       "title": "第六条",
-      "caption": "（日本国籍を有する免税購入対象者の確認書類等）",
+      "caption": "（免税対象物品から除かれる物品の範囲）",
       "elm": "Mp-At_6",
       "file": "articles/At_6.md",
       "breadcrumb": "第一章　総則"
@@ -81,7 +81,7 @@
     {
       "num": "6_2",
       "title": "第六条の二",
-      "caption": "（購入記録情報の提供方法等）",
+      "caption": "（日本国籍を有する免税購入対象者の確認書類等）",
       "elm": "Mp-At_6_2",
       "file": "articles/At_6_2.md",
       "breadcrumb": "第一章　総則"
@@ -89,31 +89,31 @@
     {
       "num": "6_3",
       "title": "第六条の三",
-      "caption": "（市中輸出物品販売場における購入者への説明事項）",
+      "caption": "（輸出物品販売場における購入者への説明事項）",
       "elm": "Mp-At_6_3",
       "file": "articles/At_6_3.md",
       "breadcrumb": "第一章　総則"
     },
     {
+      "num": "6_4",
+      "title": "第六条の四",
+      "caption": "（購入記録情報の提供方法等）",
+      "elm": "Mp-At_6_4",
+      "file": "articles/At_6_4.md",
+      "breadcrumb": "第一章　総則"
+    },
+    {
       "num": "7",
       "title": "第七条",
-      "caption": "（輸出物品販売場における書類等の保存等）",
+      "caption": "（輸出物品販売場の許可申請書の記載事項等）",
       "elm": "Mp-At_7",
       "file": "articles/At_7.md",
       "breadcrumb": "第一章　総則"
     },
     {
-      "num": "7_2",
-      "title": "第七条の二",
-      "caption": "（国際第二種貨物利用運送事業者による書類の保存等）",
-      "elm": "Mp-At_7_2",
-      "file": "articles/At_7_2.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
       "num": "8",
       "title": "第八条",
-      "caption": "（輸出物品販売場で購入した物品を亡失した場合の免税手続）",
+      "caption": "（承認免税手続事業者の承認申請書の記載事項等）",
       "elm": "Mp-At_8",
       "file": "articles/At_8.md",
       "breadcrumb": "第一章　総則"
@@ -121,7 +121,7 @@
     {
       "num": "9",
       "title": "第九条",
-      "caption": "（輸出物品販売場で購入した物品の譲渡手続）",
+      "caption": "（承認送受信事業者の承認申請書の記載事項等）",
       "elm": "Mp-At_9",
       "file": "articles/At_9.md",
       "breadcrumb": "第一章　総則"
@@ -129,73 +129,9 @@
     {
       "num": "10",
       "title": "第十条",
-      "caption": "（輸出物品販売場の許可申請書の記載事項等）",
+      "caption": "（臨時販売場を設置しようとする事業者に係る承認申請書の記載事項等）",
       "elm": "Mp-At_10",
       "file": "articles/At_10.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
-      "num": "10_2",
-      "title": "第十条の二",
-      "caption": "（承認免税手続事業者の承認申請書の記載事項等）",
-      "elm": "Mp-At_10_2",
-      "file": "articles/At_10_2.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
-      "num": "10_3",
-      "title": "第十条の三",
-      "caption": "（輸出物品販売場をやめようとする旨の届出書の記載事項等）",
-      "elm": "Mp-At_10_3",
-      "file": "articles/At_10_3.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
-      "num": "10_4",
-      "title": "第十条の四",
-      "caption": "（免税手続カウンターにおいて作成された記録の保存）",
-      "elm": "Mp-At_10_4",
-      "file": "articles/At_10_4.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
-      "num": "10_5",
-      "title": "第十条の五",
-      "caption": "（承認送信事業者による購入記録情報の提供方法等）",
-      "elm": "Mp-At_10_5",
-      "file": "articles/At_10_5.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
-      "num": "10_6",
-      "title": "第十条の六",
-      "caption": "（承認送信事業者が提供した購入記録情報の保存）",
-      "elm": "Mp-At_10_6",
-      "file": "articles/At_10_6.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
-      "num": "10_7",
-      "title": "第十条の七",
-      "caption": "（承認送信事業者の承認申請書の記載事項等）",
-      "elm": "Mp-At_10_7",
-      "file": "articles/At_10_7.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
-      "num": "10_8",
-      "title": "第十条の八",
-      "caption": "（臨時販売場を設置しようとする事業者に係る承認申請書の記載事項等）",
-      "elm": "Mp-At_10_8",
-      "file": "articles/At_10_8.md",
-      "breadcrumb": "第一章　総則"
-    },
-    {
-      "num": "10_9",
-      "title": "第十条の九",
-      "caption": "（臨時販売場の届出書の記載事項等）",
-      "elm": "Mp-At_10_9",
-      "file": "articles/At_10_9.md",
       "breadcrumb": "第一章　総則"
     },
     {
