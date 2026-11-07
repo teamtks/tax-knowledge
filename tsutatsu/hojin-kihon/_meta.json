@@ -3,8 +3,8 @@
   "名称": "法人税基本通達",
   "略称": "法基通",
   "root": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/01.htm",
-  "page_count": 258,
-  "item_count": 1364,
+  "page_count": 259,
+  "item_count": 1370,
   "truncated": false,
   "出典": "国税庁 法令解釈通達",
   "利用条件": "通達は著作権法13条2号により著作権の目的とならない。国税庁サイトは公共データ利用規約（第1.0版）に準拠。",
@@ -8802,13 +8802,6 @@
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_03.htm"
     },
     {
-      "num": "18-2-5の7",
-      "caption": "（取戻繰延税金負債に相当する金額から除かれる金額を算定する場合における有形資産の範囲）",
-      "heading": "第3款　構成会社等に係る再計算国別国際最低課税額",
-      "file": "items/18-2-5の7.md",
-      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_03.htm"
-    },
-    {
       "num": "18-2-6",
       "caption": "（構成会社等が特定多国籍企業グループ等に属さないこととなった場合の再計算繰越国別調整後対象租税額）",
       "heading": "第3款　構成会社等に係る再計算国別国際最低課税額",
@@ -8816,10 +8809,52 @@
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_03.htm"
     },
     {
+      "num": "18-2-6の2",
+      "caption": "（特定資産に係る償却費の額の意義）",
+      "heading": "第3款の2　国別特別税額控除等相当額がある場合の国別実効税率等の計算の特例",
+      "file": "items/18-2-6の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_03_2.htm"
+    },
+    {
+      "num": "18-2-6の3",
+      "caption": "（特別給付付き税額控除等相当額がある場合の被配分当期対象租税額の計算）",
+      "heading": "第3款の2　国別特別税額控除等相当額がある場合の国別実効税率等の計算の特例",
+      "file": "items/18-2-6の3.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_03_2.htm"
+    },
+    {
+      "num": "18-2-6の4",
+      "caption": "（特別税額控除等相当額の計算）",
+      "heading": "第3款の2　国別特別税額控除等相当額がある場合の国別実効税率等の計算の特例",
+      "file": "items/18-2-6の4.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_03_2.htm"
+    },
+    {
+      "num": "18-2-6の5",
+      "caption": "（支出した金額を超える部分の金額に含まれないものの例示）",
+      "heading": "第3款の2　国別特別税額控除等相当額がある場合の国別実効税率等の計算の特例",
+      "file": "items/18-2-6の5.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_03_2.htm"
+    },
+    {
+      "num": "18-2-6の6",
+      "caption": "（有形資産の数量その他これに準ずるものの例示）",
+      "heading": "第3款の2　国別特別税額控除等相当額がある場合の国別実効税率等の計算の特例",
+      "file": "items/18-2-6の6.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_03_2.htm"
+    },
+    {
       "num": "18-2-7",
       "caption": "（無国籍構成会社等における過去対象会計年度に係る対象租税の額が減少した場合の意義）",
       "heading": "第4款　無国籍会社等に係る再計算国際最低課税額",
       "file": "items/18-2-7.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_04.htm"
+    },
+    {
+      "num": "18-2-7の2",
+      "caption": "（取戻繰延税金負債に相当する金額から除かれる金額を算定する場合における有形資産の範囲）",
+      "heading": "第4款　無国籍会社等に係る再計算国際最低課税額",
+      "file": "items/18-2-7の2.md",
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_02_04.htm"
     },
     {
@@ -8949,6 +8984,13 @@
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_04_04.htm"
     },
     {
+      "num": "18-4-5の2",
+      "caption": "（特別給付付き税額控除等相当額がある場合の被配分当期対象租税額の計算）",
+      "heading": "第4款の2　国別特別税額控除等相当額がある場合の国別実効税率等の計算の特例",
+      "file": "items/18-4-5の2.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_04_04_2.htm"
+    },
+    {
       "num": "18-4-6",
       "caption": "（共同支配会社等が共同支配会社等グループに属さないこととなった場合の繰越対象帰属額に準ずる金額として合理的な方法により計算した金額）",
       "heading": "第５款　共同支配会社等に係る繰越控除帰属額",
@@ -8971,9 +9013,16 @@
     },
     {
       "num": "18-4-9",
-      "caption": "（課税標準国内最低課税額の円換算）",
+      "caption": "（構成会社等に係る当期グループ国内最低課税額等の円換算）",
       "heading": "第８款　その他",
       "file": "items/18-4-9.md",
+      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_04_08.htm"
+    },
+    {
+      "num": "18-4-10",
+      "caption": "（共同支配会社等に係る当期グループ国内最低課税額等の円換算）",
+      "heading": "第８款　その他",
+      "file": "items/18-4-10.md",
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/18/18_04_08.htm"
     },
     {
@@ -9549,13 +9598,6 @@
       "heading": "第９節　国際最低課税残余額",
       "file": "items/20-9-1.md",
       "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/20a/20_09.htm"
-    },
-    {
-      "num": "20-10-1",
-      "caption": "（課税標準国内最低課税額の円換算）",
-      "heading": "第10節　国内最低課税額",
-      "file": "items/20-10-1.md",
-      "source": "https://www.nta.go.jp/law/tsutatsu/kihon/hojin/20a/20_10.htm"
     }
   ]
 }
